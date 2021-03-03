@@ -1,32 +1,28 @@
 # BetterLanguages
-Better Languages Translation for Among Us. 
+Better Languages Translation for Among Us :
 - Even Custom Translations Supported !
 - Renaming tasks or rooms how ever you want ! 
-- **Even the Exile Message can be customized !**
+- *Even the Exile Message can be customized !*
 
+##### *THIS MOD IS A CLIENT SIDE MOD ! NO NEED FOR EVERYONE TO HAVE IT*
 
 # How to install : 
 
-### First Method : Easy and simple
-
+## First Method : Easy and simple
 **step 1** : Download the Zip file in the release section ([latest Zip version]())
 
 **step 2** : Extract the Zip file inside your Among Us Folder (like any other mod)
 
 **step 3** : **Done !** Start Game and Enjoy sweet sweet customable translations !
 
-### Second Method : Multiple Mods install
+ 
 
+## Second Method : Multiple Mods install
 **step 1** : Download the Dll file in the release section ([latest Dll version]())
 
 **step 2** : Place the Dll file inside your BepInEx Plugin Folder (`Among Us/BepInEx/plugins`)
 
 **step 3** : **Done !** Start Game and Enjoy sweet sweet customable translations !
-
-***THIS MOD IS A CLIENT SIDE MOD ! NO NEED FOR EVERYONE TO HAVE IT***
-
-
-
 
 
 # Create your own custom Language/Texts !!!:
