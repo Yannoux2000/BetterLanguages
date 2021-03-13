@@ -7,6 +7,9 @@
 
     <Description>Mod for having More and fuller translation support for among us</Description>
     <Authors>inXS212</Authors>
+    <RepositoryUrl>https://github.com/inXS212/BetterLanguages</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/inXS212/BetterLanguages</PackageProjectUrl>
+    <RepositoryType>Github</RepositoryType>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(GamePlatform)' == 'Steam'">
