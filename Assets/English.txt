@@ -1,0 +1,684 @@
+KEY ID	English (source)
+LocalButton	Local
+OnlineButton	Online
+HowToPlayButton	How To Play
+FreePlayButton	Freeplay
+PublicHeader	Public
+PrivateHeader	Private
+HostHeader	Host
+ExitButton	Exit
+BackButton	Back
+AvailableGamesLabel	Available Games
+CreateGameButton	Create Game
+FindGameButton	Find Game
+EnterCode	Enter Code
+GhostIgnoreTasks	You're dead. Enjoy the chaos.
+GhostDoTasks	You're dead. Finish your tasks to win.
+TotalTasksCompleted	Total tasks completed
+GhostImpostor	You're dead. You can still sabotage.
+ImpostorTask	Sabotage and kill everyone.
+FakeTasks	Fake Tasks:
+TaskComplete	Task Completed!
+ExileTextSP	{0} was The Impostor.
+ExileTextSN	{0} was not The Impostor.
+ExileTextPP	{0} was An Impostor.
+ExileTextPN	{0} was not An Impostor.
+NoExileSkip	No one was ejected. (Skipped)
+NoExileTie	No one was ejected. (Tie)
+ExileTextNonConfirm	{0} was ejected.
+ImpostorsRemainS	{0} Impostor remains.
+ImpostorsRemainP	{0} Impostors remain.
+Hallway	Hallway
+Engines	Engines
+UpperEngine	Upper Engine
+Cafeteria	Cafeteria
+Weapons	Weapons
+Reactor	Reactor
+Security	Security
+MedBay	MedBay
+LifeSupp	O2
+Nav	Navigation
+LowerEngine	Lower Engine
+Electrical	Electrical
+Admin	Admin
+Storage	Storage
+Shields	Shields
+Comms	Communications
+Decontamination	Decontamination
+Launchpad	Launchpad
+LockerRoom	Locker Room
+Laboratory	Laboratory
+Balcony	Balcony
+Office	Office
+Greenhouse	Greenhouse
+DivertPowerTo	Divert Power to {0}
+AcceptDivertedPower	Accept Diverted Power
+SubmitScan	Submit Scan
+PrimeShields	Prime Shields
+FuelEngines	Fuel Engines
+ChartCourse	Chart Course
+StartReactor	Start Reactor
+SwipeCard	Swipe Card
+ClearAsteroids	Clear Asteroids
+DownloadData	Download Data
+UploadData	Upload Data
+InspectSample	Inspect Sample
+EmptyChute	Empty Chute
+EmptyGarbage	Empty Garbage
+AlignEngineOutput	Align Engine Output
+FixWiring	Fix Wiring
+CalibrateDistributor	Calibrate Distributor
+UnlockManifolds	Unlock Manifolds
+ResetReactor	Reactor Meltdown in
+FixLights	Fix Lights
+CleanO2Filter	Clean O2 Filter
+FixComms	Comms Sabotaged
+RestoreOxy	Oxygen Depleted in
+StabilizeSteering	Stabilize Steering
+AssembleArtifact	Assemble Artifact
+SortSamples	Sort Samples
+MeasureWeather	Measure Weather
+EnterIdCode	Enter Id Code
+BuyBeverage	Buy Beverage
+ProcessData	Process Data
+NumImpostorsS	There is [FF1919FF]1 Impostor[] among us
+NumImpostorsP	There are [FF1919FF]{0} Impostors[] among us
+Crewmate	Crewmate
+Impostor	Impostor
+Victory	Victory
+Defeat	Defeat
+CrewmatesDisconnected	Most Crewmates\nDisconnected
+ImpostorDisconnected	Impostor Disconnected
+PickAnomaly	Pick Anomaly
+WaterPlantsGetCan	Watering Can Get!
+AuthOfficeOkay	Office OK
+AuthCommsOkay	Comms OK
+AuthOfficeActive	Office ACTIVE
+AuthCommsActive	Comms ACTIVE
+AuthOfficeNotActive	Office NOT ACTIVE
+AuthCommsNotActive	Comms NOT ACTIVE
+SecLogEntry	{0} passed the {1} sensor
+LogNorth	North
+LogSouthEast	Southeast
+LogSouthWest	Southwest
+EnterName	Enter Name
+SwipeCardPleaseInsert	Please insert card
+SwipeCardPleaseSwipe	Please swipe card
+SwipeCardBadRead	Bad read. Try again.
+SwipeCardTooFast	Too fast. Try again.
+SwipeCardTooSlow	Too slow. Try again.
+SwipeCardAccepted	Accepted. Thank you.
+ReactorHoldToStop	Hold to stop meltdown
+ReactorWaiting	Waiting for second user
+ReactorNominal	Reactor Nominal
+MeetingWhoIsTitle	Who Is The Impostor?
+MeetingVotingBegins	Voting Begins In: {0}s
+MeetingVotingEnds	Voting Ends In: {0}s
+MeetingVotingResults	Voting Results
+MeetingProceeds	Proceeding In: {0}s
+MeetingHasVoted	{0} has voted. {1} remaining.
+HowToPlayText1	Among Us is a game of teamwork and betrayal.\n\nPlayers are either Crewmates or an Impostor.
+HowToPlayText2	Play with 4 to 10 players online or via local WiFi!
+HowToPlayText41	When hosting a game. you have control over how the game plays.
+HowToPlayText42	Firstly, determine who you want to play with!\n\nIf you want to play with friends online, set to "private" and share the room code.\n\nIf you want to play with others from all around the world, set to "public".
+HowToPlayText43	Want to play with more tasks? How about faster walk speed? More Impostors? As host, you can change these settings. Be sure to confirm the changes with your fellow players.
+HowToPlayText44	If someone is being rude and/or spamming, hosts can temporarily kick players as a warning or ban players from the specific online room.
+HowToPlayTextMap	Players have access to a personal map to help them navigate the ship.
+HowToPlayTextCrew1	Objective: Fill Group Task Bar or Discover the Impostor.
+HowToPlayTextCrew2	Complete tasks to fill gauge.
+HowToPlayTextCrew3	React to Impostor's Sabotage.
+HowToPlayTextCrew4	Call emergency meeting when Impostor found.
+HowToPlayTextCrew5	Report dead bodies.
+HowToPlayTextCrew6	Check Admin Map and Security for suspicious activity.
+HowToPlayTextImp1	Objective: Kill off the Crew.
+HowToPlayTextImp2	Blend in with the Crew.
+HowToPlayTextImp3	Sneak through vents.
+HowToPlayTextImp4	Pretend to run tasks.
+HowToPlayTextImp5	Sabotage the ship and confuse the Crew.
+HowToPlayTextImp6	Close doors and trap victims.
+HowToPlayTextImp7	Kill off the Crew between cooldowns.
+HowToPlayText5	While playing in person, no talking is allowed to keep the game fair between The Crew and The Impostor.\n\nIf a player is killed by The Impostor, they cannot talk until the game ends.\n\nGhosts still run their assigned tasks working towards a possible Crewmates win.
+HowToPlayText6	When someone reports a dead body or calls an emergency meeting, the Crew gathers to discuss what they know about the Impostor.\n\nPlayers can now talk openly about who they think the Imposter is and what information they have. When playing in person, Ghosts cannot talk as they already know who the Impostor is.\n\nImpostors will try to prove their innocence or accuse another crew member.
+HowToPlayText7	After discussion, vote for who you think is the Impostor.\n\nWhoever gets majority votes will be ejected from the ship, so vote wisely!\n\nIf you don't have enough information and have decided as a Crew, you can also skip voting to avoid ejecting someone innocent and gather more information.
+HowToPlayText81	Practice in Freeplay mode!
+HowToPlayText82	Set your own tasks as a Crew member or practice your Impostor killing strategies!
+SettingsGeneral	General
+SettingsControls	Controls
+SettingsSound	Sound
+SettingsGraphics	Graphics
+SettingsData	Data
+SettingsCensorChat	Censor Chat
+SettingsMusic	Music
+SettingsSFX	SFX
+SettingsOn	On
+SettingsOff	Off
+SettingsSendTelemetry	Send Telemetry
+SettingsControlMode	Control Mode
+SettingsTouchMode	Touch
+SettingsJoystickMode	Joystick
+SettingsKeyboardMode	Mouse+Keyboard
+SettingsFullscreen	Fullscreen
+SettingsVSync	VSync
+SettingsResolution	Resolution
+SettingsApply	Apply
+SettingsPersonalizeAds	Personalize Ads
+SettingsLanguage	Language
+SettingsJoystickSize	Size
+SettingsMouseMode	Mouse
+MatchMapName	Map:
+MatchLanguage	Chat:
+MatchImpostors	Impostors:
+MatchMaxPlayers	Max Players:
+Cancel	Cancel
+Confirm	Confirm
+PlayerColor	Color
+PlayerHat	Hat
+PlayerSkin	Skin
+PlayerPet	Pet
+GameSettings	Game
+GameRecommendedSettings	Recommended Settings
+GameCustomSettings	Custom Settings
+GameMapName	Map
+GameNumImpostors	# Impostors
+GameNumMeetings	# Emergency Meetings
+GameDiscussTime	Discussion Time
+GameVotingTime	Voting Time
+GamePlayerSpeed	Player Speed
+GameCrewLight	Crewmate Vision
+GameImpostorLight	Impostor Vision
+GameKillCooldown	Kill Cooldown
+GameKillDistance	Kill Distance
+GameCommonTasks	# Common Tasks
+GameLongTasks	# Long Tasks
+GameShortTasks	# Short Tasks
+GameEmergencyCooldown	Emergency Cooldown
+GameSecondsAbbrev	{0}s
+GameConfirmImpostor	Confirm Ejects
+GameVisualTasks	Visual Tasks
+GameAnonymousVotes	Anonymous Votes
+GameTaskBarMode	Task Bar Updates
+SettingNormalTaskMode	Always
+SettingMeetingTaskMode	Meetings
+SettingInvisibleTaskMode	Never
+Limit	Limit
+RoomCode	Code
+LeaveGame	Leave Game
+ReturnToGame	Return To Game
+LocalHelp	Connection trubz?\n\n● Make sure everyone is connected to the same WiFi name\n● Make sure everyone has the same version (in the upper left)\n● Make sure your WiFi's signal is strong\n● Sometimes another person hosting helps\n● Sometimes restarting the app helps...\n● Sometimes restarting your phone helps...\n● Still having problems? Let us know on our discord!
+OnlineHelp	How does this work?\n\n● Hosting a game gives you a game code near the start button.\n● Share the game code with friends to create a private room.\n● Or tap "Private" to make the room public for "Find Game".\n● The host can ban or kick players whenever chat is available.\n● Still having problems? Let us know on our Discord!
+EmergencyCount	CREWMEMBER {0} HAS\n\n\n\nEMERGENCY MEETINGS LEFT
+EmergencyNotReady	CREWMATES MUST WAIT\n\n\n\nBEFORE NEXT EMERGENCY
+EmergencyDuringCrisis	EMERGENCY MEETINGS CANNOT\nBE CALLED DURING CRISES
+EmergencyRequested	EMERGENCY MEETING REQUESTED\nWAITING FOR HOST
+AdPolicyTitle	Advertisement Policy
+AdPolicyText	Can we use your personal data to tailor ads for you? If you click yes, our advertising partners such as Google AdMob and Unity Ads will automatically collect data and use device identifiers and cookies for ad personalization. If you click no, you may still see non-personalized ads. To remove all ads, purchase the no-ad upgrade [httpstore]here[], and you and your friends will get no ads whenever you host! To learn more about our and our advertising partners' privacy practices, please see our [https://innersloth.com/privacy.php]Privacy Policy[]. You can change your decision at any time in the settings menu under "Data".
+Accept	Accept
+RemoveAds	Remove Ads
+PlainYes	Yes
+PlainNo	No
+PrivacyPolicyTitle	Privacy Policy
+PrivacyPolicyText	Innersloth processes personal data for Among Us. Please read our [https://innersloth.com/privacy.php]Privacy Policy[] to learn more about our privacy practices. You can manage your personal data settings for Among Us under "Data".
+ManageDataButton	Manage Data Collection
+UnderstandButton	I Understand
+WaterPlants	Water Plants
+WeatherEta	ETA: {0}s
+WeatherComplete	Complete
+RunDiagnostics	Run Diagnostics
+SettingShort	Short
+SettingMedium	Medium
+SettingLong	Long
+SamplesPress	Press To Start
+SamplesAdding	Adding Reagent
+SamplesSelect	Select Anomaly
+SamplesThanks	Thank you!
+SamplesComplete	Test Complete
+AstDestroyed	Destroyed: {0}
+TaskTestTitle	Task Tester 2000
+BeginDiagnostics	Begin Diagnostics
+UserLeftGame	{0} left the game.
+GameStarting	Starting in {0}
+ChatRateLimit	Too fast. Wait {0} seconds
+Tasks	Tasks
+MedscanRequested	Scan Requested
+MedscanWaitingFor	Waiting for {0}
+MedscanCompleted	Scan Complete!
+MedscanCompleteIn	Scan Complete in {0}
+StatsTitle	Statistics
+StatsBodiesReported	Bodies Reported:\t
+StatsEmergenciesCalled	Emergencies Called:\t
+StatsTasksCompleted	Tasks Completed:\t
+StatsAllTasksCompleted	All Tasks Completed:\t
+StatsSabotagesFixed	Sabotages Fixed:\t
+StatsImpostorKills	Impostor Kills:\t\t
+StatsTimesMurdered	Times Murdered:\t
+StatsTimesEjected	Times Ejected:\t\t
+StatsCrewmateStreak	Crewmate Streak:\t
+StatsGamesImpostor	Times Impostor:\t
+StatsGamesCrewmate	Times Crewmate:\t
+StatsGamesStarted	Games Started:\t
+StatsGamesFinished	Games Finished:\t
+StatsImpostorVoteWins	Impostor Vote Wins:\t
+StatsImpostorKillsWins	Impostor Kill Wins:\t
+StatsImpostorSabotageWins	Impostor Sabotage Wins:\t
+StatsCrewmateVoteWins	Crewmate Vote Wins:\t
+StatsCrewmateTaskWins	Crewmate Task Wins:\t
+MonitorOxygen	Monitor Tree
+StoreArtifacts	Store Artifacts
+FillCanisters	Fill Canisters
+InsertKeys	Insert Keys
+ResetSeismic	Reset Seismic Stabilizers
+SeismicHoldToStop	Hold to Activate Seismic Stabilizer
+SeismicNominal	Seismic Activity Nominal
+ScanBoardingPass	Scan Boarding Pass
+FixWeatherNode	Fix Weather Node
+OpenWaterways	Open Waterways
+ReplaceWaterJug	Replace Water Jug
+RepairDrill	Repair Drill
+AlignTelescope	Align Telescope
+RecordTemperature	Record Temperature
+RebootWifi	Reboot Wifi
+WifiRebootRequired	Reboot Required
+WifiPleaseWait	Please Wait
+WifiPleaseReturnIn	Please Return In {0}
+WifiPleasePowerOn	Please Power On
+WifiRebootComplete	Reboot Complete
+Outside	Outside
+Dropship	Dropship
+Decontamination2	Decontamination
+Specimens	Specimen Room
+BoilerRoom	Boiler Room
+GameOverImpostorDead	Normally The Crew would have just won because The Impostor is dead. For free play, we revive everyone instead.
+GameOverImpostorKills	Normally The Impostor would have just won because The Crew can no longer win. For free play, we revive everyone instead.
+GameOverTaskWin	Normally The Crew would have just won because the task bar is full. For free play, we issue new tasks instead.
+GameOverSabotage	Normally The Impostor would have just won because of the critical sabotage. Instead we just shut it off.
+HowToPlayText2Switch	Play with 4 to 10 players online with your Nintendo Switch Online membership or via local Wi-Fi!!
+VentDirection	Vent Direction
+VentMove	Move through Vent
+MenuNavigate	Navigate
+NsoError	Could not connect to network.
+ErrorServerOverload	The Among Us servers are overloaded.\r\n\r\nSorry! Please try again later!
+ErrorIntentionalLeaving	You may not join another game for another {0} minutes after intentionally disconnecting.
+ErrorFocusLost	You were disconnected because Among Us was suspended by another app.
+ErrorBanned	You were banned from {0}.\r\n\r\nYou cannot rejoin that room.
+ErrorKicked	You were kicked from {0}.\r\n\r\nYou can rejoin if the room hasn't started.
+ErrorBannedNoCode	You were banned from the room.\r\n\r\nYou cannot rejoin that room.
+ErrorKickedNoCode	You were kicked from the room.\r\n\r\nYou can rejoin if the room hasn't started.
+ErrorHacking	You were banned for hacking.\r\n\r\nPlease stop.
+ErrorFullGame	The game you tried to join is full.\r\n\r\nCheck with the host to see if you can join next round.
+ErrorStartedGame	The game you tried to join already started.\r\n\r\nCheck with the host to see if you can join next round.
+ErrorNotFoundGame	Could not find the game you're looking for.
+ErrorInactivity	The game server stopped this game. Possibly due to inactivity.
+ErrorGenericOnlineDisconnect	You disconnected from the server.\r\nIf this happens often, check your network strength.\r\nThis may also be a server issue.
+ErrorGenericLocalDisconnect	You disconnected from the host.\r\n\r\nIf this happens often, check your WiFi strength.
+ErrorInvalidName	Game server refused username: {0}
+ErrorUnknown	An unknown error disconnected you from the server.
+ErrorIncorrectVersion	You are running an older version of the game.\r\n\r\nPlease update to play with others.
+	
+ServerNA	North America
+ServerEU	Europe
+ServerAS	Asia
+ServerSA	South America
+LangEnglish	English
+LangFrench	Français
+LangItalian	Italiano
+LangGerman	Deutsch
+LangSpanish	Español
+LangSpanishLATAM	Español (Latinoamérica)
+LangBrazPort	Português (Brasil)
+LangPort	Português
+LangRussian	Русский
+LangJapanese	日本語
+LangKorean	한국어
+LangDutch	Nederlands
+LangFilipino	Bisaya
+PlayerName	Player
+MyTablet	My tablet
+Headquarters	Headquarters
+DownloadTestEstTimeS	Estimated time: {0}s
+DownloadTestEstTimeMS	Estimated time: {0}m {1}s
+DownloadTestEstTimeHMS	Estimated time: {0}hr {1}m {2}s
+DownloadTestEstTimeDHMS	Estimated time: {0}d {1}hr {2}m {3}s
+DownloadComplete	Complete
+GrabCoffee	GO GRAB A COFFEE
+TakeBreak	TAKE A BREAK
+DontNeedWait	YOU DON'T NEED TO WAIT
+DoSomethingElse	GO DO SOMETHING ELSE
+NodeTB	Node_TB
+NodeIRO	Node_IRO
+NodeGI	Node_GI
+NodePD	Node_PD
+NodeCA	Node_CA
+NodeMLG	Node_MLG
+Vending	VENDING
+OtherLanguage	Other
+ImposterAmtAny	Any
+	
+VitalsORGN	ORGN
+VitalsBLUE	BLUE
+VitalsRED	RED
+VitalsBRWN	BRWN
+VitalsGRN	GRN
+VitalsPINK	PINK
+VitalsWHTE	WHTE
+VitalsYLOW	YLOW
+VitalsBLAK	BLAK
+VitalsPURP	PURP
+VitalsCYAN	CYAN
+VitalsLIME	LIME
+ColorOrange	ORANGE
+ColorBlue	BLUE
+ColorRed	RED
+ColorBrown	BROWN
+ColorGreen	GREEN
+ColorPink	PINK
+ColorWhite	WHITE
+ColorYellow	YELLOW
+ColorBlack	BLACK
+ColorPurple	PURPLE
+ColorCyan	CYAN
+ColorLime	LIME
+MedID	ID:
+MedC	C:
+MedHT	HT:
+MedBT	BT:
+MedWT	WT:
+MedETA	ETA {0}
+MedHello	HELLO!
+LobbySizeWarning	Among Us is playable with 4 players, but 5 or more players is recommended.\n\n4 player games will end very quickly and the impostor will often win.
+Okay	Okay
+OkayDontShow	Ok, don't show this
+Nevermind	Nevermind
+CamEast	East
+CamCentral	Central
+CamNortheast	Northeast
+CamSouth	South
+CamSouthwest	Southwest
+CamNorthwest	Northwest
+LoadingFailed	Loading Failed:
+PetFailFetchData	Couldn't fetch pet data
+BadResult	BAD RESULT
+More	{0} MORE
+Processing	Processing
+ExitGame	Exit Game
+WaitingForHost	Waiting For Host
+LeftGameError	{0} left the game due to error.
+PlayerWasBannedBy	{0} was banned by {1}
+PlayerWasKickedBy	{0} was kicked by {1}
+Dummy	Dummy
+Bad	BAD
+Status	Status: 
+Fine	FINE
+OK	OK
+SecondsAbbv	{0}s
+PetTryOn	Try something on!
+DataPolicyWhat	What Is Collected?
+	
+	
+	
+VaultRoom	Vault
+Cockpit	Cockpit
+Armory	Armory
+Kitchen	Kitchen
+ViewingDeck	Viewing Deck
+HallOfPortraits	Hall of Portraits
+Medical	Medical
+CargoBay	Cargo Bay
+Ventilation	Ventilation
+Showers	Showers
+Engine	Engine Room
+Brig	Brig
+MeetingRoom	Meeting Room
+Records	Records
+Lounge	Lounge
+GapRoom	Gap Room
+MainHall	Main Hall
+	
+PolishRuby	Polish Ruby
+ResetBreakers	Reset Breakers
+Decontaminate	Decontaminate
+MakeBurger	Make Burger
+UnlockSafe	Unlock Safe
+SortRecords	Sort Records
+PutAwayPistols	Put Away Pistols
+PutAwayRifles	Put Away Rifles
+FixShower	Fix Shower
+CleanToilet	Clean Toilet
+DressMannequin	Dress Mannequin
+PickUpTowels	Pick Up Towels
+RewindTapes	Rewind Tapes
+StartFans	Start Fans
+DevelopPhotos	Develop Photos
+GetBiggolSword	Get Biggol Sword
+StopCharles	Avert Crash Course
+	
+RevealCode	Reveal Code
+DirtyHeader	DIRTY
+AuthLeftOkay	Left Side OK
+AuthRightOkay	Right Side OK
+AuthLeftActive	Left Side ACTIVE
+AuthRightActive	Right Side ACTIVE
+AuthLeftNotActive	Left Side NOT ACTIVE
+AuthRightNotActive	Right Side NOT ACTIVE
+EngagementScreen	Press any button to start.
+DeleteButton	Delete
+QuickChat	Quick Chat
+QCLocationLaptop	Laptop
+QCLocationSkeld	Skeld
+QCLocationMira	Mira 
+QCLocationPolus	Polus
+QCSystemsStart	Start
+QCSystemsKick	Kick
+QCCrewI	I
+QCCrewMe	Me
+QCCrewNoOne	No One
+QCAccAKilledB	{0} killed {1}
+QCAccAKilledBNeg	{0} didn't kill {1}
+QCAccAIsSuspicious	{0} is suspicious
+QCAccAIsSuspiciousNeg	{0} is good
+QCAccASawBVent	{0} saw {1} vent
+QCAccASawBVentNeg	{0} never saw {1} vent
+QCAccAWasChasingB	{0} was chasing {1}
+QCAccAWasChasingBNeg	{0} wasn't chasing {1}
+QCAccAIsLying	{0} is lying
+QCAccAIsLyingNeg	{0} is telling the truth
+QCAccVoteA	vote {0}
+QCAccVoteANeg	don't vote {0}
+QCAccADidntReport	{0} didn't report the body
+QCResYes	Yes
+QCResNo	No
+QCResDontKnow	I don't know
+QCResDontKnowNeg	Maybe
+QCResAWas	{0} was
+QCResAWasNeg	{0} wasn't
+QCResADid	{0} did
+QCResADidNeg	{0} didn't
+QCResVote	Vote
+QCResVoteNeg	Skip vote
+QCResAWasAtB	{0} was at {1}
+QCResAWasAtBNeg	{0} wasn't at {1}
+QCResRip	rip
+QCResRipNeg	yeet
+QCResLies	lies
+QCResLiesNeg	okay
+QCQstWhere	where?
+QCQstWho	who?
+QCQstWhoWasWith	who was with {0}?
+QCQstWhatWasADoing	what was {0} doing?
+QCQstWhoFixedA	who fixed {0}?
+QCQstWhereWasA	where was {0}?
+QCQstBodyOrMeeting	Was this a dead body or an emergency meeting?
+QCStaASawB	{0} saw {1}
+QCStaAWasWithB	{0} was with {1}
+QCStaADidB	{0} did {1}
+QCStaASelfReported	{0} self reported
+QCStaDoubleKill	It was a double kill
+QCStaWasSelfReport	It was a self-report
+QCStaPleaseDoTasks	Please do your tasks
+QCStaBodyWasInA	The body was in {0}
+QCStaACalledMeeting	{0} called a meeting
+QCLocation	Location
+QCSystems	Systems
+QCCrew	Crew
+QCAccusation	Accusation
+QCResponse	Response
+QCQuestion	Question
+QCStatements	Statements
+ChatType	Chat Type
+QuickChatOnly	Quick Chat Only
+FreeChatOnly	Free Chat Only
+FreeOrQuickChat	Free or Quick Chat
+DateOfBirth	Date of Birth
+DateOfBirthEnter	Please enter your date of birth:
+Month	Month:
+Day	Day:
+Year	Year:
+January	January
+February	February
+March	March
+April	April
+May	May
+June	June
+July	July
+August	August
+September	September
+October	October
+November	November
+December	December
+Submit	Submit
+	
+QCAccAKilledB_QCCrewMe_ANY	I killed {1}
+QCAccAKilledB_QCCrewMe_QCCrewNoOne	I didn't kill anybody
+QCAccAKilledB_QCCrewMe_QCCrewMe	I killed myself
+QCAccAKilledB_ANY_QCCrewMe	{0} killed me
+QCAccAKilledB	{0} killed {1}
+QCAccAKilledB_ANY_QCCrewNoOne	{0} didn't kill anybody
+QCAccAKilledB_QCCrewNoOne_QCCrewMe	Nobody killed me
+QCAccAKilledB_QCCrewNoOne_ANY	Nobody killed {1}
+QCAccAKilledB_QCCrewNoOne_QCCrewNoOne	Nobody killed anybody
+QCAccAKilledBNeg_QCCrewMe_ANY	I didn't kill {1}
+QCAccAKilledBNeg_QCCrewMe_QCCrewNoOne	I didn't kill anybody
+QCAccAKilledBNeg_QCCrewMe_QCCrewMe	I didn't kill myself
+QCAccAKilledBNeg_ANY_QCCrewMe	{0} didn't kill me
+QCAccAKilledBNeg	{0} didn't kill {1}
+QCAccAKilledBNeg_ANY_QCCrewNoOne	{0} didn't kill anybody
+QCAccAKilledBNeg_QCCrewNoOne_QCCrewMe	No one didnt kill me
+QCAccAKilledBNeg_QCCrewNoOne_ANY	No one didn't kill {1}
+QCAccAKilledBNeg_QCCrewNoOne_QCCrewNoOne	No one didn't kill anybody
+QCAccAIsSuspicious_QCCrewMe	I am suspicious
+QCAccAIsSuspicious	{0} is suspicious
+QCAccAIsSuspicious_QCCrewNoOne	Nobody is suspicious
+QCAccAIsSuspiciousNeg_QCCrewMe	I am good
+QCAccAIsSuspiciousNeg	{0} is good
+QCAccAIsSuspiciousNeg_QCCrewNoOne	Everyone is bad
+QCAccASawBVent_QCCrewMe_ANY	I saw {1} vent
+QCAccASawBVent_QCCrewMe_QCCrewNoOne	I saw nobody vent
+QCAccASawBVent_QCCrewMe_QCCrewMe	I saw myself vent
+QCAccASawBVent_ANY_QCCrewMe	{0} saw me vent
+QCAccASawBVent	{0} saw {1} vent
+QCAccASawBVent_ANY_QCCrewNoOne	{0} saw nobody vent
+QCAccASawBVent_QCCrewNoOne_QCCrewMe	No one saw me vent
+QCAccASawBVent_QCCrewNoOne_ANY	No one saw {1} vent
+QCAccASawBVent_QCCrewNoOne_QCCrewNoOne	No one saw anybody vent
+QCAccASawBVentNeg_QCCrewMe_ANY	I never saw {1} vent
+QCAccASawBVentNeg_QCCrewMe_QCCrewNoOne	I never saw anybody vent
+QCAccASawBVentNeg_QCCrewMe_QCCrewMe	I never saw myself vent
+QCAccASawBVentNeg_ANY_QCCrewMe	{0} never saw me vent
+QCAccASawBVentNeg	{0} never saw {1} vent
+QCAccASawBVentNeg_ANY_QCCrewNoOne	{0} never saw anybody vent
+QCAccASawBVentNeg_QCCrewNoOne_QCCrewMe	No one ever saw me vent
+QCAccASawBVentNeg_QCCrewNoOne_ANY	No one ever saw {1} vent
+QCAccASawBVentNeg_QCCrewNoOne_QCCrewNoOne	No one ever saw anybody vent
+QCAccAWasChasingB_QCCrewMe_ANY	I was chasing {1}
+QCAccAWasChasingB_QCCrewMe_QCCrewNoOne	I was chasing nobody
+QCAccAWasChasingB_QCCrewMe_QCCrewMe	I was chasing myself
+QCAccAWasChasingB_ANY_QCCrewMe	{0} was chasing me
+QCAccAWasChasingB	{0} was chasing {1}
+QCAccAWasChasingB_ANY_QCCrewNoOne	{0} was chasing nobody
+QCAccAWasChasingB_QCCrewNoOne_QCCrewMe	No one was chasing me
+QCAccAWasChasingB_QCCrewNoOne_ANY	No one was chasing {1}
+QCAccAWasChasingB_QCCrewNoOne_QCCrewNoOne	No one was chasing anyone
+QCAccAWasChasingBNeg_QCCrewMe_ANY	I wasn't chasing {1}
+QCAccAWasChasingBNeg_QCCrewMe_QCCrewNoOne	I wasn't chasing anybody
+QCAccAWasChasingBNeg_QCCrewMe_QCCrewMe	I wasn't chasing myself
+QCAccAWasChasingBNeg_ANY_QCCrewMe	{0} wasn't chasing me
+QCAccAWasChasingBNeg	{0} wasn't chasing {1}
+QCAccAWasChasingBNeg_ANY_QCCrewNoOne	{0} wasn't chasing anybody
+QCAccAWasChasingBNeg_QCCrewNoOne_QCCrewMe	No one wasn't chasing me
+QCAccAWasChasingBNeg_QCCrewNoOne_ANY	No one wasn't chasing {1}
+QCAccAWasChasingBNeg_QCCrewNoOne_QCCrewNoOne	No one wasn't chasing anybody
+QCAccAIsLying_QCCrewMe	I am lying
+QCAccAIsLying	{0} is lying
+QCAccAIsLying_QCCrewNoOne	Nobody is lying
+QCAccAIsLyingNeg_QCCrewMe	I am telling the truth
+QCAccAIsLyingNeg	{0} is telling the truth
+QCAccAIsLyingNeg_QCCrewNoOne	No one is telling the truth
+QCAccVoteA_QCCrewMe	vote me
+QCAccVoteA	vote {0}
+QCAccVoteA_QCCrewNoOne	don't vote anybody out
+QCAccVoteANeg_QCCrewMe	don't vote me
+QCAccVoteANeg	don't vote {0}
+QCAccVoteANeg_QCCrewNoOne	don't vote anybody
+QCAccADidntReport_QCCrewMe	I didn't report the body
+QCAccADidntReport	{0} didn't report the body
+QCAccADidntReport_QCCrewNoOne	No one didn't report the body
+QCResAWas_QCCrewMe	I was
+QCResAWas	{0} was
+QCResAWas_QCCrewNoOne	Nobody was
+QCResAWasNeg_QCCrewMe	I wasn't
+QCResAWasNeg	{0} wasn't
+QCResAWasNeg_QCCrewNoOne	Nobody wasn't
+QCResADid_QCCrewMe	I did
+QCResADid	{0} did
+QCResADid_QCCrewNoOne	No one did
+QCResADidNeg_QCCrewMe	I didn't
+QCResADidNeg	{0} didn't
+QCResADidNeg_QCCrewNoOne	Nobody didn't
+QCResAWasAtB_QCCrewMe_ANY	I was at {1}
+QCResAWasAtB	{0} was at {1}
+QCResAWasAtB_QCCrewNoOne_ANY	No one was at {1}
+QCResAWasAtBNeg_QCCrewMe_ANY	I wasn't at {1}
+QCResAWasAtBNeg	{0} wasn't at {1}
+QCResAWasAtBNeg_QCCrewNoOne_ANY	No one wasn't at {1}
+QCQstWhoWasWith_QCCrewMe	who was with me?
+QCQstWhoWasWith	who was with {0}?
+QCQstWhoWasWith_QCCrewNoOne	who was with alone?
+QCQstWhatWasADoing_QCCrewMe	what was I doing?
+QCQstWhatWasADoing	what was {0} doing?
+QCQstWhatWasADoing_QCCrewNoOne	what was nobody doing?
+QCQstWhereWasA_QCCrewMe	where was I?
+QCQstWhereWasA	where was {0}?
+QCQstWhereWasA_QCCrewNoOne	where was nobody?
+QCStaASawB_QCCrewMe_ANY	I saw {1}
+QCStaASawB_QCCrewMe_QCCrewNoOne	I didn't see anybody
+QCStaASawB_QCCrewMe_QCCrewMe	I saw myself
+QCStaASawB_ANY_QCCrewMe	{0} saw me
+QCStaASawB	{0} saw {1}
+QCStaASawB_ANY_QCCrewNoOne	{0} didn't see anybody
+QCStaASawB_QCCrewNoOne_QCCrewMe	No one saw me
+QCStaASawB_QCCrewNoOne_ANY	No one saw {1}
+QCStaASawB_QCCrewNoOne_QCCrewNoOne	Nobody saw anyone
+QCStaAWasWithB_QCCrewMe_ANY	I was with {1}
+QCStaAWasWithB_QCCrewMe_QCCrewNoOne	I was with no one
+QCStaAWasWithB_QCCrewMe_QCCrewMe	I was with myself
+QCStaAWasWithB_ANY_QCCrewMe	{0} was with me
+QCStaAWasWithB	{0} was with {1}
+QCStaAWasWithB_ANY_QCCrewNoOne	{0} was with no one
+QCStaAWasWithB_QCCrewNoOne_QCCrewMe	No one was with me
+QCStaAWasWithB_QCCrewNoOne_ANY	No one was with {1}
+QCStaAWasWithB_QCCrewNoOne_QCCrewNoOne	No one was with anybody
+QCStaADidB_QCCrewMe_ANY	I did {1}
+QCStaADidB	{0} did {1}
+QCStaADidB_QCCrewNoOne_ANY	No one did {1}
+QCStaASelfReported_QCCrewMe	I self reported
+QCStaASelfReported	{0} self reported
+QCStaASelfReported_QCCrewNoOne	No one self reported
+QCStaACalledMeeting_QCCrewMe	I called a meeting
+QCStaACalledMeeting	{0} called a meeting
+QCStaACalledMeeting_QCCrewNoOne	No one called a meeting
+QCMore	MORE
+	
+	
+SecurityLogsSystem	Security Logs
+SecurityCamsSystem	Security Cams
+AdminMapSystem	Admin Map
+VitalsSystem	Vitals Monitor

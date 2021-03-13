@@ -1,0 +1,461 @@
+KEY ID	Spanish (LA)
+LocalButton	Local
+OnlineButton	En línea
+HowToPlayButton	Cómo jugar
+FreePlayButton	Modo libre
+PublicHeader	Pública
+PrivateHeader	Privada
+HostHeader	Organizar
+ExitButton	Salir
+BackButton	Atrás
+AvailableGamesLabel	Abiertas
+CreateGameButton	Crear partida
+FindGameButton	Busc. part.
+EnterCode	Código
+GhostIgnoreTasks	Moriste. Disfruta el caos.
+GhostDoTasks	Moriste. Termina las tareas para ganar.
+TotalTasksCompleted	Total tareas completadas
+GhostImpostor	Moriste. Todavía puedes sabotear.
+ImpostorTask	Sabotea y mátalos a todos.
+FakeTasks	Tareas falsas:
+TaskComplete	¡Tarea completada!
+ExileTextSP	{0} era el impostor.
+ExileTextSN	{0} no era el impostor.
+ExileTextPP	{0} era un impostor.
+ExileTextPN	{0} no era un impostor.
+NoExileSkip	No se eyectó a nadie. (Omisión)
+NoExileTie	No se eyectó a nadie. (Empate)
+ExileTextNonConfirm	Se eyectó a {0}.
+ImpostorsRemainS	Queda {0} impostor.
+ImpostorsRemainP	Quedan {0} impostores.
+Hallway	Corredor
+Engines	Motores
+UpperEngine	Motor superior
+Cafeteria	Cafetería
+Weapons	Armas
+Reactor	Reactor
+Security	Seguridad
+MedBay	Área médica
+LifeSupp	O2
+Nav	Navegación
+LowerEngine	Motor inferior
+Electrical	Electricidad
+Admin	Gestión
+Storage	Almacén
+Shields	Escudos
+Comms	Comunicaciones
+Decontamination	Descontaminación
+Launchpad	Lanzadera
+LockerRoom	Vestuarios
+Laboratory	Laboratorio
+Balcony	Balcón
+Office	Oficina
+Greenhouse	Invernadero
+DivertPowerTo	Desviar energía a {0}
+AcceptDivertedPower	Aceptar energía desviada
+SubmitScan	Enviar escaneo
+PrimeShields	Preparar escudos
+FuelEngines	Abastecer motores
+ChartCourse	Trazar curso
+StartReactor	Iniciar reactor
+SwipeCard	Pasar tarj.
+ClearAsteroids	Elim. asteroides
+DownloadData	Descargar datos
+UploadData	Cargar datos
+InspectSample	Examinar muestra
+EmptyChute	Vaciar vertidos
+EmptyGarbage	Vaciar basura
+AlignEngineOutput	Alinear salida motor
+FixWiring	Reparar cables
+CalibrateDistributor	Calibrar distribuidor
+UnlockManifolds	Desbloq. colectores
+ResetReactor	Fusión del reactor en
+FixLights	Reparar luces
+CleanO2Filter	Limpiar filtro O2
+FixComms	Comunicaciones saboteadas
+RestoreOxy	Oxígeno agotado en
+StabilizeSteering	Estabilizar dirección
+AssembleArtifact	Ensamblar artefacto
+SortSamples	Ordenar muestras
+MeasureWeather	Medir clima
+EnterIdCode	Introducir código ID
+BuyBeverage	Comprar bebida
+ProcessData	Procesar datos
+NumImpostorsS	Hay [FF1919FF]1 impostor[] entre nosotros.
+NumImpostorsP	Hay [FF1919FF]{0} impostores[] entre nosotros.
+Crewmate	Tripulante
+Impostor	Impostor
+Victory	Victoria
+Defeat	Derrota
+CrewmatesDisconnected	Muchos tripulantes\ndesconectados
+ImpostorDisconnected	Impostor desconectado
+PickAnomaly	Elegir diferencia
+WaterPlantsGetCan	¡Regadera obtenida!
+AuthOfficeOkay	Oficina OK
+AuthCommsOkay	Com. OK
+AuthOfficeActive	Oficina ACTIVA
+AuthCommsActive	Com. ACTIVAS
+AuthOfficeNotActive	Oficina INACTIVA
+AuthCommsNotActive	Comunic. INACTIVAS
+SecLogEntry	{0} pasó por el sensor {1}
+LogNorth	Norte
+LogSouthEast	Sudeste
+LogSouthWest	Sudoeste
+EnterName	Nombre
+SwipeCardPleaseInsert	Introduce la tarjeta
+SwipeCardPleaseSwipe	Pasa la tarjeta
+SwipeCardBadRead	Error. Otra vez.
+SwipeCardTooFast	Muy veloz. Otra vez.
+SwipeCardTooSlow	Muy lento. Otra vez.
+SwipeCardAccepted	Aceptada. Gracias.
+ReactorHoldToStop	Presiona para detenerlo
+ReactorWaiting	Esperando segundo usuario
+ReactorNominal	Reactor estable
+MeetingWhoIsTitle	¿Quién es el impostor?
+MeetingVotingBegins	Votación en: {0} s
+MeetingVotingEnds	Fin de votación en: {0} s
+MeetingVotingResults	Resultados
+MeetingProceeds	Sigue en: {0} s
+MeetingHasVoted	Votó {0}. Queda(n) {1}.
+HowToPlayText1	Among Us es un juego de trabajo en equipo y traición.\n\nLos jugadores son tripulantes o impostores.
+HowToPlayText2	Juega partidas de 4-10 jugadores en línea o por wifi local.
+HowToPlayText41	Cuando organizas una partida, controlas el modo de juego.
+HowToPlayText42	Primero, decides con quién quieres jugar.\n\nSi prefieres hacerlo con amigos en línea, elige Privada y comparte el código de la sala.\n\nSi quieres jugar con gente de todo el mundo, elige Pública.
+HowToPlayText43	¿Quieres jugar con más tareas? ¿Caminar más rápido? ¿Más impostores? Puedes cambiar la configuración si organizas la partida, pero confirma los cambios con los otros jugadores.
+HowToPlayText44	Si alguien es grosero o envía mensajes no deseados, los anfitriones pueden vetarlo durante un tiempo como advertencia o expulsarlo de la sala para siempre.
+HowToPlayTextMap	Los jugadores tienen acceso a un mapa personal que les ayuda a recorrer la nave.
+HowToPlayTextCrew1	Objetivo: llena la barra de tareas grupales y descubre al impostor.
+HowToPlayTextCrew2	Completa tareas y llena la barra.
+HowToPlayTextCrew3	Reacciona al sabotaje del impostor.
+HowToPlayTextCrew4	Reúne a todos si aparece el impostor.
+HowToPlayTextCrew5	Comunica las muertes.
+HowToPlayTextCrew6	Busca actividad sospechosa en el mapa de gestión y la seguridad.
+HowToPlayTextImp1	Objetivo: mata a la tripulación.
+HowToPlayTextImp2	Mézclate con la tripulación.
+HowToPlayTextImp3	Muévete por los ductos.
+HowToPlayTextImp4	Finge que haces tareas.
+HowToPlayTextImp5	Sabotea la nave y engaña a la tripulación.
+HowToPlayTextImp6	Cierra puertas y atrapa víctimas.
+HowToPlayTextImp7	Mata tripulantes entre recuperaciones.
+HowToPlayText5	Cuando juegas en persona, no se permite hablar. La partida debe ser justa para la tripulación y el impostor.\n\nSi el impostor mata a un jugador, este no puede hablar hasta el final de la partida.\n\nLos fantasmas siguen completando las tareas asignadas para ayudar a la tripulación.
+HowToPlayText6	Cuando alguien comunica una muerte o convoca a una reunión urgente, la tripulación se reúne para hablar de lo que sabe sobre el impostor.\n\nAllí pueden hablar de la supuesta identidad del impostor y de la información que tienen. Cuando juegas en persona, los fantasmas no pueden hablar porque saben quién es el impostor.\n\nLos impostores tratan de demostrar que son inocentes o acusan a otro tripulante.
+HowToPlayText7	Después de la charla, se vota por la identidad del impostor.\n\nSe expulsa de la nave a la persona elegida. Piensa bien antes de votar.\n\nSi la tripulación decide que no hay información suficiente, se puede omitir la votación para evitar la expulsión de alguien inocente y reunir más información.
+HowToPlayText81	Practica en modo libre
+HowToPlayText82	Configura las tareas como tripulante o practica estrategias letales como impostor.
+SettingsGeneral	General
+SettingsControls	Controles
+SettingsSound	Sonido
+SettingsGraphics	Gráficos
+SettingsData	Datos
+SettingsCensorChat	Censurar chat
+SettingsMusic	Música
+SettingsSFX	Efectos
+SettingsOn	Sí
+SettingsOff	No
+SettingsSendTelemetry	Enviar telemetría
+SettingsControlMode	Modo control
+SettingsTouchMode	Táctil
+SettingsJoystickMode	Joystick
+SettingsKeyboardMode	Mouse y teclado
+SettingsFullscreen	Completa
+SettingsVSync	Sinc. Vert.
+SettingsResolution	Resolución
+SettingsApply	Aplicar
+SettingsPersonalizeAds	Personalizar anun.
+SettingsLanguage	Idioma
+SettingsJoystickSize	Tamaño
+SettingsMouseMode	Mouse
+MatchMapName	Mapa:
+MatchLanguage	Chat:
+MatchImpostors	Impostores:
+MatchMaxPlayers	Máx. jug.:
+Cancel	Cancelar
+Confirm	Aceptar
+PlayerColor	Color
+PlayerHat	Gorro
+PlayerSkin	Aspecto
+PlayerPet	Mascota
+GameSettings	Partida
+GameRecommendedSettings	Config. recomendada
+GameCustomSettings	Config. especial
+GameMapName	Mapa
+GameNumImpostors	# impostores
+GameNumMeetings	# reuniones urgentes
+GameDiscussTime	Tiempo de discusión
+GameVotingTime	Votación
+GamePlayerSpeed	Velocidad del jugador
+GameCrewLight	Visión tripulante
+GameImpostorLight	Visión impostor
+GameKillCooldown	Tiempo entre eliminaciones
+GameKillDistance	Distancia de eliminaciones
+GameCommonTasks	# tareas comunes
+GameLongTasks	# tareas largas
+GameShortTasks	# tareas cortas
+GameEmergencyCooldown	Recup. reunión
+GameSecondsAbbrev	{0} s
+GameConfirmImpostor	Aceptar eyecc.
+GameVisualTasks	T. visuales
+GameAnonymousVotes	Votos anónimos
+GameTaskBarMode	Actualizar barra de tareas
+SettingNormalTaskMode	Siempre
+SettingMeetingTaskMode	Reunión
+SettingInvisibleTaskMode	Nunca
+Limit	Límite
+RoomCode	Código
+LeaveGame	Abandonar
+ReturnToGame	Regresar
+LocalHelp	¿Mala conexión?\n\n● Verifica que todos se conecten a la misma red wifi.\n● Verifica que todos tengan la misma versión (esquina superior izquierda).\n● Verifica la potencia de la señal wifi.\n● A veces todo mejora si otra persona organiza la partida.\n● Reinicia la aplicación o el teléfono.\n● ¿Aún tienes problemas? Háblanos en el canal de Discord. 
+OnlineHelp	¿Cómo funciona?\n\n● Cuando organizas una partida, obtienes un código junto al botón de inicio.\n● Compártelo con amigos para crear una sala privada.\n● O toca Privada para cambiar la sala a pública y usar Buscar partida.\n● La persona que organiza puede vetar o expulsar jugadores si el chat está disponible.\n● ¿Aún tienes problemas? Háblanos en el canal de Discord.
+EmergencyCount	EL TRIPULANTE {0} TIENE\n\n\n\nREUNIÓN(ES) URGENTE(S) RESTANTE(S)
+EmergencyNotReady	LA TRIPULACIÓN DEBE ESPERAR\n\n\n\nPARA LA PRÓXIMA REUNIÓN
+EmergencyDuringCrisis	NO SE PUEDEN HACER\nREUNIONES URGENTES DURANTE UNA CRISIS
+EmergencyRequested	REUNIÓN URGENTE SOLICITADA\nESPERANDO ORGANIZADOR
+AdPolicyTitle	Política de anuncios
+AdPolicyText	Among Us muestra anuncios de AdMob después de cada partida para que la aplicación sea gratis\nAdMob recaba datos para estos anuncios de forma predeterminada. También usa\ncookies, id de dispositivos y datos de geolocalización aproximados incluso para anuncios no personalizados.\nNo podemos desactivar esta acción y por eso recomendamos la compra de la versión sin anuncios (2 USD).\n\n\nSi la compras, tus amigos no verán anuncios cuando organices partidas.\nSi ya la compraste, abre la tienda\npara recuperar el recibo.
+Accept	Aceptar
+RemoveAds	Quitar anun.
+PlainYes	Sí
+PlainNo	No
+PrivacyPolicyTitle	Política de privacidad
+PrivacyPolicyText	Innersloth procesa información personal para Among Us. Lee la [https://innersloth.com/privacy.php]Política de privacidad[] para obtener más información. Puedes administrar los datos personales desde la configuración de Among Us en «Datos».
+ManageDataButton	Administrar recolección de datos
+UnderstandButton	Entiendo
+WaterPlants	Regar plantas
+WeatherEta	Fin: {0} s
+WeatherComplete	Completada
+RunDiagnostics	Hacer diagnóstico
+SettingShort	Corta
+SettingMedium	Media
+SettingLong	Larga
+SamplesPress	Pulsa e inicia
+SamplesAdding	Agreg. reactivo
+SamplesSelect	Elegir diferencia
+SamplesThanks	Gracias
+SamplesComplete	Prueba realizada
+AstDestroyed	Eliminados: {0}
+TaskTestTitle	Pruebatareas 2000
+BeginDiagnostics	Iniciar
+UserLeftGame	{0} abandonó la partida
+GameStarting	Inicia en {0}
+ChatRateLimit	Muy rápido. Espera {0} segundos.
+Tasks	Tareas
+MedscanRequested	Escaneo pedido
+MedscanWaitingFor	Esperando a {0}
+MedscanCompleted	Escaneo listo
+MedscanCompleteIn	Escaneo listo en {0}
+StatsTitle	Estadísticas
+StatsBodiesReported	Cuerpos hallados: \t
+StatsEmergenciesCalled	Emergencias: \t
+StatsTasksCompleted	Tareas hechas: \t
+StatsAllTasksCompleted	Todas las tareas hechas: \t
+StatsSabotagesFixed	Sabotajes reparados:\t
+StatsImpostorKills	Impostores eliminados: \t\t
+StatsTimesMurdered	Tus muertes:\t
+StatsTimesEjected	Tus eyecciones:\t\t
+StatsCrewmateStreak	Racha como tripulante:\t
+StatsGamesImpostor	Fuiste impostor:\t
+StatsGamesCrewmate	Fuiste tripulante:\t
+StatsGamesStarted	Partidas iniciadas:\t
+StatsGamesFinished	Partidas terminadas:\t
+StatsImpostorVoteWins	Victorias voto impostor:\t
+StatsImpostorKillsWins	Victorias elim. impostor:\t
+StatsImpostorSabotageWins	Victorias por sabotaje:\t
+StatsCrewmateVoteWins	Vic. voto tripulante:\t
+StatsCrewmateTaskWins	Vic. tarea tripulante:\t
+MonitorOxygen	Cuidar árbol
+StoreArtifacts	Guardar artefactos
+FillCanisters	Llenar envases
+InsertKeys	Insertar llaves
+ResetSeismic	Restablecer estabilizadores
+SeismicHoldToStop	Presiona para activar el estabilizador
+SeismicNominal	Actividad estable
+ScanBoardingPass	Escanear tarj. embarque
+FixWeatherNode	Reparar nodo clima
+OpenWaterways	Abrir acueductos
+ReplaceWaterJug	Cambiar tanque agua
+RepairDrill	Reparar taladro
+AlignTelescope	Alinear telescopio
+RecordTemperature	Registrar temperatura
+RebootWifi	Reinic. wifi
+WifiRebootRequired	Reinicio requerido
+WifiPleaseWait	Espera
+WifiPleaseReturnIn	Vuelve en {0}
+WifiPleasePowerOn	Enciende todo
+WifiRebootComplete	Reinicio listo
+Outside	Exterior
+Dropship	Transporte
+Decontamination2	Descontaminación
+Specimens	Sala especímenes
+BoilerRoom	Calderas
+GameOverImpostorDead	La tripulación hubiera ganado porque murió el impostor, pero en modo libre resucitan todos.
+GameOverImpostorKills	En este caso, el impostor hubiera ganado porque la tripulación ya no puede. En modo libre, resucitan todos.
+GameOverTaskWin	En este caso, la tripulación hubiera ganado porque se llenó la barra de tareas. En modo libre, se otorgan tareas nuevas.
+GameOverSabotage	En este caso, el impostor hubiera ganado por sabotaje crítico. En lugar de eso, se desactiva todo.
+HowToPlayText2Switch	¡Juega partidas de 4-10 jugadores en línea con la membresía de Nintendo Switch Online\n\n o a través de una red Wi-Fi!
+VentDirection	Dirección ductos
+VentMove	Usa los ductos
+MenuNavigate	Navegar
+NsoError	No fue posible conectarse a la red.
+ErrorServerOverload	Se sobrecargaron los servidores de Among Us.\r\n\r\nInténtalo de nuevo más tarde.
+ErrorIntentionalLeaving	No puedes unirte a otra partida durante {0} minutos porque te desconectaste de forma intencional.
+ErrorFocusLost	Se te desconectó porque otra aplicación suspendió Among Us.
+ErrorBanned	Te vetaron de {0}.\r\n\r\nNo puedes unirte de nuevo a la sala.
+ErrorKicked	Te expulsaron de {0}.\r\n\r\nPuedes unirte de nuevo si no se inició la sala.
+ErrorBannedNoCode	Te vetaron de la sala.\r\n\r\nNo puedes unirte de nuevo.
+ErrorKickedNoCode	Te expulsaron de la sala.\r\n\r\n. Puedes unirte de nuevo si aún no se inició.
+ErrorHacking	Te vetaron por hackear.\r\n\r\n. No lo hagas de nuevo.
+ErrorFullGame	Intentaste unirte a una partida llena.\r\n\r\nPregúntale al anfitrión si puedes unirte en la próxima ronda.
+ErrorStartedGame	Intentaste unirte a una partida iniciada.\r\n\r\nPregúntale al anfitrión si puedes unirte en la próxima ronda.
+ErrorNotFoundGame	No se encontró la partida que buscas.
+ErrorInactivity	El servidor detuvo la partida. Quizá sea por inactividad.
+ErrorGenericOnlineDisconnect	Se te desconectó del servidor.\r\nSi esto se repite, verifica la red.\r\nTambién puede ser un problema del servidor.
+ErrorGenericLocalDisconnect	Se te desconectó del anfitrión.\r\n\r\nSi esto se repite, verifica la red wifi.
+ErrorInvalidName	El servidor rechazó el nombre de usuario: {0}
+ErrorUnknown	Se te desconectó del servidor por un error desconocido.
+ErrorIncorrectVersion	Usas una versión anterior del juego.\r\n\r\nActualízalo para jugar con otros.
+	
+ServerNA	América del Norte
+ServerEU	Europa
+ServerAS	Asia
+ServerSA	América del Sur
+LangEnglish	English
+LangFrench	Français
+LangItalian	Italiano
+LangGerman	Deutsch
+LangSpanish	Español
+LangSpanishLATAM	Español (Latinoamérica)
+LangBrazPort	Português (Brasil)
+LangPort	Português
+LangRussian	Русский
+LangJapanese	日本語
+LangKorean	한국어
+LangDutch	Nederlands
+LangFilipino	Bisaya
+PlayerName	Jugador
+MyTablet	Mi tableta
+Headquarters	Cuartel
+DownloadTestEstTimeS	Tiempo estimado: {0} s
+DownloadTestEstTimeMS	Tiempo estimado: {0} m {1} s
+DownloadTestEstTimeHMS	Tiempo estimado: {0} h {1} m {2} s
+DownloadTestEstTimeDHMS	Tiempo estimado: {0} d {1} h {2} m {3} s
+DownloadComplete	Listo
+GrabCoffee	VE POR UNA BEBIDA
+TakeBreak	DESCANSA
+DontNeedWait	NO HACE FALTA ESPERAR
+DoSomethingElse	HAZ OTRA COSA
+NodeTB	Nodo_TB
+NodeIRO	Nodo_IRO
+NodeGI	Nodo_GI
+NodePD	Nodo_PD
+NodeCA	Nodo_CA
+NodeMLG	Nodo_MLG
+Vending	VENDIDO
+OtherLanguage	Otro
+ImposterAmtAny	1-3
+	
+VitalsORGN	NRJ
+VitalsBLUE	AZUL
+VitalsRED	ROJO
+VitalsBRWN	MARR
+VitalsGRN	VER
+VitalsPINK	ROSA
+VitalsWHTE	BLA
+VitalsYLOW	AMA
+VitalsBLAK	NEG
+VitalsPURP	MORA
+VitalsCYAN	CIAN
+VitalsLIME	LIMA
+ColorOrange	NARANJA
+ColorBlue	AZUL
+ColorRed	ROJO
+ColorBrown	MARRÓN
+ColorGreen	VERDE
+ColorPink	ROSA
+ColorWhite	BLANCO
+ColorYellow	AMARILLO
+ColorBlack	NEGRO
+ColorPurple	MORA
+ColorCyan	CIAN
+ColorLime	LIMA
+MedID	ID:
+MedC	C:
+MedHT	ALT:
+MedBT	GS:
+MedWT	PESO:
+MedETA	LLEGADA {0}
+MedHello	¡HOLA!
+LobbySizeWarning	Among Us se puede disfrutar con 4 jugadores, pero se recomiendan 5 o más.\n\nLas partidas de 4 jugadores terminan muy rápido y a menudo gana el impostor.
+Okay	Aceptar
+OkayDontShow	Aceptar y no mostrar
+Nevermind	No importa
+CamEast	Este
+CamCentral	Centro
+CamNortheast	Noreste
+CamSouth	Sur
+CamSouthwest	Sudoeste
+CamNorthwest	Noroeste
+LoadingFailed	Carga fallida:
+PetFailFetchData	datos de mascota inaccesibles
+BadResult	MAL RESULTADO
+More	+ {0}
+Processing	Procesando
+ExitGame	Salir
+WaitingForHost	Esperando anfitrión/a
+LeftGameError	{0} abandonó la partida debido a un error.
+PlayerWasBannedBy	{1} vetó a {0}.
+PlayerWasKickedBy	{1} expulsó a {0}.
+Dummy	Auxiliar
+Bad	MAL
+Status	ESTADO: 
+Fine	BIEN
+OK	SÍ
+SecondsAbbv	{0} s
+PetTryOn	¡Prueba algo!
+DataPolicyWhat	¿Qué se recaba?
+	
+	
+	
+VaultRoom	Bóveda
+Cockpit	Cabina
+Armory	Armería
+Kitchen	Cocina
+ViewingDeck	Mirador
+HallOfPortraits	Sala de retratos
+Medical	Enfermería
+CargoBay	Bodega
+Ventilation	Ventilación
+Showers	Duchas
+Engine	Sala de máquinas
+Brig	Celdas
+MeetingRoom	Sala de reuniones
+Records	Archivo
+Lounge	Salón
+GapRoom	Plataforma
+MainHall	Sala principal
+	
+PolishRuby	Pulir rubí
+ResetBreakers	Restablecer disyuntores
+Decontaminate	Descontaminar
+MakeBurger	Hacer hamburguesa
+UnlockSafe	Abrir caja fuerte
+SortRecords	Ordenar archivos
+PutAwayPistols	Guardar pistolas
+PutAwayRifles	Guardar fusiles
+FixShower	Reparar ducha
+CleanToilet	Limpiar sanitario
+DressMannequin	Vestir maniquí
+PickUpTowels	Recoger toallas
+RewindTapes	Rebobinar cintas
+StartFans	Encender ventiladores
+DevelopPhotos	Revelar fotos
+GetBiggolSword	Conseguir espada Biggol
+StopCharles	Evitar curso de colisión
+	
+RevealCode	Revelar código
+DirtyHeader	SUCIEDAD
+AuthLeftOkay	
+AuthRightOkay	
+AuthLeftActive	
+AuthRightActive	
+AuthLeftNotActive	
+AuthRightNotActive	

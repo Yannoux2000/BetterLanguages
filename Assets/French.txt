@@ -1,0 +1,677 @@
+KEY ID	French
+LocalButton	Local
+OnlineButton	En ligne
+HowToPlayButton	Comment jouer
+FreePlayButton	Jeu libre
+PublicHeader	Public
+PrivateHeader	Privé
+HostHeader	Héberger
+ExitButton	Sortie
+BackButton	Retour
+AvailableGamesLabel	Parties disponibles
+CreateGameButton	Créer partie
+FindGameButton	Trouver partie
+EnterCode	Entrer code
+GhostIgnoreTasks	Vous êtes mort. Profitez du chaos.
+GhostDoTasks	Vous êtes mort. Finissez vos tâches pour gagner.
+TotalTasksCompleted	Total des taches accomplies
+GhostImpostor	Vous êtes mort. Saboter est toujours possible.
+ImpostorTask	Sabotez et tuez tout le monde.
+FakeTasks	Tâches factices :
+TaskComplete	Tâche terminée !
+ExileTextSP	{0} était l'imposteur.
+ExileTextSN	{0} n'était pas l'imposteur.
+ExileTextPP	{0} était un imposteur.
+ExileTextPN	{0} n'était pas un imposteur.
+NoExileSkip	Personne n'a été éjecté. (Passe)
+NoExileTie	Personne n'a été éjecté. (Égalité)
+ExileTextNonConfirm	{0} a été éjecté(e).
+ImpostorsRemainS	Il reste {0} imposteur.
+ImpostorsRemainP	Il reste {0} imposteurs.
+Hallway	Couloir
+Engines	Moteurs
+UpperEngine	Moteur supérieur
+Cafeteria	Cafétéria
+Weapons	Armes
+Reactor	Réacteur
+Security	Sécurité
+MedBay	Infirmerie
+LifeSupp	O2
+Nav	Navigation
+LowerEngine	Moteur inférieur
+Electrical	Électricité
+Admin	Admin
+Storage	Cargo
+Shields	Boucliers
+Comms	Radio
+Decontamination	Décontamination
+Launchpad	Plateforme
+LockerRoom	Vestiaires
+Laboratory	Laboratoire
+Balcony	Balcon
+Office	Bureaux
+Greenhouse	Jardins
+DivertPowerTo	Dévier courant vers {0}
+AcceptDivertedPower	Accepter courant dévié
+SubmitScan	Envoyer scan
+PrimeShields	Activer boucliers
+FuelEngines	Faire le plein
+ChartCourse	Tracer trajectoire
+StartReactor	Démarrer réacteur
+SwipeCard	Glisser carte
+ClearAsteroids	Détruire astéroïdes
+DownloadData	Télécharger données
+UploadData	Transférer données
+InspectSample	Examiner échantillon
+EmptyChute	Vider vide-ordures
+EmptyGarbage	Sortir poubelles
+AlignEngineOutput	Aligner moteur
+FixWiring	Réparer câblage
+CalibrateDistributor	Calibrer distributeur
+UnlockManifolds	Débloquer claviatures
+ResetReactor	Fusion du réacteur dans
+FixLights	Réparer lampes
+CleanO2Filter	Nettoyer filtre O2
+FixComms	Radio sabotée
+RestoreOxy	Oxygène épuisé dans
+StabilizeSteering	Stabiliser contrôles
+AssembleArtifact	Assembler artefact
+SortSamples	Classer échantillons
+MeasureWeather	Analyser météo
+EnterIdCode	Entrer code ID
+BuyBeverage	Acheter boisson
+ProcessData	Traiter données
+NumImpostorsS	Il y a [FF1919FF]1 imposteur[] parmi nous
+NumImpostorsP	Il y a [FF1919FF]{0} imposteurs[] parmi nous
+Crewmate	Coéquipier
+Impostor	Imposteur
+Victory	Victoire
+Defeat	Défaite
+CrewmatesDisconnected	Plupart des coéquipiers\ndéconnectés
+ImpostorDisconnected	Imposteur déconnecté
+PickAnomaly	Choisir anomalie
+WaterPlantsGetCan	Arrosoir obtenu !
+AuthOfficeOkay	Bureaux OK
+AuthCommsOkay	Radio OK
+AuthOfficeActive	Bureaux ACTIFS
+AuthCommsActive	Radio ACTIVE
+AuthOfficeNotActive	Bureaux NON ACTIFS
+AuthCommsNotActive	Radio NON ACTIVE
+SecLogEntry	{0} a franchi le capteur {1}
+LogNorth	Nord
+LogSouthEast	Sud-est
+LogSouthWest	Sud-ouest
+EnterName	Entrer nom
+SwipeCardPleaseInsert	Inserez la carte
+SwipeCardPleaseSwipe	Glissez la carte
+SwipeCardBadRead	Illisible. Reessayez.
+SwipeCardTooFast	Trop rapide. Reessayez.
+SwipeCardTooSlow	Trop lent. Reessayez.
+SwipeCardAccepted	Accepte. Merci.
+ReactorHoldToStop	Maintenir pour stopper fusion
+ReactorWaiting	En attente du 2e utilisateur
+ReactorNominal	Réacteur minime
+MeetingWhoIsTitle	Qui est l'imposteur ?
+MeetingVotingBegins	Début des votes dans : {0} s
+MeetingVotingEnds	Fin des votes dans : {0} s
+MeetingVotingResults	Résultats des votes
+MeetingProceeds	Procédure dans : {0} s
+MeetingHasVoted	{0} a voté. {1} restant(s).
+HowToPlayText1	Among Us est un jeu de trahison et de travail d'équipe.\n\nLes joueurs sont des coéquipiers ou des imposteurs.
+HowToPlayText2	Disputez des parties de 4 à 10 joueurs en ligne ou en Wi-Fi local !
+HowToPlayText41	Quand vous hébergez une partie, c'est vous qui fixez les règles.
+HowToPlayText42	D'abord, choisissez avec qui vous voulez jouer !\n\nSi vous préférez jouer avec des amis en ligne, réglez sur « privé » et fournissez-leur le code de ce salon.\n\nSi vous voulez jouer avec des joueurs du monde entier, réglez sur « public ».
+HowToPlayText43	Vous voulez plus de tâches ? Marcher plus vite ? Augmenter le nombre d'imposteurs ? En tant qu'hôte, vous pouvez modifier ces réglages. Pensez à avertir les autres joueurs.
+HowToPlayText44	Si un joueur est grossier et/ou spamme non-stop, l'hôte peut l'expulser temporairement en guise d'avertissement ou le bannir du salon en ligne.
+HowToPlayTextMap	Les joueurs ont accès à une carte pour les aider à parcourir le vaisseau.
+HowToPlayTextCrew1	Objectif : remplir la barre des tâches ou découvrir l'imposteur.
+HowToPlayTextCrew2	Remplir la jauge en terminant des tâches.
+HowToPlayTextCrew3	Réagir à un sabotage de l'imposteur.
+HowToPlayTextCrew4	Imposteur démasqué ? Demander une réunion.
+HowToPlayTextCrew5	Signaler des cadavres.
+HowToPlayTextCrew6	Chercher toute activité suspecte sur la carte Admin et Sécurité.
+HowToPlayTextImp1	Objectif : tuer les membres d'équipage.
+HowToPlayTextImp2	Devenir invisible parmi l'équipage.
+HowToPlayTextImp3	Se faufiler dans les conduits d'aération.
+HowToPlayTextImp4	Faire semblant d'accomplir des tâches.
+HowToPlayTextImp5	Saboter le vaisseau et embrouiller l'équipage.
+HowToPlayTextImp6	Verrouiller les portes et enfermer des joueurs.
+HowToPlayTextImp7	Tuer les membres d'équipage entre les temps morts.
+HowToPlayText5	Lorsque vous jouez en personne, vous n'avez pas le droit de parler, histoire de garantir l'équité du jeu entre l'équipage et l'imposteur.\n\nSi l'imposteur tue un joueur, il est interdit à celui-ci de parler jusqu'à la fin de la partie.\n\nLes fantômes poursuivent toujours leurs tâches pour essayer de faire gagner leurs coéquipiers.
+HowToPlayText6	Lorsqu'un joueur signale un cadavre ou demande une réunion d'urgence, les membres d'équipage se réunissent pour partager les infos qu'ils ont glanées sur l'imposteur.\n\nVous pourrez alors parler librement et présenter vos théories sur l'identité de l'imposteur. Si vous jouez en personne, les fantômes n'ont pas le droit de parler (vu qu'ils savent qui est l'imposteur).\n\nLes imposteurs essaieront de prouver leur innocence ou d'accuser un autre membre de l'équipage.
+HowToPlayText7	Après discussion, votez pour le joueur qui, selon vous, est l'imposteur.\n\nLe joueur qui recueillera le plus de votes sera éjecté du vaisseau, alors votez judicieusement !\n\nVous pouvez aussi décider d'un commun accord de ne pas voter. Vous pourrez alors réunir plus d'informations et éviter ainsi d'éjecter un innocent.
+HowToPlayText81	Entraînez-vous en mode Jeu libre !
+HowToPlayText82	Configurez vos tâches comme membre d'équipage ou peaufinez vos stratégies meurtrières d'imposteur !
+SettingsGeneral	Général
+SettingsControls	Commandes
+SettingsSound	Audio
+SettingsGraphics	Graphismes
+SettingsData	Données
+SettingsCensorChat	Censurer chat
+SettingsMusic	Musique
+SettingsSFX	Effets sonores
+SettingsOn	Oui
+SettingsOff	Non
+SettingsSendTelemetry	Envoyer télémétrie
+SettingsControlMode	Mode Contrôle
+SettingsTouchMode	Tactile
+SettingsJoystickMode	Joystick
+SettingsKeyboardMode	Souris+Clavier
+SettingsFullscreen	Plein écran
+SettingsVSync	Synchro verticale
+SettingsResolution	Résolution
+SettingsApply	Appliquer
+SettingsPersonalizeAds	Personnaliser pubs
+SettingsLanguage	Langue
+SettingsJoystickSize	Taille
+SettingsMouseMode	Souris
+MatchMapName	Carte :
+MatchLanguage	Chat :
+MatchImpostors	Imposteurs :
+MatchMaxPlayers	Joueurs max :
+Cancel	Annuler
+Confirm	Confirmer
+PlayerColor	Couleur
+PlayerHat	Tête
+PlayerSkin	Skin
+PlayerPet	Bestiole
+GameSettings	Jeu
+GameRecommendedSettings	Réglages recommandés
+GameCustomSettings	Réglages personnalisés
+GameMapName	Carte
+GameNumImpostors	Nbre d'imposteurs
+GameNumMeetings	Réunions d'urgence
+GameDiscussTime	Temps de discussion
+GameVotingTime	Temps de vote
+GamePlayerSpeed	Vitesse joueurs
+GameCrewLight	Vision coéquipiers
+GameImpostorLight	Vision imposteurs
+GameKillCooldown	Temps mort Frags
+GameKillDistance	Distance frags
+GameCommonTasks	Tâches communes
+GameLongTasks	Tâches longues
+GameShortTasks	Tâches courtes
+GameEmergencyCooldown	Temps mort Urgence
+GameSecondsAbbrev	{0}s
+GameConfirmImpostor	Confirmer éjections
+GameVisualTasks	Tâches visuelles
+GameAnonymousVotes	Votes anonymes
+GameTaskBarMode	MàJ barre des tâches
+SettingNormalTaskMode	Toujours
+SettingMeetingTaskMode	Réunions
+SettingInvisibleTaskMode	Jamais
+Limit	Limite
+RoomCode	Code
+LeaveGame	Quitter partie
+ReturnToGame	Retour au jeu
+LocalHelp	Des soucis de connexion ?\n\n● Vérifiez que tout le monde est connecté au même réseau Wi-Fi\n● Vérifiez que tout le monde possède la même version (voir en haut à gauche)\n● Vérifiez que le signal Wi-Fi est suffisamment fort\n● Essayez de confier l'hébergement de la partie à un autre joueur\n● Essayez de redémarrer l'application\n● Essayez de redémarrer votre téléphone\n● Le problème persiste ? Contactez-nous sur notre discord !
+OnlineHelp	Comment ça marche ?\n\n● Héberger une partie génère un code qui s'affiche à côté du bouton de démarrage.\n● Fournissez ce code à vos amis pour créer un salon privé.\n● Ou sélectionnez Privé afin de rendre le salon public\npour l'option « Trouver partie ».\n● L'hôte peut bannir ou expulser des joueurs chaque fois que le chat est disponible.\n● Le problème persiste ? Contactez-nous sur notre Discord !
+EmergencyCount	LE COÉQUIPIER {0} A\n\n\n\nRÉUNION(S) D'URGENCE RESTANTE(S)
+EmergencyNotReady	LES COÉQUIPIERS DOIVENT ATTENDRE\n\n\n\nAVANT LA PROCHAINE URGENCE
+EmergencyDuringCrisis	IMPOSSIBLE DE TENIR DES RÉUNIONS\nD'URGENCE PENDANT UNE CRISE
+EmergencyRequested	RÉUNION D'URGENCE DEMANDÉE\nEN ATTENTE DE L'HÔTE
+AdPolicyTitle	Politique publicitaire
+AdPolicyText	Among Us exécute le système publicitaire AdMob après chaque match pour garantir\nla gratuité de l'appli. Par défaut, AdMob collecte des données afin\nde présenter des publicités pertinentes. AdMob utilise des cookies, des ID d'appareils\net des géodonnées rudimentaires, même pour les pubs non personnalisées.\nCette fonctionnalité n'étant pas désactivable, nous vous recommandons d'acheter la mise à niveau sans pub (2 $).\n\nSi vous achetez cette mise à niveau, vos amis n'auront pas de pub\nlorsque vous hébergerez une partie ! Si vous avez déjà acheté la mise à niveau,\nouvrez le store pour récupérer la facture.
+Accept	Accepter
+RemoveAds	Supprimer pubs
+PlainYes	Oui
+PlainNo	Non
+PrivacyPolicyTitle	Charte de confidentialité
+PrivacyPolicyText	Innersloth traite les données personnelles pour Among Us. Veuillez lire notre [https://innersloth.com/privacy.php]Charte de confidentialité[] pour obtenir de plus amples renseignements sur nos pratiques relatives à la vie privée. Vous pouvez gérer vos paramètres de données personnelles pour Among Us via l'option « Données ».
+ManageDataButton	Gérer la collecte des données
+UnderstandButton	Je comprends
+WaterPlants	Arroser plantes
+WeatherEta	ETA : {0}s
+WeatherComplete	Terminé
+RunDiagnostics	Lancer diagnostics
+SettingShort	Court
+SettingMedium	Moyen
+SettingLong	Long
+SamplesPress	Appuyer pour commencer
+SamplesAdding	Ajouter reactifs
+SamplesSelect	Selectionner anomalie
+SamplesThanks	Merci !
+SamplesComplete	Test effectue
+AstDestroyed	Detruits : {0}
+TaskTestTitle	Tâches-Testeur 2000
+BeginDiagnostics	Demarrer diagnostics
+UserLeftGame	{0} a quitté la partie.
+GameStarting	Démarrage dans {0}
+ChatRateLimit	Trop rapide. Attendez {0} secondes
+Tasks	Tâches
+MedscanRequested	Scan demandé
+MedscanWaitingFor	En attente de {0}
+MedscanCompleted	Scan effectué !
+MedscanCompleteIn	Scan terminé dans {0}
+StatsTitle	Statistiques
+StatsBodiesReported	Cadavres signalés :\t
+StatsEmergenciesCalled	Urgences appelées :\t
+StatsTasksCompleted	Tâches terminées :\t
+StatsAllTasksCompleted	Toutes les tâches terminées :\t
+StatsSabotagesFixed	Sabotages réparés :\t
+StatsImpostorKills	Frags Imposteur :\t\t
+StatsTimesMurdered	Nbre de fois tué :\t
+StatsTimesEjected	Nbre de fois éjecté :\t\t
+StatsCrewmateStreak	Parties consécutives dans l'équipage:\t
+StatsGamesImpostor	Nbre de fois Imposteur :\t
+StatsGamesCrewmate	Nbre de fois Coéquipier :\t
+StatsGamesStarted	Parties commencées :\t
+StatsGamesFinished	Parties terminées :\t
+StatsImpostorVoteWins	Victoires Votes Imposteur :\t
+StatsImpostorKillsWins	Victoires Frag Imposteur :\t
+StatsImpostorSabotageWins	Victoires Sabotage Imposteur :\t
+StatsCrewmateVoteWins	Victoires Votes Équipage :\t
+StatsCrewmateTaskWins	Victoires Tâches Équipage :\t
+MonitorOxygen	Examiner arbre
+StoreArtifacts	Ranger artefacts
+FillCanisters	Remplir bombonnes
+InsertKeys	Insérer clés
+ResetSeismic	RàZ stabiliseurs sismiques
+SeismicHoldToStop	Maintenir pour activer stabiliseurs sismiques
+SeismicNominal	Activité sismique minime
+ScanBoardingPass	Scanner carte passager
+FixWeatherNode	Réparer nœud météo
+OpenWaterways	Ouvrir canalisations
+ReplaceWaterJug	Remplacer bombonne d'eau
+RepairDrill	Réparer foreuse
+AlignTelescope	Aligner télescope
+RecordTemperature	Consigner température
+RebootWifi	Relancer Wi-Fi
+WifiRebootRequired	Redémarrage requis
+WifiPleaseWait	Veuillez patienter
+WifiPleaseReturnIn	Veuillez revenir dans {0}
+WifiPleasePowerOn	Veuillez allumer
+WifiRebootComplete	Redémarrage terminé
+Outside	Extérieur
+Dropship	Navette
+Decontamination2	Décontamination
+Specimens	Salle Spécimens
+BoilerRoom	Chaufferie
+GameOverImpostorDead	Normalement, l'imposteur étant mort, l'équipage gagnerait... mais en Jeu libre, tout le monde ressuscite.
+GameOverImpostorKills	Normalement, l'équipage ne pouvant plus gagner, l'imposteur remporterait la victoire... mais en Jeu libre, tout le monde ressuscite.
+GameOverTaskWin	Normalement, la barre de tâche étant remplie, l'équipage gagnerait... mais en Jeu libre, de nouvelles tâches sont générées.
+GameOverSabotage	Normalement, l'imposteur ayant réussi un sabotage critique, il gagnerait. Mais au lieu de ça, on arrête tout.
+HowToPlayText2Switch	Disputez des parties de 4 à 10 joueurs en ligne\n\navec votre abonnement Nintendo Switch Online ou via le Wi-Fi local !
+VentDirection	Sens Conduits aération
+VentMove	Utilisez les conduits
+MenuNavigate	Parcourir
+NsoError	Impossible de se connecter au réseau.
+ErrorServerOverload	Les serveurs d'Among Us sont surchargés.\r\n\r\nDésolé ! Veuillez réessayer plus tard !
+ErrorIntentionalLeaving	Après une déconnexion intentionnelle, vous devez attendre {0} minutes de plus avant de pouvoir rejoindre une autre partie.
+ErrorFocusLost	Vous avez été déconnecté parce qu'Among Us a été suspendu par une autre application.
+ErrorBanned	Vous avez été expulsé de {0}.\r\n\r\nVous ne pouvez pas rejoindre ce salon.
+ErrorKicked	Vous avez été expulsé de {0}.\r\n\r\nVous pouvez rejoindre les hostilités si le salon n'a pas démarré.
+ErrorBannedNoCode	Vous avez été banni du salon.\r\n\r\nVous ne pouvez pas rejoindre ce salon.
+ErrorKickedNoCode	Vous avez été expulsé du salon.\r\n\r\nVous pouvez rejoindre les hostilités si le salon n'a pas démarré.
+ErrorHacking	Vous avez été banni pour piratage.\r\n\r\nVeuillez arrêter.
+ErrorFullGame	La partie que vous essayez d'intégrer est saturée.\r\n\r\nDemandez à l'hôte si vous pouvez rejoindre la partie lors de la prochaine manche.
+ErrorStartedGame	La partie que vous essayez d'intégrer a déjà commencé.\r\n\r\nDemandez à l'hôte si vous pouvez rejoindre la partie lors de la prochaine manche.
+ErrorNotFoundGame	Impossible de localiser la partie que vous recherchez.
+ErrorInactivity	Le serveur a mis fin à cette partie, peut-être en raison d'inactivité.
+ErrorGenericOnlineDisconnect	Vous avez été déconnecté du serveur.\r\nSi cela se produit souvent, consultez la force de votre réseau.\r\nIl peut également s'agir d'un problème de serveur.
+ErrorGenericLocalDisconnect	Vous avez été déconnecté du serveur.\r\n\r\nSi cela se produit souvent, consultez la force de votre Wi-Fi.
+ErrorInvalidName	Nom d'utilisateur refusé par le serveur : {0}
+ErrorUnknown	Une erreur inconnue vous a déconnecté du serveur.
+ErrorIncorrectVersion	Vous exécutez une version obsolète du jeu.\r\n\r\nVeuillez effectuer la mise à jour pour jouer avec d'autres joueurs.
+	
+ServerNA	Amérique du Nord
+ServerEU	Europe
+ServerAS	Asie
+ServerSA	Amérique du Sud
+LangEnglish	English
+LangFrench	Français
+LangItalian	Italiano
+LangGerman	Deutsch
+LangSpanish	Español
+LangSpanishLATAM	Español (Latinoamérica)
+LangBrazPort	Português (Brasil)
+LangPort	Português
+LangRussian	Русский
+LangJapanese	日本語
+LangKorean	한국어
+LangDutch	Nederlands
+LangFilipino	Bisaya
+PlayerName	Joueur
+MyTablet	Ma tablette
+Headquarters	QG
+DownloadTestEstTimeS	Temps estimé : {0}s
+DownloadTestEstTimeMS	Temps estimé : {0}m {1}s
+DownloadTestEstTimeHMS	Temps estimé : {0}hr {1}m {2}s
+DownloadTestEstTimeDHMS	Temps estimé : {0}d {1}hr {2}m {3}s
+DownloadComplete	Terminé
+GrabCoffee	ALLEZ VOUS FAIRE UN CAFE
+TakeBreak	FAITES UNE PAUSE
+DontNeedWait	VOUS POUVEZ NE PAS ATTENDRE
+DoSomethingElse	ALLEZ FAIRE UN TOUR
+NodeTB	Nœud_TB
+NodeIRO	Nœud_IRO
+NodeGI	Nœud_GI
+NodePD	Nœud_PD
+NodeCA	Nœud_CA
+NodeMLG	Nœud_MLG
+Vending	EN COURS
+OtherLanguage	Autre
+ImposterAmtAny	1-3
+	
+VitalsORGN	ORGN
+VitalsBLUE	BLEU
+VitalsRED	ROUGE
+VitalsBRWN	MARN
+VitalsGRN	VRT
+VitalsPINK	ROSE
+VitalsWHTE	BLNC
+VitalsYLOW	JNE
+VitalsBLAK	NOIR
+VitalsPURP	VIO
+VitalsCYAN	CYAN
+VitalsLIME	CIT
+ColorOrange	ORANGE
+ColorBlue	BLEU
+ColorRed	ROUGE
+ColorBrown	MARRON
+ColorGreen	VERT
+ColorPink	ROSE
+ColorWhite	BLANC
+ColorYellow	JAUNE
+ColorBlack	NOIR
+ColorPurple	VIOLET
+ColorCyan	CYAN
+ColorLime	CITRON
+MedID	ID :
+MedC	C :
+MedHT	T :
+MedBT	GS :
+MedWT	P :
+MedETA	ETA : {0}
+MedHello	BONJOUR !
+LobbySizeWarning	Among Us est jouable à 4 joueurs, mais il est recommandé d'y jouer à 5 joueurs ou plus.\n\nLes parties à 4 joueurs finissent vite et généralement, l'imposteur gagne.
+Okay	OK
+OkayDontShow	OK, ne plus afficher
+Nevermind	Peu importe
+CamEast	Est
+CamCentral	Central
+CamNortheast	Nord-Est
+CamSouth	Sud
+CamSouthwest	Sud-Ouest
+CamNorthwest	Nord-Ouest
+LoadingFailed	Échec du chargement :
+PetFailFetchData	Données de la bestiole irrécupérables
+BadResult	ERREUR
+More	{0} DE PLUS
+Processing	En traitement
+ExitGame	Quitter la partie
+WaitingForHost	En attente de l'hôte
+LeftGameError	{0} a quitté la partie à cause d'une erreur.
+PlayerWasBannedBy	{0} a été banni par {1}
+PlayerWasKickedBy	{0} a été expulsé par {1}
+Dummy	Mannequin
+Bad	MAUVAIS
+Status	Statut : 
+Fine	BON
+OK	OK
+SecondsAbbv	{0}s
+PetTryOn	Essayez quelque chose !
+DataPolicyWhat	Que collecte-t-on ?
+	
+	
+	
+VaultRoom	Chambre forte
+Cockpit	Cockpit
+Armory	Armurerie
+Kitchen	Cuisine
+ViewingDeck	Poste d'observation
+HallOfPortraits	Salle des portraits
+Medical	Médical
+CargoBay	Soute
+Ventilation	Ventilation
+Showers	Douches
+Engine	Salle des moteurs
+Brig	Brick
+MeetingRoom	Salle de réunion
+Records	Archives
+Lounge	Salon
+GapRoom	Salle monte-charge
+MainHall	Salle principale
+	
+PolishRuby	Polir rubis
+ResetBreakers	Réinitialiser disjoncteurs
+Decontaminate	Décontaminer
+MakeBurger	Préparer burger
+UnlockSafe	Déverrouiller coffre
+SortRecords	Classer dossiers
+PutAwayPistols	Ranger pistolets
+PutAwayRifles	Ranger fusils
+FixShower	Réparer douche
+CleanToilet	Réparer toilettes
+DressMannequin	Habiller mannequin
+PickUpTowels	Ramasser serviettes
+RewindTapes	Rembobiner cassettes
+StartFans	Démarrer ventilateurs
+DevelopPhotos	Développer photos
+GetBiggolSword	Obtenir l'épée Biggol
+StopCharles	Éviter cours intensif
+	
+RevealCode	Révéler code
+DirtyHeader	SALE
+AuthLeftOkay	Côté gauche OK
+AuthRightOkay	Côté droit OK
+AuthLeftActive	Côté gauche ACTIF
+AuthRightActive	Côté droit ACTIF
+AuthLeftNotActive	Côté gauche NON ACTIF
+AuthRightNotActive	Côté droit NON ACTIF
+EngagementScreen	Appuyer sur un bouton.
+DeleteButton	Supprimer
+QuickChat	Chat rapide
+QCLocationLaptop	Portable
+QCLocationSkeld	Skeld
+QCLocationMira	Mira 
+QCLocationPolus	Polus
+QCSystemsStart	Démarrer
+QCSystemsKick	Expulser
+QCCrewI	Je
+QCCrewMe	Moi
+QCCrewNoOne	Personne
+QCAccAKilledB	{0} a tué {1}
+QCAccAKilledBNeg	{0} n'a pas tué {1}
+QCAccAIsSuspicious	{0} est suspect(e)
+QCAccAIsSuspiciousNeg	{0} est clean
+QCAccASawBVent	{0} a vu {1} dans un conduit
+QCAccASawBVentNeg	{0} n'a jamais vu {1} dans un conduit
+QCAccAWasChasingB	{0} poursuivait {1}
+QCAccAWasChasingBNeg	{0} ne poursuivait pas {1}
+QCAccAIsLying	{0} ment
+QCAccAIsLyingNeg	{0} dit la vérité
+QCAccVoteA	voter pour {0}
+QCAccVoteANeg	ne pas voter pour {0}
+QCAccADidntReport	{0} n'a pas signalé de cadavre
+QCResYes	Oui
+QCResNo	Non
+QCResDontKnow	Je ne sais pas
+QCResDontKnowNeg	Peut-être
+QCResAWas	{0} était
+QCResAWasNeg	{0} n'était pas
+QCResADid	{0} a fait :
+QCResADidNeg	{0} n'a pas fait
+QCResVote	Voter
+QCResVoteNeg	Passer vote
+QCResAWasAtB	{0} était dans : {1}
+QCResAWasAtBNeg	{0} n'était pas dans : {1}
+QCResRip	décédé
+QCResRipNeg	largage
+QCResLies	mensonges
+QCResLiesNeg	ok
+QCQstWhere	où ?
+QCQstWho	qui ?
+QCQstWhoWasWith	qui était avec {0} ?
+QCQstWhatWasADoing	qu'est-ce que {0} faisait ?
+QCQstWhoFixedA	qui a réparé : {0} ?
+QCQstWhereWasA	où était {0} ?
+QCQstBodyOrMeeting	Était-ce un cadavre ou une réunion d'urgence ?
+QCStaASawB	{0} a vu {1}
+QCStaAWasWithB	{0} était avec {1}
+QCStaADidB	{0} a fait : {1}
+QCStaASelfReported	{0} s'est signalé(e)
+QCStaDoubleKill	C'était un double-frag
+QCStaWasSelfReport	C'était un auto-signalement
+QCStaPleaseDoTasks	Accomplissez vos tâches
+QCStaBodyWasInA	Le cadavre était dans : {0}
+QCStaACalledMeeting	{0} a demandé une réunion
+QCLocation	Lieu
+QCSystems	Systèmes
+QCCrew	Équipage
+QCAccusation	Accusation
+QCResponse	Réponse
+QCQuestion	Question
+QCStatements	Déclarations
+ChatType	
+QuickChatOnly	
+FreeChatOnly	
+FreeOrQuickChat	
+DateOfBirth	
+DateOfBirthEnter	
+Month	
+Day	
+Year	
+January	
+February	
+March	
+April	
+May	
+June	
+July	
+August	
+September	
+October	
+November	
+December	
+Submit	
+	
+QCAccAKilledB_QCCrewMe_ANY	J'ai tué {0}
+QCAccAKilledB_QCCrewMe_QCCrewNoOne	Je n'ai tué personne
+QCAccAKilledB_QCCrewMe_QCCrewMe	
+QCAccAKilledB_ANY_QCCrewMe	{0} m'a tué
+QCAccAKilledB	{0} a tué {1}
+QCAccAKilledB_ANY_QCCrewNoOne	{0} n'a tué personne
+QCAccAKilledB_QCCrewNoOne_QCCrewMe	Personne ne m'a tué
+QCAccAKilledB_QCCrewNoOne_ANY	Personne n'a tué {0}
+QCAccAKilledB_QCCrewNoOne_QCCrewNoOne	Personne n'a tué personne
+QCAccAKilledBNeg_QCCrewMe_ANY	Je n'ai pas tué {0}
+QCAccAKilledBNeg_QCCrewMe_QCCrewNoOne	Je n'ai tué personne
+QCAccAKilledBNeg_QCCrewMe_QCCrewMe	Je ne me suis pas tué
+QCAccAKilledBNeg_ANY_QCCrewMe	{0} ne m'a pas tué
+QCAccAKilledBNeg	{0} n'a pas tué {1}
+QCAccAKilledBNeg_ANY_QCCrewNoOne	{0} n'a tué personne
+QCAccAKilledBNeg_QCCrewNoOne_QCCrewMe	
+QCAccAKilledBNeg_QCCrewNoOne_ANY	
+QCAccAKilledBNeg_QCCrewNoOne_QCCrewNoOne	
+QCAccAIsSuspicious_QCCrewMe	Je suis suspect
+QCAccAIsSuspicious	{0} est suspect
+QCAccAIsSuspicious_QCCrewNoOne	Personne n'est suspect
+QCAccAIsSuspiciousNeg_QCCrewMe	Je suis clean
+QCAccAIsSuspiciousNeg	{0} est clean
+QCAccAIsSuspiciousNeg_QCCrewNoOne	Personne n'est clean
+QCAccASawBVent_QCCrewMe_ANY	J'ai vu {0} dans un conduit
+QCAccASawBVent_QCCrewMe_QCCrewNoOne	Je n'ai vu personne dans un conduit
+QCAccASawBVent_QCCrewMe_QCCrewMe	
+QCAccASawBVent_ANY_QCCrewMe	{0} m'a vu dans un conduit
+QCAccASawBVent	{0} a vu {1} dans un conduit
+QCAccASawBVent_ANY_QCCrewNoOne	{0} n'a vu personne dans un conduit
+QCAccASawBVent_QCCrewNoOne_QCCrewMe	Personne ne m'a vu dans un conduit
+QCAccASawBVent_QCCrewNoOne_ANY	Personne n'a vu {0} dans un conduit
+QCAccASawBVent_QCCrewNoOne_QCCrewNoOne	Personne n'a vu quiconque dans un conduit
+QCAccASawBVentNeg_QCCrewMe_ANY	Je n'ai jamais vu {0} dans un conduit
+QCAccASawBVentNeg_QCCrewMe_QCCrewNoOne	Je n'ai jamais vu quiconque dans un conduit
+QCAccASawBVentNeg_QCCrewMe_QCCrewMe	
+QCAccASawBVentNeg_ANY_QCCrewMe	{0} ne m'a jamais vu dans un conduit
+QCAccASawBVentNeg	{0} n'a jamais vu {1} dans un conduit
+QCAccASawBVentNeg_ANY_QCCrewNoOne	{0} n'a jamais vu quiconque dans un conduit
+QCAccASawBVentNeg_QCCrewNoOne_QCCrewMe	Personne ne m'a jamais vu dans un conduit
+QCAccASawBVentNeg_QCCrewNoOne_ANY	Personne n'a jamais vu {0} dans un conduit
+QCAccASawBVentNeg_QCCrewNoOne_QCCrewNoOne	Personne n'a jamais vu quiconque dans un conduit
+QCAccAWasChasingB_QCCrewMe_ANY	Je poursuivais {0}
+QCAccAWasChasingB_QCCrewMe_QCCrewNoOne	Je ne poursuivais personne
+QCAccAWasChasingB_QCCrewMe_QCCrewMe	
+QCAccAWasChasingB_ANY_QCCrewMe	{0} me poursuivait
+QCAccAWasChasingB	{0} poursuivait {1}
+QCAccAWasChasingB_ANY_QCCrewNoOne	{0} ne poursuivait personne
+QCAccAWasChasingB_QCCrewNoOne_QCCrewMe	Personne ne me poursuivait
+QCAccAWasChasingB_QCCrewNoOne_ANY	Personne ne poursuivait {0}
+QCAccAWasChasingB_QCCrewNoOne_QCCrewNoOne	Personne ne poursuivait quiconque
+QCAccAWasChasingBNeg_QCCrewMe_ANY	Je ne poursuivais pas {0}
+QCAccAWasChasingBNeg_QCCrewMe_QCCrewNoOne	Je ne poursuivais personne
+QCAccAWasChasingBNeg_QCCrewMe_QCCrewMe	
+QCAccAWasChasingBNeg_ANY_QCCrewMe	{0} ne me poursuivait pas
+QCAccAWasChasingBNeg	{0} ne poursuivait pas {1}
+QCAccAWasChasingBNeg_ANY_QCCrewNoOne	{0} ne pursuivait personne
+QCAccAWasChasingBNeg_QCCrewNoOne_QCCrewMe	
+QCAccAWasChasingBNeg_QCCrewNoOne_ANY	
+QCAccAWasChasingBNeg_QCCrewNoOne_QCCrewNoOne	
+QCAccAIsLying_QCCrewMe	Je mens
+QCAccAIsLying	{0} ment
+QCAccAIsLying_QCCrewNoOne	Personne ne ment
+QCAccAIsLyingNeg_QCCrewMe	Je dis la vérité
+QCAccAIsLyingNeg	{0} dit la vérité
+QCAccAIsLyingNeg_QCCrewNoOne	Tout le monde ment
+QCAccVoteA_QCCrewMe	Votez contre moi
+QCAccVoteA	Votez contre {0}
+QCAccVoteA_QCCrewNoOne	Ne votez pas
+QCAccVoteANeg_QCCrewMe	Ne votez pas contre moi
+QCAccVoteANeg	Ne votez pas contre {0}
+QCAccVoteANeg_QCCrewNoOne	
+QCAccADidntReport_QCCrewMe	Je n'ai pas signalé le corps
+QCAccADidntReport	{0} n'a pas signalé le corps
+QCAccADidntReport_QCCrewNoOne	
+QCResAWas_QCCrewMe	C'était moi
+QCResAWas	C'etait {0}
+QCResAWas_QCCrewNoOne	Ce n'était personne
+QCResAWasNeg_QCCrewMe	Ce n'était pas moi
+QCResAWasNeg	Ce n'était pas {0}
+QCResAWasNeg_QCCrewNoOne	
+QCResADid_QCCrewMe	Je l'ai fait
+QCResADid	{0} l'a fait
+QCResADid_QCCrewNoOne	Personne ne l'a fait
+QCResADidNeg_QCCrewMe	Je ne l'ai pas fait
+QCResADidNeg	{0} ne l'a pas fait
+QCResADidNeg_QCCrewNoOne	
+QCResAWasAtB_QCCrewMe_ANY	J'étais ici : {1}
+QCResAWasAtB	{0} était ici : {1}
+QCResAWasAtB_QCCrewNoOne_ANY	Personne n'etait ici : {1)
+QCResAWasAtBNeg_QCCrewMe_ANY	Je n'étais pas ici : {1}
+QCResAWasAtBNeg	{0} n'etait pas ici : {1}
+QCResAWasAtBNeg_QCCrewNoOne_ANY	
+QCQstWhoWasWith_QCCrewMe	Qui était avec moi ?
+QCQstWhoWasWith	Qui était avec {0} ?
+QCQstWhoWasWith_QCCrewNoOne	Qui était tout seul ?
+QCQstWhatWasADoing_QCCrewMe	
+QCQstWhatWasADoing	Que faisait {0} ?
+QCQstWhatWasADoing_QCCrewNoOne	
+QCQstWhereWasA_QCCrewMe	
+QCQstWhereWasA	Ou était {0} ?
+QCQstWhereWasA_QCCrewNoOne	
+QCStaASawB_QCCrewMe_ANY	J'ai vu {0}
+QCStaASawB_QCCrewMe_QCCrewNoOne	Je n'ai vu personne
+QCStaASawB_QCCrewMe_QCCrewMe	
+QCStaASawB_ANY_QCCrewMe	{0} m'a vu
+QCStaASawB	{0} a vu {1}
+QCStaASawB_ANY_QCCrewNoOne	{0} n'a vu personne
+QCStaASawB_QCCrewNoOne_QCCrewMe	Personne ne m'a vu
+QCStaASawB_QCCrewNoOne_ANY	Personne n'a vu {0}
+QCStaASawB_QCCrewNoOne_QCCrewNoOne	Personne n'a vu quiconque
+QCStaAWasWithB_QCCrewMe_ANY	J'étais avec {0}
+QCStaAWasWithB_QCCrewMe_QCCrewNoOne	J'étais tout seul
+QCStaAWasWithB_QCCrewMe_QCCrewMe	
+QCStaAWasWithB_ANY_QCCrewMe	{0} était avec moi
+QCStaAWasWithB	{0} était avec {1}
+QCStaAWasWithB_ANY_QCCrewNoOne	{0} était tout seul
+QCStaAWasWithB_QCCrewNoOne_QCCrewMe	Personne n'était avec moi
+QCStaAWasWithB_QCCrewNoOne_ANY	Personne n'était avec {0}
+QCStaAWasWithB_QCCrewNoOne_QCCrewNoOne	Personne n'était avec quiconque
+QCStaADidB_QCCrewMe_ANY	J'ai fait {1}
+QCStaADidB	{0} a fait {1}
+QCStaADidB_QCCrewNoOne_ANY	Personne n'a fait {1}
+QCStaASelfReported_QCCrewMe	J'ai auto-signalé
+QCStaASelfReported	{0} a auto-signalé
+QCStaASelfReported_QCCrewNoOne	Personne n'a auto-signalé
+QCStaACalledMeeting_QCCrewMe	J'ai demandé une réunion
+QCStaACalledMeeting	{0} a demandé une réunion
+QCStaACalledMeeting_QCCrewNoOne	Personne n'a demandé une réunion

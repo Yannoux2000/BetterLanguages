@@ -1,0 +1,461 @@
+KEY ID	German
+LocalButton	Lokal
+OnlineButton	Online
+HowToPlayButton	Anleitung
+FreePlayButton	Freies Spiel
+PublicHeader	Öffentlich
+PrivateHeader	Privat
+HostHeader	Hosten
+ExitButton	Verlassen
+BackButton	Zurück
+AvailableGamesLabel	Verfügbare Spiele
+CreateGameButton	Neues Spiel
+FindGameButton	Spielsuche
+EnterCode	Code-Eingabe
+GhostIgnoreTasks	Du bist tot. Genieße das Chaos.
+GhostDoTasks	Du bist tot. Beende die Aufgaben zum Gewinnen.
+TotalTasksCompleted	Erledigte Aufgaben insgesamt
+GhostImpostor	Du bist tot, kannst aber noch sabotieren.
+ImpostorTask	Sabotiere und lege alle um.
+FakeTasks	Fake-Aufgaben:
+TaskComplete	Aufgabe erledigt!
+ExileTextSP	{0} war der Verräter.
+ExileTextSN	{0} war nicht der Verräter.
+ExileTextPP	{0} war ein Verräter.
+ExileTextPN	{0} war kein Verräter.
+NoExileSkip	Keiner raus (übersprungen).
+NoExileTie	Keiner raus (unentschieden).
+ExileTextNonConfirm	{0} ist raus.
+ImpostorsRemainS	{0} Verräter übrig.
+ImpostorsRemainP	{0} Verräter übrig.
+Hallway	Gang
+Engines	Antrieb
+UpperEngine	Antrieb oben
+Cafeteria	Cafeteria
+Weapons	Waffen
+Reactor	Reaktor
+Security	Security
+MedBay	Klinik
+LifeSupp	O2
+Nav	Navigation
+LowerEngine	Antrieb unten
+Electrical	Elektrik
+Admin	Admin
+Storage	Lager
+Shields	Schilde
+Comms	Kommunikation
+Decontamination	Dekontamination
+Launchpad	Startrampe
+LockerRoom	Umkleide
+Laboratory	Labor
+Balcony	Balkon
+Office	Büro
+Greenhouse	Treibhaus
+DivertPowerTo	Strom umleiten zu: {0}
+AcceptDivertedPower	Stromumleitung annehmen
+SubmitScan	Scannen
+PrimeShields	Schild aktivieren
+FuelEngines	Antrieb laden
+ChartCourse	Kurs bestimmen
+StartReactor	Reaktor starten
+SwipeCard	Karte ziehen
+ClearAsteroids	Asteroiden räumen
+DownloadData	Daten-Download
+UploadData	Daten-Upload
+InspectSample	Probe untersuchen
+EmptyChute	Rutsche leeren
+EmptyGarbage	Müll entleeren
+AlignEngineOutput	Antrieb ausrichten
+FixWiring	Verdrahten
+CalibrateDistributor	Verteiler kalibrieren
+UnlockManifolds	Düsen freigeben
+ResetReactor	Reaktorschmelze in
+FixLights	Licht reparieren
+CleanO2Filter	O2-Filter säubern
+FixComms	Komm sabotiert
+RestoreOxy	O2 aufgebraucht in
+StabilizeSteering	Steuer stabilisieren
+AssembleArtifact	Artefakt sammeln
+SortSamples	Proben ordnen
+MeasureWeather	Wetterdaten
+EnterIdCode	ID-Code-Eingabe
+BuyBeverage	Getränk kaufen
+ProcessData	Daten bearbeiten
+NumImpostorsS	Unter uns ist [FF1919FF]1 Verräter[]
+NumImpostorsP	Unter uns sind [FF1919FF]{0} Verräter[]
+Crewmate	Besatzung
+Impostor	Verräter
+Victory	Gewonnen
+Defeat	Verloren
+CrewmatesDisconnected	Besatzung größtenteils\ngetrennt
+ImpostorDisconnected	Verräter getrennt
+PickAnomaly	Anomalie waehlen
+WaterPlantsGetCan	Gießkanne genommen!
+AuthOfficeOkay	Büro OK
+AuthCommsOkay	Komm OK
+AuthOfficeActive	Büro AKTIV
+AuthCommsActive	Komm AKTIV
+AuthOfficeNotActive	Büro NICHT AKTIV
+AuthCommsNotActive	Komm NICHT AKTIV
+SecLogEntry	{0} hat den {1}-Sensor passiert
+LogNorth	Nord
+LogSouthEast	Südost
+LogSouthWest	Südwest
+EnterName	Spitzname
+SwipeCardPleaseInsert	Karte einfuehren.
+SwipeCardPleaseSwipe	Karte durchziehen.
+SwipeCardBadRead	Fehler. Nochmal.
+SwipeCardTooFast	Zu schnell. Nochmal.
+SwipeCardTooSlow	Zu langsam. Nochmal.
+SwipeCardAccepted	Angenommen. Danke.
+ReactorHoldToStop	Halten, um Schmelze zu stoppen
+ReactorWaiting	Warten auf zweiten Nutzer
+ReactorNominal	Reaktor nominal
+MeetingWhoIsTitle	Wer ist der Verräter?
+MeetingVotingBegins	Abstimmung in: {0} s
+MeetingVotingEnds	Abstimmungsende in: {0} s
+MeetingVotingResults	Abstimmungsergebnis
+MeetingProceeds	Findet statt in: {0} s
+MeetingHasVoted	{0} hat abgestimmt. {1} übrig.
+HowToPlayText1	Among Us ist ein Spiel über Teamarbeit und Verrat.\n\nSpieler sind entweder Besatzungsmitglieder oder Verräter.
+HowToPlayText2	Spielt mit 4 bis 10 Spielern online oder via lokalem WLAN!
+HowToPlayText41	Als Host eines Spiels hast du die Kontrolle über das Spiel.
+HowToPlayText42	Lege zuerst fest, mit wem du spielen möchtest!\n\nWenn du online mit Freunden spielen möchtest, dann stelle "Privat" ein und teile den Raum-Code.\n\nMöchtest du mit anderen aus der ganzen Welt spielen, dann stelle "Öffentlich" ein.
+HowToPlayText43	Möchtest du mit mehr Aufgaben spielen? Wie wäre es mit höherem Tempo beim Gehen? Mehr Verräter? Als Host kannst du das einstellen. Stimme die Änderungen aber mit deinen Mitspielern ab.
+HowToPlayText44	Sind Spieler unhöflich oder spammen, kann der Host sie als Warnung vorübergehend rauswerfen. Er kann Spieler auch für den jeweiligen Raum sperren.
+HowToPlayTextMap	Die Spieler können eine persönliche Karte nutzen, um sich durchs Schiff zu bewegen.
+HowToPlayTextCrew1	Ziel: Gruppen-Aufgabenleiste füllen oder Verräter enttarnen.
+HowToPlayTextCrew2	Aufgaben erledigen, um Leiste zu füllen.
+HowToPlayTextCrew3	Auf Sabotage des Verräters reagieren.
+HowToPlayTextCrew4	Verräter gefunden? Notfall-Treffen!
+HowToPlayTextCrew5	Leichen melden.
+HowToPlayTextCrew6	Auf den Karten Admin und Security auf Verdächtiges achten.
+HowToPlayTextImp1	Ziel: Besatzung ausschalten.
+HowToPlayTextImp2	Unter die Besatzung mischen.
+HowToPlayTextImp3	Durch Schächte kriechen.
+HowToPlayTextImp4	Scheinbar Aufgaben erledigen.
+HowToPlayTextImp5	Schiff sabotieren, Besatzung verwirren.
+HowToPlayTextImp6	Opfer hinter Türen einsperren.
+HowToPlayTextImp7	Besatzung zwischen Wartezeiten umbringen.
+HowToPlayText5	Beim gemeinsamen Spielen in einem Raum herrscht Schweigepflicht, damit das Spiel für Besatzung und Verräter fair bleibt.\n\nWird ein Spieler vom Verräter getötet, darf der bis zum Spielende nicht reden.\n\nGeister können immer noch die zugewiesenen Aufgaben erledigen, um einen möglichen Sieg der Besatzung zu unterstützen.
+HowToPlayText6	Meldet jemand eine Leiche oder beruft ein Notfall-Treffen ein, versammelt sich die Besatzung, um alles zu besprechen, was über den Verräter bekannt ist.\n\nDie Spieler können dann offen sagen, wen sie für den Verräter halten und welche Infos sie haben. Spielt ihr gemeinsam in einem Raum, dürfen Geister nicht reden, weil sie bereits wissen, wer der Verräter ist.\n\nVerräter müssen ihre Unschuld beweisen oder andere Besatzungsmitglieder beschuldigen.
+HowToPlayText7	Nach der Besprechung stimmt ihr ab, wen ihr für den Verräter haltet.\n\nDer Spieler mit den meisten Stimmen wird aus dem Schiff geworfen. Also nie leichtfertig abstimmen!\n\nLiegen nicht genug Infos vor, könnt ihr als Besatzung beschließen, die Abstimmung zu überspringen, damit kein Unschuldiger rausgeworfen wird und ihr noch mehr Infos sammeln könnt.
+HowToPlayText81	Übe im Modus "Freies Spiel"!
+HowToPlayText82	Lege Aufgaben als Besatzungsmitglied selbst fest oder trainiere Mordstrategien als Verräter!
+SettingsGeneral	Allgemein
+SettingsControls	Steuerung
+SettingsSound	Toneinstellungen
+SettingsGraphics	Grafik
+SettingsData	Daten
+SettingsCensorChat	Chat-Zensur
+SettingsMusic	Musik
+SettingsSFX	SFX
+SettingsOn	An
+SettingsOff	Aus
+SettingsSendTelemetry	Telemetrie senden
+SettingsControlMode	Steuermodus
+SettingsTouchMode	Touch
+SettingsJoystickMode	Joystick
+SettingsKeyboardMode	Maus und Tastatur
+SettingsFullscreen	Vollbild
+SettingsVSync	V-Sync
+SettingsResolution	Auflösung
+SettingsApply	Übernehmen
+SettingsPersonalizeAds	Werbung personalisieren
+SettingsLanguage	Sprache
+SettingsJoystickSize	Größe
+SettingsMouseMode	Maus
+MatchMapName	Karte:
+MatchLanguage	Chat:
+MatchImpostors	Verräter:
+MatchMaxPlayers	Max. Spieler:
+Cancel	Abbrechen
+Confirm	Bestätigen
+PlayerColor	Farbe
+PlayerHat	Hut
+PlayerSkin	Skin
+PlayerPet	Haustier
+GameSettings	Spiel
+GameRecommendedSettings	Empfohlen
+GameCustomSettings	Benutzerdefiniert
+GameMapName	Karte
+GameNumImpostors	# Verräter
+GameNumMeetings	# Notfall-Treffen
+GameDiscussTime	Besprechungsdauer
+GameVotingTime	Abstimmungsdauer
+GamePlayerSpeed	Spielertempo
+GameCrewLight	Besatzungssicht
+GameImpostorLight	Verrätersicht
+GameKillCooldown	Kill-Wartezeit
+GameKillDistance	Kill-Distanz
+GameCommonTasks	# Aufgaben für alle
+GameLongTasks	# Lange Aufgaben
+GameShortTasks	# Kurze Aufgaben
+GameEmergencyCooldown	Notfall-Treffen-Wartezeit
+GameSecondsAbbrev	{0}s
+GameConfirmImpostor	Rauswürfe bestätigen
+GameVisualTasks	Visuelle Aufgaben
+GameAnonymousVotes	Anonym abstimmen
+GameTaskBarMode	Aufgabenleiste-Updates
+SettingNormalTaskMode	Immer
+SettingMeetingTaskMode	Treffen
+SettingInvisibleTaskMode	Nie
+Limit	Limit
+RoomCode	Code
+LeaveGame	Spiel verlassen
+ReturnToGame	Zurück zum Spiel
+LocalHelp	Verbindungsprobleme?\n\n● Alle müssen mit demselben WLAN-Namen\nverbunden sein.\n● Alle müssen dieselbe Version nutzen (oben links).\n● Das WLAN-Signal muss stark genug sein.\n● Es hilft, wenn ein anderer Spieler hostet. \n● Es hilft, die App neu zu starten ...\n● Es hilft, das Smartphone neu zu starten ...\n● Weitere Probleme? Teile es uns auf Discord mit! 
+OnlineHelp	Wie funktioniert das?\n\n● Hostest du ein Spiel, siehst du neben dem Start-Button einen Spiel-Code.\n● Teile den Spiel-Code mit Freunden, um einen privaten Raum zu erstellen.\n● Oder tippe "Privat" an, um den Raum für die "Spielsuche" öffentlich zu machen.\n● Der Host kann Spieler sperren oder rauswerfen,\n wenn ein Chat verfügbar ist.\n● Weitere Probleme? Teile es uns auf Discord mit! 
+EmergencyCount	BESATZUNGSMITGLIED {0} HAT\n\n\n\nNOTFALL-TREFFEN ÜBRIG
+EmergencyNotReady	BESATZUNGSMITGLIEDER MÜSSEN\n\n\n\nBIS ZUM NÄCHSTEN NOTFALL WARTEN
+EmergencyDuringCrisis	NOTFALL-TREFFEN KÖNNEN NICHT IN\nKRISEN EINBERUFEN WERDEN
+EmergencyRequested	NOTFALL-TREFFEN ERBETEN\nWARTEN AUF HOST
+AdPolicyTitle	Richtlinien für Werbung
+AdPolicyText	Among Us zeigt nach jedem Match AdMob-Anzeigen, damit die App kostenlos bleibt.\nStandardmäßig sammelt AdMob Daten für personalisierte Anzeigen. AdMob nutzt selbst bei\nnicht personalisierten Anzeigen Cookies, Geräte-IDs und ungefähre Geodaten.\nDas können wir nicht abschalten, daher empfehlen wir den Kauf des\nwerbefreien Upgrades (2 USD).\n\nKaufst du das werbefreie Upgrade, sehen auch deine Freunde keine Anzeigen,\nwenn du hostest! Wenn du das Upgrade bereits gekauft hast,\ndann rufe den Store auf, um den Kaufbeleg zu erhalten.
+Accept	Annehmen
+RemoveAds	Werbefrei
+PlainYes	Ja
+PlainNo	Nein
+PrivacyPolicyTitle	Datenschutzrichtlinie
+PrivacyPolicyText	Innersloth verarbeitet für Among Us Personendaten. Bitte lies unsere [https://innersloth.com/privacy.php]Datenschutzrichtlinie[], um mehr zu unserem Umgang mit Datenschutz zu erfahren. Die Einstellungen für deine persönlichen Daten für Among Us kannst du unter "Daten" verwalten.
+ManageDataButton	Datensammlung verwalten
+UnderstandButton	Verstanden
+WaterPlants	Pflanzen gießen
+WeatherEta	ETA: {0} s
+WeatherComplete	Erledigt
+RunDiagnostics	Diagnose ausführen
+SettingShort	Kurz
+SettingMedium	Mittel
+SettingLong	Lang
+SamplesPress	Zum Starten drucken
+SamplesAdding	Reagenz hinzugeben
+SamplesSelect	Anomalie wählen
+SamplesThanks	Vielen Dank!
+SamplesComplete	Test beendet
+AstDestroyed	Zerstoert: {0}
+TaskTestTitle	Aufgabentester 2000
+BeginDiagnostics	Diagnose starten
+UserLeftGame	{0} hat Spiel verlassen.
+GameStarting	Start in {0}
+ChatRateLimit	Zu schnell. Warte {0} Sekunden.
+Tasks	Aufgaben
+MedscanRequested	Scan erbeten
+MedscanWaitingFor	Warten auf {0}
+MedscanCompleted	Scan fertig!
+MedscanCompleteIn	Scan fertig in {0}.
+StatsTitle	Statistiken
+StatsBodiesReported	Gemeldete Leichen:\t
+StatsEmergenciesCalled	Einberufene Treffen:\t
+StatsTasksCompleted	Einzelne erledigte Aufgaben:\t
+StatsAllTasksCompleted	Aufgabenleiste vervollständigt:\t
+StatsSabotagesFixed	Behobene Sabotagen:\t
+StatsImpostorKills	Verräter-Kills:\t\t
+StatsTimesMurdered	Anzahl der Tode:\t
+StatsTimesEjected	Anzahl der Rauswürfe:\t\t
+StatsCrewmateStreak	Besatzungsserie:\t
+StatsGamesImpostor	Verräterrolle:\t
+StatsGamesCrewmate	Besatzungsrolle:\t
+StatsGamesStarted	Gestartete Spiele:\t
+StatsGamesFinished	Beendete Spiele:\t
+StatsImpostorVoteWins	Verräter-Abstimmungssiege:\t
+StatsImpostorKillsWins	Verräter-Kill-Siege:\t
+StatsImpostorSabotageWins	Verräter-Sabotagesiege:\t
+StatsCrewmateVoteWins	Besatzung-Abstimmungssiege:\t
+StatsCrewmateTaskWins	Besatzung-Aufgabensiege:\t
+MonitorOxygen	Baumkontrolle
+StoreArtifacts	Artefakte packen
+FillCanisters	Kanister füllen
+InsertKeys	Aufschließen
+ResetSeismic	Seismo-Stabilisatoren zurücksetzen
+SeismicHoldToStop	Halten, um Seismo-Stabilisatoren zu aktivieren
+SeismicNominal	Seismische Aktivität nominal
+ScanBoardingPass	Bordkarte scannen
+FixWeatherNode	Repariere Wettermodul
+OpenWaterways	Wasser aufdrehen
+ReplaceWaterJug	Wasserfass ersetzen
+RepairDrill	Bohrer reparieren
+AlignTelescope	Teleskop ausrichten
+RecordTemperature	Temperatur aufzeichnen
+RebootWifi	WLAN-Neustart
+WifiRebootRequired	Neustart nötig
+WifiPleaseWait	Bitte warten
+WifiPleaseReturnIn	Bitte wiederkommen in {0}
+WifiPleasePowerOn	Bitte einschalten
+WifiRebootComplete	Neustart beendet
+Outside	Außen
+Dropship	Landekapsel
+Decontamination2	Dekontamination
+Specimens	Artenraum
+BoilerRoom	Heizraum
+GameOverImpostorDead	Eigentlich hätte jetzt die Besatzung gewonnen, weil der Verräter tot ist. Beim freien Spiel werden aber alle wiederbelebt.
+GameOverImpostorKills	Eigentlich hätte jetzt der Verräter gewonnen, weil die Besatzung nicht mehr gewinnen kann. Beim freien Spiel werden aber alle wiederbelebt.
+GameOverTaskWin	Eigentlich hätte jetzt die Besatzung gewonnen, weil die Aufgabenleiste voll ist. Beim freien Spiel werden aber neue Aufgaben erteilt.
+GameOverSabotage	Eigentlich hätte jetzt der Verräter aufgrund der kritischen Sabotage gewonnen. Stattdessen schalten wir einfach ab.
+HowToPlayText2Switch	Spielt mit eurer Nintendo Switch Online-Mitgliedschaft oder über das lokale WLAN mit 4 bis 10 Spielern online!
+VentDirection	Lüftungsrichtung
+VentMove	Durch Schacht gehen
+MenuNavigate	Navigieren
+NsoError	Verbindung zum Netzwerk fehlgeschlagen.
+ErrorServerOverload	Die Server von Among Us sind überlastet.\r\n\r\nSorry! Bitte probiere es später erneut!
+ErrorIntentionalLeaving	Nach einem absichtlichen Verbindungsabbruch kannst du {0} Minute(n) lang keinem weiteren Spiel beitreten.
+ErrorFocusLost	Deine Verbindung wurde getrennt, da Among Us von einer anderen Anwendung angehalten wurde.
+ErrorBanned	Du wurdest für {0} gesperrt.\r\n\r\nDiesen Raum kannst du nicht mehr betreten.
+ErrorKicked	Du wurdest aus {0} rausgeworfen.\r\n\r\nDu kannst diesen Raum erneut betreten, wenn er noch nicht gestartet wurde.
+ErrorBannedNoCode	Du wurdest für diesen Raum gesperrt.\r\n\r\nDiesen Raum kannst du nicht mehr betreten.
+ErrorKickedNoCode	Du wurdest aus diesem Raum rausgeworfen.\r\n\r\nDu kannst diesen Raum erneut betreten, wenn er noch nicht gestartet wurde.
+ErrorHacking	Du wurdest aufgrund von Hacking gesperrt.\r\n\r\nLass das bitte.
+ErrorFullGame	Das Spiel, dem du beitreten wolltest, ist voll.\r\n\r\nKontaktiere den Host, um zu fragen, ob du in der nächsten Runde dabei sein kannst.
+ErrorStartedGame	Das Spiel, dem du beitreten wolltest, hat bereits begonnen.\r\n\r\nKontaktiere den Host, um zu fragen, ob du in der nächsten Runde dabei sein kannst.
+ErrorNotFoundGame	Das von dir gesuchte Spiel konnte nicht gefunden werden.
+ErrorInactivity	Der Server hat dieses Spiel gestoppt. Möglicherweise aufgrund von Inaktivität.
+ErrorGenericOnlineDisconnect	Deine Verbindung zum Server wurde getrennt.\r\nPassiert dies öfter, dann solltest du die Signalstärke deiner Netzwerkverbindung überprüfen.\r\nDies kann aber auch ein Serverproblem sein.
+ErrorGenericLocalDisconnect	Deine Verbindung zum Host wurde getrennt.\r\n\r\nPassiert dies öfter, dann solltest du die Signalstärke deiner WLAN-Verbindung überprüfen.
+ErrorInvalidName	Der Server hat diesen Nutzernamen abgelehnt: {0}.
+ErrorUnknown	Deine Verbindung zum Server wurde aufgrund eines unbekannten Problems getrennt.
+ErrorIncorrectVersion	Du nutzt eine ältere Version der Software.\r\n\r\nBitte aktualisiere deine Version, um mit anderen spielen zu können.
+	
+ServerNA	Nordamerika
+ServerEU	Europa
+ServerAS	Asien
+ServerSA	Südamerika
+LangEnglish	English
+LangFrench	Français
+LangItalian	Italiano
+LangGerman	Deutsch
+LangSpanish	Español
+LangSpanishLATAM	Español (Latinoamérica)
+LangBrazPort	Português (Brasil)
+LangPort	Português
+LangRussian	Русский
+LangJapanese	日本語
+LangKorean	한국어
+LangDutch	Nederlands
+LangFilipino	Bisaya
+PlayerName	Spieler
+MyTablet	Mein Tablet
+Headquarters	Hauptquartier
+DownloadTestEstTimeS	Geschätzte Zeit: {0}s
+DownloadTestEstTimeMS	Geschätzte Zeit: {0}m {1}s
+DownloadTestEstTimeHMS	Geschätzte Zeit: {0}hr {1}m {2}s
+DownloadTestEstTimeDHMS	Geschätzte Zeit: {0}d {1}hr {2}m {3}s
+DownloadComplete	Fertig
+GrabCoffee	HOL DIR EINE TASSE KAFFEE
+TakeBreak	MACH EINE PAUSE
+DontNeedWait	DU BRAUCHST NICHT ZU WARTEN
+DoSomethingElse	MACH SOLANGE ETWAS ANDERES
+NodeTB	Knoten_TB
+NodeIRO	Knoten_IRO
+NodeGI	Knoten_GI
+NodePD	Knoten_PD
+NodeCA	Knoten_CA
+NodeMLG	Knoten_MLG
+Vending	AUTOMAT
+OtherLanguage	Andere
+ImposterAmtAny	1-3
+	
+VitalsORGN	ORGN
+VitalsBLUE	BLAU
+VitalsRED	ROT
+VitalsBRWN	BRN
+VitalsGRN	GRÜN
+VitalsPINK	PINK
+VitalsWHTE	WSS
+VitalsYLOW	GELB
+VitalsBLAK	SW
+VitalsPURP	LILA
+VitalsCYAN	TRKS
+VitalsLIME	LIM
+ColorOrange	ORANGE
+ColorBlue	BLAU
+ColorRed	ROT
+ColorBrown	BRAUN
+ColorGreen	GRÜN
+ColorPink	PINK
+ColorWhite	WEISS
+ColorYellow	GELB
+ColorBlack	SCHWARZ
+ColorPurple	LILA
+ColorCyan	TÜRKIS
+ColorLime	LIMETTE
+MedID	ID:
+MedC	F:
+MedHT	GR:
+MedBT	BG:
+MedWT	GW:
+MedETA	ETA {0}
+MedHello	HALLO!
+LobbySizeWarning	Among Us kann mit 4 Spielern gespielt \nwerden, aber 5 oder mehr Spieler werden empfohlen.\n\nRunden mit 4 Spielern sind schnell zu Ende, \nund der Verräter gewinnt dabei oft.
+Okay	Okay
+OkayDontShow	O. K., nicht mehr zeigen
+Nevermind	Egal
+CamEast	Osten
+CamCentral	Mitte
+CamNortheast	Nordosten
+CamSouth	Süden
+CamSouthwest	Südwest
+CamNorthwest	Nordwesten
+LoadingFailed	Laden fehlgeschlagen:
+PetFailFetchData	Haustierdaten nicht abrufbar
+BadResult	FEHLER
+More	{0} MEHR
+Processing	In Bearbeitung
+ExitGame	Spiel verlassen
+WaitingForHost	Warten auf Host
+LeftGameError	{0} hat das Spiel wegen eines Fehlers verlassen.
+PlayerWasBannedBy	{0} wurde von {1} gesperrt.
+PlayerWasKickedBy	{0} wurde von {1} rausgeworfen.
+Dummy	Dummy
+Bad	FALSCH
+Status	Status: 
+Fine	RICHTIG
+OK	OK
+SecondsAbbv	{0}s
+PetTryOn	Deine Auswahl!
+DataPolicyWhat	Was wird gesammelt?
+	
+	
+	
+VaultRoom	Tresorraum
+Cockpit	Cockpit
+Armory	Arsenal
+Kitchen	Küche
+ViewingDeck	Aussichtsdeck
+HallOfPortraits	Porträthalle
+Medical	Arztpraxis
+CargoBay	Laderaum
+Ventilation	Lüftung
+Showers	Duschen
+Engine	Antriebsraum
+Brig	Flur
+MeetingRoom	Tagungsraum
+Records	Archiv
+Lounge	Lounge
+GapRoom	Plattform
+MainHall	Hauptflur
+	
+PolishRuby	Rubin polieren
+ResetBreakers	Schalter zurückstellen
+Decontaminate	Dekontaminieren
+MakeBurger	Burger machen
+UnlockSafe	Safe öffnen
+SortRecords	Archiv sortieren
+PutAwayPistols	Pistolen verstauen
+PutAwayRifles	Gewehre verstauen
+FixShower	Dusche reparieren
+CleanToilet	Toilette putzen
+DressMannequin	Puppe anziehen
+PickUpTowels	Handtücher aufsammeln
+RewindTapes	Kassetten zurückspulen
+StartFans	Ventilatoren starten
+DevelopPhotos	Fotos entwickeln
+GetBiggolSword	Biggol-Schwert holen
+StopCharles	Unfall verhindern
+	
+RevealCode	Code aufdecken
+DirtyHeader	SCHMUTZIG
+AuthLeftOkay	
+AuthRightOkay	
+AuthLeftActive	
+AuthRightActive	
+AuthLeftNotActive	
+AuthRightNotActive	

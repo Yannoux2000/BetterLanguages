@@ -1,0 +1,684 @@
+KEY ID	Japanese
+LocalButton	ローカル
+OnlineButton	オンライン
+HowToPlayButton	プレイ方法
+FreePlayButton	フリープレイ
+PublicHeader	公開ルーム
+PrivateHeader	非公開ルーム
+HostHeader	ホスト
+ExitButton	閉じる
+BackButton	戻る
+AvailableGamesLabel	参加可能ゲーム
+CreateGameButton	ゲームを作成する
+FindGameButton	ゲームを探す
+EnterCode	コードを入力
+GhostIgnoreTasks	死亡した。高みの見物といこう。
+GhostDoTasks	死亡した。タスクを完了して勝利しよう。
+TotalTasksCompleted	完了したタスクの合計:
+GhostImpostor	死亡した。死亡後もサボタージュは可能だ。
+ImpostorTask	サボタージュを行い、全員倒そう。
+FakeTasks	偽のタスク:
+TaskComplete	タスク完了！
+ExileTextSP	{0}がインポスターだった。
+ExileTextSN	{0}はインポスターではなかった。
+ExileTextPP	{0}はインポスターだった。
+ExileTextPN	{0}はインポスターではなかった。
+NoExileSkip	誰も追放されなかった。（投票スキップ）
+NoExileTie	誰も追放されなかった。（同数投票）
+ExileTextNonConfirm	{0}が追放された。
+ImpostorsRemainS	インポスターが{0}人残っている。
+ImpostorsRemainP	インポスターが{0}人残っている。
+Hallway	通路
+Engines	エンジン
+UpperEngine	上部エンジン
+Cafeteria	カフェテリア
+Weapons	ウェポンルーム
+Reactor	原子炉
+Security	セキュリティルーム
+MedBay	医務室
+LifeSupp	酸素ルーム
+Nav	ナビゲーション
+LowerEngine	下部エンジン
+Electrical	電気室
+Admin	管理室
+Storage	保管庫
+Shields	シールドルーム
+Comms	通信室
+Decontamination	除染室
+Launchpad	発射台
+LockerRoom	ロッカールーム
+Laboratory	研究室
+Balcony	バルコニー
+Office	オフィス
+Greenhouse	温室
+DivertPowerTo	電力を{0}に変換する
+AcceptDivertedPower	変換した電力を受け取る
+SubmitScan	スキャンを実行する
+PrimeShields	シールドを準備する
+FuelEngines	エンジンに燃料供給する
+ChartCourse	船の進路を決める
+StartReactor	原子炉を起動する
+SwipeCard	カードをスワイプする
+ClearAsteroids	小惑星を一掃する
+DownloadData	データをダウンロードする
+UploadData	データをアップロードする
+InspectSample	サンプルを検査する
+EmptyChute	シュートを空にする
+EmptyGarbage	ゴミ箱を空にする
+AlignEngineOutput	エンジン出力を調整する
+FixWiring	配線を修理する
+CalibrateDistributor	ディストリビュータを調整する
+UnlockManifolds	マニホールドをアンロックする
+ResetReactor	原子炉メルトダウンまであと
+FixLights	照明を修理する
+CleanO2Filter	酸素フィルターを掃除する
+FixComms	通信が妨害された
+RestoreOxy	酸素枯渇まであと
+StabilizeSteering	ステアリングを安定させる
+AssembleArtifact	遺物を組み合わせる
+SortSamples	標本を分類する
+MeasureWeather	気象を調べる
+EnterIdCode	IDコードを入力する
+BuyBeverage	飲み物を買う
+ProcessData	データを処理する
+NumImpostorsS	この中に[FF1919FF]インポスターが1人[]いる
+NumImpostorsP	この中に[FF1919FF]{0}インポスターが[]いる
+Crewmate	クルー
+Impostor	インポスター
+Victory	勝利
+Defeat	敗北
+CrewmatesDisconnected	クルーの大半が\n接続されていない
+ImpostorDisconnected	インポスターが接続されていない
+PickAnomaly	異変を見つける
+WaterPlantsGetCan	ジョウロを獲得！
+AuthOfficeOkay	オフィス問題なし
+AuthCommsOkay	通信問題なし
+AuthOfficeActive	オフィス稼働中
+AuthCommsActive	通信稼働中
+AuthOfficeNotActive	オフィスは稼働していない
+AuthCommsNotActive	通信は稼働していない
+SecLogEntry	{0}が{1}センサーを通過した
+LogNorth	北
+LogSouthEast	南東
+LogSouthWest	南西
+EnterName	名前を入力
+SwipeCardPleaseInsert	カードを挿入してください
+SwipeCardPleaseSwipe	カードをスワイプしてください
+SwipeCardBadRead	読み取れません。もう一度お試しください。
+SwipeCardTooFast	早すぎます。もう一度お試しください。
+SwipeCardTooSlow	遅すぎます。もう一度お試しください。
+SwipeCardAccepted	承認されました。ありがとうございます。
+ReactorHoldToStop	長押しでメルトダウンを止める
+ReactorWaiting	セカンドユーザーを待っています
+ReactorNominal	原子炉は正常
+MeetingWhoIsTitle	インポスターは誰だ？
+MeetingVotingBegins	投票開始まであと: {0}秒
+MeetingVotingEnds	投票終了まであと: {0}秒
+MeetingVotingResults	投票結果
+MeetingProceeds	進行まであと: {0}秒
+MeetingHasVoted	{0}が投票しました。残り{1}人。
+HowToPlayText1	「Among Us」は、チームワークと裏切りがせめぎあうゲームです。\n\nプレイヤーは、クルーかインポスターのどちらかになります。
+HowToPlayText2	オンラインまたはローカルのWi-Fiで、4～10人でプレイ可能！
+HowToPlayText41	ホストはゲームプレイをコントロールできます。
+HowToPlayText42	まず、誰と一緒にプレイするかを決めましょう！\n\n友達とオンラインでプレイする場合は、「非公開」に設定し、ルームコードを共有します。\n\n世界中のプレイヤーとプレイする場合は、「公開」に設定します。
+HowToPlayText43	タスク量を増やす、歩行速度を早める、インポスターを増やす…ホストはこれらの設定を変更できます。仲間のプレイヤーに確認してから変更しましょう。
+HowToPlayText44	無礼な言動やスパムが見られた場合、ホストは警告としてそのプレイヤーを一時的に追い出す、または特定のオンラインルームからバンすることができます。
+HowToPlayTextMap	プレイヤーは、パーソナルマップを使って船内を移動できます。
+HowToPlayTextCrew1	目標: タスクゲージを満タンにするか、インポスターを見つけ出す。
+HowToPlayTextCrew2	タスクを完了してゲージを溜める。
+HowToPlayTextCrew3	インポスターによるサボタージュに対応する。
+HowToPlayTextCrew4	インポスターが見つかったら緊急会議を開く。
+HowToPlayTextCrew5	死体を通報する。
+HowToPlayTextCrew6	怪しい動きがないか、管理室マップと監視カメラで確認する。
+HowToPlayTextImp1	目標: クルーを全滅させる。
+HowToPlayTextImp2	クルーに紛れ込む。
+HowToPlayTextImp3	通気孔に隠れて移動する。
+HowToPlayTextImp4	タスクを実行する振りをする。
+HowToPlayTextImp5	船でサボタージュを起こし、クルーを混乱させる。
+HowToPlayTextImp6	ドアを閉め、被害者を閉じ込める。
+HowToPlayTextImp7	クールダウンの合間にクルーを全滅させる。
+HowToPlayText5	クルーとインポスターの双方に公平性を保つため、プレイ中の会話は許されない。\n\nインポスターに殺されたプレイヤーは、ゲーム終了まで話してはならない。\n\nゴーストになっても、アサインされたタスクを行い、クルー陣営を勝利に導くよう行動できる。
+HowToPlayText6	死体の通報があった、または緊急会議が開かれると、クルーは集合してインポスターについて知っていることを話し合う。\n\nこのとき、自分は誰をインポスターだと考えているか、どんな情報を持っているか、率直に発言できる。ゴーストは誰がインポスターかすでに知っているので、発言できない。\n\nインポスター陣営は無実を主張し、自分以外のクルーを告発する。
+HowToPlayText7	議論終了後、インポスターだと思う人に投票しよう。\n\n過半数の票が入ったプレイヤーは船外に追放されるので、投票は慎重に！\n\n情報不足から決め手に欠ける場合は、無実のクルーを追放しないように投票をスキップしてもよい。もっと情報を集めよう。
+HowToPlayText81	フリープレイモードで練習しよう！
+HowToPlayText82	クルーとして自分のタスクを設定したり、インポスターとして殺害計画を練ったりできる！
+SettingsGeneral	一般
+SettingsControls	操作
+SettingsSound	音声
+SettingsGraphics	グラフィック
+SettingsData	データ
+SettingsCensorChat	チャット検閲
+SettingsMusic	音楽
+SettingsSFX	SFX
+SettingsOn	オン
+SettingsOff	オフ
+SettingsSendTelemetry	データを送る
+SettingsControlMode	コントロールモード
+SettingsTouchMode	タッチ
+SettingsJoystickMode	ジョイスティック
+SettingsKeyboardMode	マウス+キーボード
+SettingsFullscreen	フル画面
+SettingsVSync	VSync
+SettingsResolution	解像度
+SettingsApply	適用
+SettingsPersonalizeAds	広告をパーソナライズ
+SettingsLanguage	言語
+SettingsJoystickSize	サイズ
+SettingsMouseMode	マウス
+MatchMapName	マップ:
+MatchLanguage	チャット:
+MatchImpostors	インポスター:
+MatchMaxPlayers	最大プレイヤー数:
+Cancel	キャンセル
+Confirm	確認
+PlayerColor	色
+PlayerHat	帽子
+PlayerSkin	スキン
+PlayerPet	ペット
+GameSettings	ゲーム
+GameRecommendedSettings	推奨設定
+GameCustomSettings	カスタム設定
+GameMapName	マップ
+GameNumImpostors	# インポスター
+GameNumMeetings	# 緊急会議
+GameDiscussTime	議論タイム
+GameVotingTime	投票タイム
+GamePlayerSpeed	プレイヤーの速度
+GameCrewLight	クルービジョン
+GameImpostorLight	インポスタービジョン
+GameKillCooldown	キルのクールダウン
+GameKillDistance	キル可能距離
+GameCommonTasks	# 通常タスク
+GameLongTasks	# ロングタスク
+GameShortTasks	# ショートタスク
+GameEmergencyCooldown	緊急ボタンクールダウン
+GameSecondsAbbrev	{0}秒
+GameConfirmImpostor	追放を確認
+GameVisualTasks	視認タスク
+GameAnonymousVotes	匿名投票
+GameTaskBarMode	タスクバーアップデート
+SettingNormalTaskMode	常時
+SettingMeetingTaskMode	会議
+SettingInvisibleTaskMode	行わない
+Limit	制限
+RoomCode	コード
+LeaveGame	ゲームをやめる
+ReturnToGame	ゲームに戻る
+LocalHelp	接続に問題がある場合\n\n●全員が同じ名称のWi-Fiに接続しているか確認してください\n\n●全員が同じバージョンでプレイしているか画面左上で確認して\n\nください\n\n●Wi-Fiの強度が十分か確認してください\n\n●ホストが代わると解決することがあります\n\n●アプリを再起動すると解決することがあります\n\n●スマートフォンを再起動すると解決することがあります\n\n●問題が解決しない場合は、Discordでお知らせください！
+OnlineHelp	利用方法\n\n●ゲームをホストすると、スタートボタンの近くにゲームコードが表示\nされます。\n●ゲームコードを友達に共有して、プライベートルームを作成します。\n●または、「非公開」をタップしてルームを公開にし、「ゲームを探す」で見つかるようにします。\n●チャットが利用可能な場合、ホストはプレイヤーをバンしたり追放し\nたりできます。\n●問題が解決しない場合は、Discordでお知らせください！
+EmergencyCount	クルー{0}が\n\n\n\n緊急会議を去った
+EmergencyNotReady	クルー陣営は\n\n\n\n次の緊急会議を待とう
+EmergencyDuringCrisis	緊急会議は\n危機の最中は開けない
+EmergencyRequested	緊急会議を要請しました\nホストを待っています
+AdPolicyTitle	広告に関するポリシー
+AdPolicyText	「Among Us」を無料でプレイしていただくため、マッチ後にはAdMobの広告が表示されます。\nAdMobはデフォルトでデータを収集し、パーソナライズド広告を表示します。ただし、非パーソナライズド広告についても、AdMobはクッキー、\n端末ID、大まかなジオデータを使用します。当社では\nこれをオフにできませんので、広告非表示のアップグレード（2ドル）の購入を\nお勧めします。\n\n広告非表示のアップグレードを購入すると、あなたがホストするゲームをプレイするお友達にも、広告が表示されません！\n以前にアップグレードをご購入された方は、ストアを開いて受け取りを\n回復してください。
+Accept	同意する
+RemoveAds	広告を非表示にする
+PlainYes	はい
+PlainNo	いいえ
+PrivacyPolicyTitle	プライバシーポリシー
+PrivacyPolicyText	Among Usにおける個人情報は、Innerslothが取り扱います。当社の[https://innersloth.com/privacy.php]プライバシーポリシー[]を読み、当社の個人情報取り扱い方針をご理解ください。Among Usの個人情報設定は、「データ」で管理していただけます。
+ManageDataButton	データ収集を管理
+UnderstandButton	同意する
+WaterPlants	植物に水をやる
+WeatherEta	到着予定時刻: {0}秒
+WeatherComplete	完了
+RunDiagnostics	診断を行う
+SettingShort	ショート
+SettingMedium	ミドル
+SettingLong	ロング
+SamplesPress	押してスタート
+SamplesAdding	試薬を追加
+SamplesSelect	異変を選択する
+SamplesThanks	ありがとう！
+SamplesComplete	テスト完了
+AstDestroyed	破壊済み: {0}
+TaskTestTitle	タスクテスター2000
+BeginDiagnostics	診断を始める
+UserLeftGame	{0}が退出しました。
+GameStarting	開始まであと{0}
+ChatRateLimit	早すぎます。{0}秒お待ちください
+Tasks	タスク
+MedscanRequested	スキャンを申請しました
+MedscanWaitingFor	{0}を待っています
+MedscanCompleted	スキャン完了！
+MedscanCompleteIn	スキャン完了まであと{0}
+StatsTitle	プレイデータ
+StatsBodiesReported	通報された死体:\t
+StatsEmergenciesCalled	開いた緊急会議:\t
+StatsTasksCompleted	完了したタスク:\t
+StatsAllTasksCompleted	全タスク完了:\t
+StatsSabotagesFixed	解決したサボタージュ:\t
+StatsImpostorKills	インポスターによる殺害:\t\t
+StatsTimesMurdered	殺害された回数:\t
+StatsTimesEjected	追放された回数:\t\t
+StatsCrewmateStreak	連続でクルーになった回数:\t
+StatsGamesImpostor	インポスターになった回数:\t
+StatsGamesCrewmate	クルーになった回数:\t
+StatsGamesStarted	開始したゲーム:\t
+StatsGamesFinished	終了したゲーム:\t
+StatsImpostorVoteWins	インポスターでの投票勝利:\t
+StatsImpostorKillsWins	インポスターでの殺害勝利:\t
+StatsImpostorSabotageWins	インポスターでのサボタージュ勝利:\t
+StatsCrewmateVoteWins	クルーでの投票勝利:\t
+StatsCrewmateTaskWins	クルーでのタスク勝利:\t
+MonitorOxygen	木を監視する
+StoreArtifacts	遺物を保管する
+FillCanisters	キャニスターをいっぱいにする
+InsertKeys	鍵を差し込む
+ResetSeismic	耐震安定装置をリセットする
+SeismicHoldToStop	長押しで耐震安定装置を起動
+SeismicNominal	耐震安定装置は正常
+ScanBoardingPass	搭乗券をスキャンする
+FixWeatherNode	気象ノードを修理する
+OpenWaterways	水路を開く
+ReplaceWaterJug	ウォーターボトルを取り換える
+RepairDrill	ドリルを修理する
+AlignTelescope	望遠鏡を調整する
+RecordTemperature	気温を記録する
+RebootWifi	Wi-Fiを再起動する
+WifiRebootRequired	再起動をリクエストしました
+WifiPleaseWait	お待ちください
+WifiPleaseReturnIn	{0}後に戻ってください
+WifiPleasePowerOn	パワーをオンにしてください
+WifiRebootComplete	再起動完了
+Outside	船外
+Dropship	ドロップシップ
+Decontamination2	除染室
+Specimens	標本室
+BoilerRoom	ボイラー室
+GameOverImpostorDead	インポスター陣営が死亡すると、通常はクルー陣営が勝利します。フリープレイでは全員を蘇生させます。
+GameOverImpostorKills	クルー陣営の敗北が決まれば、通常はインポスター陣営が勝利します。フリープレイでは全員を蘇生させます。
+GameOverTaskWin	タスクバーが満タンになると、通常はクルー陣営が勝利します。フリープレイでは新しいタスクを発行します。
+GameOverSabotage	重大なサボタージュを起こせば、通常はインポスター陣営が勝利します。その代わり、サボタージュを食い止めます。
+HowToPlayText2Switch	「Nintendo Switch Online」に加入して、またはローカルWi-Fiを介して、4～10人でオンラインプレイ可能！
+VentDirection	通気孔の道順
+VentMove	通気孔で移動する
+MenuNavigate	メニューを確認
+NsoError	ネットワークに接続できませんでした。
+ErrorServerOverload	Among Usサーバが過密になっています。\r\n\r\nごめん！後でまた来て！
+ErrorIntentionalLeaving	故意に接続を切ると、その後{0}分間は他のゲームに参加できません。
+ErrorFocusLost	Among Usが他のアプリによって中断されたため、接続が切れました。
+ErrorBanned	{0}からバンされました。\r\n\r\nルームに再入室できません。
+ErrorKicked	{0}から追い出されました。\r\n\r\nルームが開始していなければ再入室できます。
+ErrorBannedNoCode	ルームからバンされました。\r\n\r\nルームに再入室できません。
+ErrorKickedNoCode	ルームから追い出されました。\r\n\r\nルームが開始していなければ再入室できます。
+ErrorHacking	ハッキングしたためにバンされました。\r\n\r\nおやめください。
+ErrorFullGame	参加しようとしたゲームは満員です。\r\n\r\n次の回に参加できるか、ホストに確認してください。
+ErrorStartedGame	参加しようとしたゲームはすでに開始しています。\r\n\r\n次の回に参加できるか、ホストに確認してください。
+ErrorNotFoundGame	探しているゲームが見つかりませんでした。
+ErrorInactivity	サーバによりゲームが停止しました。活動がなかったと思われます。
+ErrorGenericOnlineDisconnect	サーバー接続が切れました。\r\n頻発する場合は、ネットワークの強度を確認してください。\r\nサーバー側の問題である可能性もあります。
+ErrorGenericLocalDisconnect	ホストとの接続が切れました。\r\n\r\n頻発する場合は、Wi-fiの強度を確認してください。
+ErrorInvalidName	サーバーが拒否したユーザーネーム：{0}
+ErrorUnknown	不明なエラーによりサーバー接続が切れました。
+ErrorIncorrectVersion	ソフトのバージョンが最新ではありません。\r\n\r\n他の方に合わせてアップデートしてください。
+	
+ServerNA	北米
+ServerEU	欧州
+ServerAS	アジア
+ServerSA	南米
+LangEnglish	English
+LangFrench	Français
+LangItalian	Italiano
+LangGerman	Deutsch
+LangSpanish	Español
+LangSpanishLATAM	Español (Latinoamérica)
+LangBrazPort	Português (Brasil)
+LangPort	Português
+LangRussian	Русский
+LangJapanese	日本語
+LangKorean	한국어
+LangDutch	Nederlands
+LangFilipino	Bisaya
+PlayerName	プレイヤー
+MyTablet	タブレット
+Headquarters	本部
+DownloadTestEstTimeS	推定所用時間: {0}秒
+DownloadTestEstTimeMS	推定所用時間: {0}分 {1}秒
+DownloadTestEstTimeHMS	推定所用時間: {0}時 {1}分 {2}秒
+DownloadTestEstTimeDHMS	推定所用時間: {0}日 {1}時 {2}分 {3}秒
+DownloadComplete	完了
+GrabCoffee	コーヒーを淹れる
+TakeBreak	休憩する
+DontNeedWait	どんどん進める
+DoSomethingElse	他のことをする
+NodeTB	ノードTB
+NodeIRO	ノードIRO
+NodeGI	ノードGI
+NodePD	ノードPD
+NodeCA	ノードCA
+NodeMLG	ノードMLG
+Vending	自販機
+OtherLanguage	その他
+ImposterAmtAny	全員
+	
+VitalsORGN	オレンジ
+VitalsBLUE	ブルー
+VitalsRED	レッド
+VitalsBRWN	ブラウン
+VitalsGRN	グリーン
+VitalsPINK	ピンク
+VitalsWHTE	ホワイト
+VitalsYLOW	イエロー
+VitalsBLAK	ブラック
+VitalsPURP	パープル
+VitalsCYAN	シアン
+VitalsLIME	ライム
+ColorOrange	オレンジ
+ColorBlue	ブルー
+ColorRed	レッド
+ColorBrown	ブラウン
+ColorGreen	グリーン
+ColorPink	ピンク
+ColorWhite	ホワイト
+ColorYellow	イエロー 
+ColorBlack	ブラック
+ColorPurple	パープル
+ColorCyan	シアン
+ColorLime	ライム
+MedID	ID:
+MedC	色:
+MedHT	身長:
+MedBT	血液型:
+MedWT	体重:
+MedETA	到着予定時刻 {0}
+MedHello	こんにちは！
+LobbySizeWarning	Among Usは4人でプレイ可能ですが、5人以上でのプレイが\nお勧めです。\n\n4人でのゲームは非常に短時間で終了し、インポスター\nが勝利することが多くなります。
+Okay	OK
+OkayDontShow	このメッセージ\nを表示しない
+Nevermind	構わない
+CamEast	東
+CamCentral	中央
+CamNortheast	北東
+CamSouth	南
+CamSouthwest	南西
+CamNorthwest	北西
+LoadingFailed	ロード失敗:
+PetFailFetchData	ペットデータを取得できませんでした
+BadResult	失敗
+More	あと{0}
+Processing	処理中
+ExitGame	退出する
+WaitingForHost	ホストを待っています
+LeftGameError	{0}がエラーのため退出しました。
+PlayerWasBannedBy	{0}が{1}によりバンされました
+PlayerWasKickedBy	{0}が{1}により追い出されました
+Dummy	ダミー
+Bad	BAD
+Status	ステータス: 
+Fine	OK
+OK	OK
+SecondsAbbv	{0}秒
+PetTryOn	試してみよう！
+DataPolicyWhat	収集するデータ
+	
+	
+	
+VaultRoom	金庫室
+Cockpit	コックピット
+Armory	武器庫
+Kitchen	キッチン
+ViewingDeck	展望デッキ
+HallOfPortraits	肖像画ホール
+Medical	診察室
+CargoBay	貨物室
+Ventilation	換気室
+Showers	シャワー室
+Engine	エンジンルーム
+Brig	宿舎前通路
+MeetingRoom	ミーティングルーム
+Records	アーカイブ
+Lounge	ラウンジ
+GapRoom	昇降機
+MainHall	メインホール
+	
+PolishRuby	ルビーを磨く
+ResetBreakers	ブレーカーをリセットする
+Decontaminate	除染する
+MakeBurger	バーガーを作る
+UnlockSafe	金庫を開錠する
+SortRecords	記録を分類する
+PutAwayPistols	銃を片づける
+PutAwayRifles	ライフルを片づける
+FixShower	シャワーを修理する
+CleanToilet	トイレを掃除する
+DressMannequin	マネキンに服を着せる
+PickUpTowels	タオルを拾う
+RewindTapes	テープを巻き戻す
+StartFans	ファンを回す
+DevelopPhotos	写真を現像する
+GetBiggolSword	Biggolソードを入手する
+StopCharles	衝突コースを回避する
+	
+RevealCode	コードを表示する
+DirtyHeader	汚れ
+AuthLeftOkay	左側問題なし
+AuthRightOkay	右側問題なし
+AuthLeftActive	左側稼働中
+AuthRightActive	右側稼働中
+AuthLeftNotActive	左側稼働していない
+AuthRightNotActive	右側稼働していない
+EngagementScreen	ボタンを押して始める。
+DeleteButton	削除
+QuickChat	クイックチャット
+QCLocationLaptop	ノートPC
+QCLocationSkeld	スケルド
+QCLocationMira	ミラ 
+QCLocationPolus	ポーラス
+QCSystemsStart	開始
+QCSystemsKick	追い出す
+QCCrewI	私
+QCCrewMe	僕
+QCCrewNoOne	誰も
+QCAccAKilledB	{0}が{1}を殺した
+QCAccAKilledBNeg	{0}は{1}を殺してない
+QCAccAIsSuspicious	{0}が怪しい
+QCAccAIsSuspiciousNeg	{0}はクルー
+QCAccASawBVent	{0}が{1}を通気孔で見た
+QCAccASawBVentNeg	{0}は{1}を通気孔で見なかった
+QCAccAWasChasingB	{0}が{1}を追ってた
+QCAccAWasChasingBNeg	{0}は{1}を追ってなかった
+QCAccAIsLying	{0}はウソをついてる
+QCAccAIsLyingNeg	{0}が言ってることは本当
+QCAccVoteA	{0}に投票しろ
+QCAccVoteANeg	{0}に投票するな
+QCAccADidntReport	{0}は死体を通報しなかった
+QCResYes	はい
+QCResNo	いいえ
+QCResDontKnow	わからない
+QCResDontKnowNeg	多分
+QCResAWas	{0}だった
+QCResAWasNeg	{0}じゃなかった
+QCResADid	{0}がやった
+QCResADidNeg	{0}はやってない
+QCResVote	投票しよう
+QCResVoteNeg	投票スキップ
+QCResAWasAtB	{0}が{1}を狙ってた
+QCResAWasAtBNeg	{0}は{1}を狙ってなかった
+QCResRip	ご冥福を…
+QCResRipNeg	よっしゃ
+QCResLies	ウソだな
+QCResLiesNeg	オッケー
+QCQstWhere	どこ？
+QCQstWho	誰？
+QCQstWhoWasWith	{0}と一緒にいたの誰？
+QCQstWhatWasADoing	{0}は何してた？
+QCQstWhoFixedA	{0}を修理したの誰？
+QCQstWhereWasA	{0}はどこにいた？
+QCQstBodyOrMeeting	死体発見？緊急会議？
+QCStaASawB	{0}が{1}を見た
+QCStaAWasWithB	{0}は{1}と一緒にいた
+QCStaADidB	{0}が{1}をした
+QCStaASelfReported	{0}が自分で通報した
+QCStaDoubleKill	ダブルキルだった
+QCStaWasSelfReport	本人の通報だった
+QCStaPleaseDoTasks	タスクをやってね
+QCStaBodyWasInA	死体は{0}にあった
+QCStaACalledMeeting	{0}が会議を招集した
+QCLocation	位置
+QCSystems	システム
+QCCrew	クルー
+QCAccusation	告発
+QCResponse	回答
+QCQuestion	質問
+QCStatements	宣言
+ChatType	チャットタイプ
+QuickChatOnly	クイックチャットのみ
+FreeChatOnly	フリーチャットのみ
+FreeOrQuickChat	フリーまたはクイックチャット
+DateOfBirth	生年月日
+DateOfBirthEnter	生年月日を入力してください:
+Month	月:
+Day	日:
+Year	年:
+January	1月
+February	2月
+March	3月
+April	4月
+May	5月
+June	6月
+July	7月
+August	8月
+September	9月
+October	10月
+November	11月
+December	12月
+Submit	送信
+	
+QCAccAKilledB_QCCrewMe_ANY	私が{0}を殺した
+QCAccAKilledB_QCCrewMe_QCCrewNoOne	私は誰もを殺してない
+QCAccAKilledB_QCCrewMe_QCCrewMe	
+QCAccAKilledB_ANY_QCCrewMe	{0}が私を殺した
+QCAccAKilledB	{0}が{1}を殺した
+QCAccAKilledB_ANY_QCCrewNoOne	{0}は誰もを殺してない
+QCAccAKilledB_QCCrewNoOne_QCCrewMe	誰もは私を殺してない
+QCAccAKilledB_QCCrewNoOne_ANY	誰もは{0}を殺してない
+QCAccAKilledB_QCCrewNoOne_QCCrewNoOne	
+QCAccAKilledBNeg_QCCrewMe_ANY	私は{0}を殺してない
+QCAccAKilledBNeg_QCCrewMe_QCCrewNoOne	私は誰もを殺してない
+QCAccAKilledBNeg_QCCrewMe_QCCrewMe	自殺してない
+QCAccAKilledBNeg_ANY_QCCrewMe	{0}は私を殺してない
+QCAccAKilledBNeg	{0}は{1}を殺してない
+QCAccAKilledBNeg_ANY_QCCrewNoOne	{0}は誰もを殺してない
+QCAccAKilledBNeg_QCCrewNoOne_QCCrewMe	
+QCAccAKilledBNeg_QCCrewNoOne_ANY	
+QCAccAKilledBNeg_QCCrewNoOne_QCCrewNoOne	
+QCAccAIsSuspicious_QCCrewMe	私が怪しい
+QCAccAIsSuspicious	{0}が怪しい
+QCAccAIsSuspicious_QCCrewNoOne	誰もが怪しくない
+QCAccAIsSuspiciousNeg_QCCrewMe	私はクール
+QCAccAIsSuspiciousNeg	{0}はクール
+QCAccAIsSuspiciousNeg_QCCrewNoOne	誰もはクールじゃない
+QCAccASawBVent_QCCrewMe_ANY	
+QCAccASawBVent_QCCrewMe_QCCrewNoOne	
+QCAccASawBVent_QCCrewMe_QCCrewMe	
+QCAccASawBVent_ANY_QCCrewMe	
+QCAccASawBVent	
+QCAccASawBVent_ANY_QCCrewNoOne	
+QCAccASawBVent_QCCrewNoOne_QCCrewMe	
+QCAccASawBVent_QCCrewNoOne_ANY	
+QCAccASawBVent_QCCrewNoOne_QCCrewNoOne	
+QCAccASawBVentNeg_QCCrewMe_ANY	
+QCAccASawBVentNeg_QCCrewMe_QCCrewNoOne	
+QCAccASawBVentNeg_QCCrewMe_QCCrewMe	
+QCAccASawBVentNeg_ANY_QCCrewMe	
+QCAccASawBVentNeg	
+QCAccASawBVentNeg_ANY_QCCrewNoOne	
+QCAccASawBVentNeg_QCCrewNoOne_QCCrewMe	
+QCAccASawBVentNeg_QCCrewNoOne_ANY	
+QCAccASawBVentNeg_QCCrewNoOne_QCCrewNoOne	
+QCAccAWasChasingB_QCCrewMe_ANY	
+QCAccAWasChasingB_QCCrewMe_QCCrewNoOne	
+QCAccAWasChasingB_QCCrewMe_QCCrewMe	
+QCAccAWasChasingB_ANY_QCCrewMe	
+QCAccAWasChasingB	
+QCAccAWasChasingB_ANY_QCCrewNoOne	
+QCAccAWasChasingB_QCCrewNoOne_QCCrewMe	
+QCAccAWasChasingB_QCCrewNoOne_ANY	
+QCAccAWasChasingB_QCCrewNoOne_QCCrewNoOne	
+QCAccAWasChasingBNeg_QCCrewMe_ANY	
+QCAccAWasChasingBNeg_QCCrewMe_QCCrewNoOne	
+QCAccAWasChasingBNeg_QCCrewMe_QCCrewMe	
+QCAccAWasChasingBNeg_ANY_QCCrewMe	
+QCAccAWasChasingBNeg	
+QCAccAWasChasingBNeg_ANY_QCCrewNoOne	
+QCAccAWasChasingBNeg_QCCrewNoOne_QCCrewMe	
+QCAccAWasChasingBNeg_QCCrewNoOne_ANY	
+QCAccAWasChasingBNeg_QCCrewNoOne_QCCrewNoOne	
+QCAccAIsLying_QCCrewMe	
+QCAccAIsLying	
+QCAccAIsLying_QCCrewNoOne	
+QCAccAIsLyingNeg_QCCrewMe	
+QCAccAIsLyingNeg	
+QCAccAIsLyingNeg_QCCrewNoOne	
+QCAccVoteA_QCCrewMe	
+QCAccVoteA	
+QCAccVoteA_QCCrewNoOne	
+QCAccVoteANeg_QCCrewMe	
+QCAccVoteANeg	
+QCAccVoteANeg_QCCrewNoOne	
+QCAccADidntReport_QCCrewMe	
+QCAccADidntReport	
+QCAccADidntReport_QCCrewNoOne	
+QCResAWas_QCCrewMe	
+QCResAWas	
+QCResAWas_QCCrewNoOne	
+QCResAWasNeg_QCCrewMe	
+QCResAWasNeg	
+QCResAWasNeg_QCCrewNoOne	
+QCResADid_QCCrewMe	
+QCResADid	
+QCResADid_QCCrewNoOne	
+QCResADidNeg_QCCrewMe	
+QCResADidNeg	
+QCResADidNeg_QCCrewNoOne	
+QCResAWasAtB_QCCrewMe_ANY	
+QCResAWasAtB	
+QCResAWasAtB_QCCrewNoOne_ANY	
+QCResAWasAtBNeg_QCCrewMe_ANY	
+QCResAWasAtBNeg	
+QCResAWasAtBNeg_QCCrewNoOne_ANY	
+QCQstWhoWasWith_QCCrewMe	
+QCQstWhoWasWith	
+QCQstWhoWasWith_QCCrewNoOne	
+QCQstWhatWasADoing_QCCrewMe	
+QCQstWhatWasADoing	
+QCQstWhatWasADoing_QCCrewNoOne	
+QCQstWhereWasA_QCCrewMe	
+QCQstWhereWasA	
+QCQstWhereWasA_QCCrewNoOne	
+QCStaASawB_QCCrewMe_ANY	
+QCStaASawB_QCCrewMe_QCCrewNoOne	
+QCStaASawB_QCCrewMe_QCCrewMe	
+QCStaASawB_ANY_QCCrewMe	
+QCStaASawB	
+QCStaASawB_ANY_QCCrewNoOne	
+QCStaASawB_QCCrewNoOne_QCCrewMe	
+QCStaASawB_QCCrewNoOne_ANY	
+QCStaASawB_QCCrewNoOne_QCCrewNoOne	
+QCStaAWasWithB_QCCrewMe_ANY	
+QCStaAWasWithB_QCCrewMe_QCCrewNoOne	
+QCStaAWasWithB_QCCrewMe_QCCrewMe	
+QCStaAWasWithB_ANY_QCCrewMe	
+QCStaAWasWithB	
+QCStaAWasWithB_ANY_QCCrewNoOne	
+QCStaAWasWithB_QCCrewNoOne_QCCrewMe	
+QCStaAWasWithB_QCCrewNoOne_ANY	
+QCStaAWasWithB_QCCrewNoOne_QCCrewNoOne	
+QCStaADidB_QCCrewMe_ANY	
+QCStaADidB	
+QCStaADidB_QCCrewNoOne_ANY	
+QCStaASelfReported_QCCrewMe	
+QCStaASelfReported	
+QCStaASelfReported_QCCrewNoOne	
+QCStaACalledMeeting_QCCrewMe	
+QCStaACalledMeeting	
+QCStaACalledMeeting_QCCrewNoOne	
+QCMore	もっと
+	
+	
+SecurityLogsSystem	セキュリティカム
+SecurityCamsSystem	管理マップ
+AdminMapSystem	バイタルのモニター
+VitalsSystem	セキュリティログ

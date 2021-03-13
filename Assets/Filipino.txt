@@ -1,0 +1,461 @@
+KEY ID	Filipino (Bisaya)
+LocalButton	Lokal
+OnlineButton	Online
+HowToPlayButton	Unsaon Pagdula
+FreePlayButton	Freeplay
+PublicHeader	Pampubliko
+PrivateHeader	Pribado
+HostHeader	Host
+ExitButton	Mobiya
+BackButton	Balik
+AvailableGamesLabel	Mga Available nga Dula
+CreateGameButton	Paghimo og Dula
+FindGameButton	Pangita og Dula
+EnterCode	Ibutang ang Code
+GhostIgnoreTasks	Patay na ka. I-enjoy ang kagubot.
+GhostDoTasks	Patay na ka. Humna ang imong mga task aron modaog.
+TotalTasksCompleted	Kinatibuk-ang mga task nga nakumpleto
+GhostImpostor	Patay na ka. Mahimo gihapon kang magsabotahe.
+ImpostorTask	Pagsabotahe ug patya ang tanan.
+FakeTasks	Mga Peke nga Task:
+TaskComplete	Nakumpleto na ang Task!
+ExileTextSP	Si {0} ang Impostor.
+ExileTextSN	Dili si {0} ang Impostor.
+ExileTextPP	Impostor si {0}.
+ExileTextPN	Dili Impostor si {0}.
+NoExileSkip	Walay na-eject. (Milaktaw)
+NoExileTie	Walay na-eject. (Tie)
+ExileTextNonConfirm	Na-eject si {0}.
+ImpostorsRemainS	{0} ka Impostor na lamang ang nahibilin.
+ImpostorsRemainP	{0} ka Impostor na lamang ang nahibilin.
+Hallway	Hallway
+Engines	Mga Engine
+UpperEngine	Engine sa Ibabaw
+Cafeteria	Cafeteria
+Weapons	Mga Armas
+Reactor	Reactor
+Security	Seguridad
+MedBay	MedBay
+LifeSupp	O2
+Nav	Nabigasyon
+LowerEngine	Engine sa Ubos
+Electrical	Elektrikal
+Admin	Admin
+Storage	Storage
+Shields	Mga Shield
+Comms	Comms
+Decontamination	Decontamination
+Launchpad	Launchpad
+LockerRoom	Locker Room
+Laboratory	Laboratoryo
+Balcony	Balkonahe
+Office	Opisina
+Greenhouse	Greenhouse
+DivertPowerTo	I-divert ang Power sa {0}
+AcceptDivertedPower	Dawata ang Na-divert nga Power
+SubmitScan	Isumite ang Pag-scan
+PrimeShields	I-prime ang Mga Shield
+FuelEngines	Butangi og Fuel ang Mga Engine
+ChartCourse	I-chart ang Course
+StartReactor	Paganaha ang Reactor
+SwipeCard	I-swipe ang Kard
+ClearAsteroids	I-clear ang Mga Asteroid
+DownloadData	I-download ang Data
+UploadData	I-upload ang Data
+InspectSample	Susiha ang Sampol
+EmptyChute	Tangtanga ang Sulod sa Chute
+EmptyGarbage	Tangtanga ang Sulod sa Basurahan
+AlignEngineOutput	I-align ang Engine Output
+FixWiring	Ayoha ang Wiring
+CalibrateDistributor	I-calibrate ang Distributor
+UnlockManifolds	I-unlock ang Mga Manifold
+ResetReactor	Molanay ang Reactor sa
+FixLights	Ayoha ang Mga Suga
+CleanO2Filter	Limpiyohi ang O2 Filter
+FixComms	Gisabotahe ang Comms
+RestoreOxy	Mahurot na ang Oxygen sa
+StabilizeSteering	I-stabilize ang Steering
+AssembleArtifact	I-assemble ang Artifact
+SortSamples	Ihan-ay ang Mga Sampol
+MeasureWeather	Sukda ang Panahon
+EnterIdCode	Ibutang ang Id Code
+BuyBeverage	Pagpalit og Mainom
+ProcessData	Iproseso ang Data
+NumImpostorsS	Adunay [FF1919FF]1 ka Impostor[] kanato
+NumImpostorsP	Adunay [FF1919FF]{0} ka Impostor[] kanato
+Crewmate	Crewmate
+Impostor	Impostor
+Victory	Kadaogan
+Defeat	Kapildihan
+CrewmatesDisconnected	Nadiskonekta ang\nKadaghanan sa Mga Crewmate
+ImpostorDisconnected	Nadiskonekta ang Impostor
+PickAnomaly	Pagpili og Anomalya
+WaterPlantsGetCan	Pagkuha og Watering Can!
+AuthOfficeOkay	OK ang Opisina
+AuthCommsOkay	OK ang Comms
+AuthOfficeActive	AKTIBO ang Opisina
+AuthCommsActive	AKTIBO ang Comms
+AuthOfficeNotActive	DILI AKTIBO ang Opisina
+AuthCommsNotActive	DILI AKTIBO ang Comms
+SecLogEntry	Miagi si {0} sa sensor sa {1}
+LogNorth	North
+LogSouthEast	Southeast
+LogSouthWest	Southwest
+EnterName	Ibutang ang Ngalan
+SwipeCardPleaseInsert	Palihug ibutang ang kard
+SwipeCardPleaseSwipe	Palihug i-swipe ang kard
+SwipeCardBadRead	Wala nabasa. Sulayi pag-usab.
+SwipeCardTooFast	Paspas kaayo. Sulayi pag-usab.
+SwipeCardTooSlow	Hinay kaayo. Sulayi pag-usab.
+SwipeCardAccepted	Nadawat na. Salamat.
+ReactorHoldToStop	I-hold ipaundang meltdown
+ReactorWaiting	Naghulat sa ikaduhang user
+ReactorNominal	Nominal ang Reactor
+MeetingWhoIsTitle	Kinsa ang Impostor?
+MeetingVotingBegins	Magsugod ang Pagboto sa: {0}s
+MeetingVotingEnds	Matapos ang Pagboto sa: {0}s
+MeetingVotingResults	Mga Resulta sa Pagboto
+MeetingProceeds	Magpadayon sa: {0}s
+MeetingHasVoted	Miboto na si {0}. {1} na lamang ang nahibilin.
+HowToPlayText1	Ang Among Us usa ka dula sa pagtinabangay ug pagtraydor.\n\nAng mga player kay Mga Crewmate o Impostor.
+HowToPlayText2	Pakigdula sa 4 hangtud sa 10 ka player online o pinaagi sa lokal nga WiFi!
+HowToPlayText41	Kung mag-host og dula, aduna kay kontrol sa paagi sa pagdula.
+HowToPlayText42	Una, pilia kung kinsa ang gusto nimong makadula!\n\nKung gusto nimong makigdula sa mga higala online, itakda sa "pribado" ug i-share ang room code.\n\nKung gusto kang makigdula sa uban pang gikan sa tibuok kalibutan, itakda sa "pampubliko".
+HowToPlayText43	Gustong magdula nga daghan ang task? Gusto og mas paspas nga paglakaw? Dugang pang Impostor? Isip host, mabag-o nimo kini nga setting. Siguroha nga kumpirmahon ang kabag-ohan sa mga kauban nga player.
+HowToPlayText44	Kung adunay bastos ug/o nag-spam, mahimong temporaryong magtangtang ang host og mga player isip pasidaan o i-ban ang mga player sa partikular nga online room.
+HowToPlayTextMap	Adunay akses ang mga player sa personal nga mapa aron matabangan sila sa pag-navigate sa barko.
+HowToPlayTextCrew1	Katuyoan: Mapuno ang Task Bar sa Grupo o Madiskubre ang Impostor.
+HowToPlayTextCrew2	Kumpletoha ang task aron mapuno ang gauge.
+HowToPlayTextCrew3	Pag-react sa Sabotahe sa Impostor.
+HowToPlayTextCrew4	Pagtawag og emergency meeting kung makit-an na ang Impostor.
+HowToPlayTextCrew5	I-report ang mga patay nga lawas.
+HowToPlayTextCrew6	Susiha ang Mapa ug Seguridad sa Admin kung adunay kadudahang aktibidad.
+HowToPlayTextImp1	Katuyoan: Patyon ang Crew.
+HowToPlayTextImp2	Pakig-uban-uban sa Crew.
+HowToPlayTextImp3	Tago pinaagi sa mga vent.
+HowToPlayTextImp4	Pagpasumangil nga magbuhat og mga task.
+HowToPlayTextImp5	Isabotahe ang barko ug liboga ang Crew.
+HowToPlayTextImp6	Isirado ang pultahan ug ipriso ang biktima.
+HowToPlayTextImp7	Patya ang Crew sa panahon sa cooldown.
+HowToPlayText5	Samtang personal nga nagdula, wala gitugutan ang pag-istoryahay aron mapabiling patas ang dula taliwala sa Crew ug sa Impostor.\n\nKung mapatay sa Impostor ang usa ka player, dili sila mahimong mag-istoryahay hangtud nga matapos ang dula.\n\nBuhaton gihapon sa mga kalag ang ilang mga nakatakdang task aron posibleng modaog ang Mga Crewmate.
+HowToPlayText6	Kung adunay mag-report og patay nga lawas o motawag og emergency meeting, magtapok ang Crew aron hisgutan ang ilang nahibaluan mahitungod sa Impostor.\n\nMahimo na karong mag-istoryahay ang mga player mahitungod sa kung kinsa ang Impostor ug kung unsang impormasyon ang aduna sila. Kung personal nga magdula, dili mahimong moistorya ang Mga Kalag tungod kay nakahibalo na sila kung kinsa ang Impostor.\n\nMagsulay ang Mga Impostor sa pagpamatuod sa ilang pagkainosente o mag-akusa og laing miyembro sa crew.
+HowToPlayText7	Pagkahuman sa pakighisgot, muboto ka kung kinsa ang Impostor.\n\nI-eject sa barko ang makakuha sa pinakadaghang boto, mao nga taronga ang pagboto!\n\nKung wala kay igong impormasyon ug nagdesisyon ka isip Crew, mahimo nimong laktawan ang pagboto aron malikayan ang pag-eject og inosenteng tawo ug mangita og dugang impormasyon.
+HowToPlayText81	Pagpraktis sa Freeplay mode!
+HowToPlayText82	Pagtakda og imong mga kaugalingong task isip miyembro sa Crew o praktisa ang imong mga istratehiya sa pagpatay isip Impostor!
+SettingsGeneral	Kinatibuk-an
+SettingsControls	Mga Kontrol
+SettingsSound	Tingog
+SettingsGraphics	Graphics
+SettingsData	Data
+SettingsCensorChat	I-censor ang Chat
+SettingsMusic	Musika
+SettingsSFX	SFX
+SettingsOn	Naka-on
+SettingsOff	Naka-off
+SettingsSendTelemetry	Ipadala ang Telemetry
+SettingsControlMode	Mode sa Pagkontrol
+SettingsTouchMode	Pagpindot
+SettingsJoystickMode	Joystick
+SettingsKeyboardMode	Mouse+Keyboard
+SettingsFullscreen	Fullscreen
+SettingsVSync	VSync
+SettingsResolution	Resolution
+SettingsApply	I-apply
+SettingsPersonalizeAds	I-personalize ang Mga Ad
+SettingsLanguage	Lengguwahe
+SettingsJoystickSize	Gidak-on
+SettingsMouseMode	Mouse
+MatchMapName	Mapa:
+MatchLanguage	Chat:
+MatchImpostors	Mga Impostor:
+MatchMaxPlayers	Maximum nga Mga Player:
+Cancel	Ikansela
+Confirm	Kumpirmaha
+PlayerColor	Kolor
+PlayerHat	Kalo
+PlayerSkin	Panit
+PlayerPet	Binuhing Mananap
+GameSettings	Dula
+GameRecommendedSettings	Mga Girekomendang Setting
+GameCustomSettings	Mga Custom nga Setting
+GameMapName	Mapa
+GameNumImpostors	# sa Mga Impostor
+GameNumMeetings	# sa Mga Emergency Meeting
+GameDiscussTime	Oras sa Pakighisgot
+GameVotingTime	Oras sa Pagboto
+GamePlayerSpeed	Kapaspas sa Player
+GameCrewLight	Vision sa Crewmate
+GameImpostorLight	Nadiskonekta ang Impostor
+GameKillCooldown	Cooldown sa Pagpatay
+GameKillDistance	Distansya sa Pagpatay
+GameCommonTasks	# sa Mga Kasagarang Task
+GameLongTasks	# sa Mga Taas nga Task
+GameShortTasks	# sa Mga Mubo nga Task
+GameEmergencyCooldown	Emergency Cooldown
+GameSecondsAbbrev	{0}s
+GameConfirmImpostor	Kumpirmaha ang Mga Pag-eject
+GameVisualTasks	Mga Visual nga Task
+GameAnonymousVotes	Mga Wala Mailhi nga Boto
+GameTaskBarMode	Mga Update sa Task Bar
+SettingNormalTaskMode	Kanunay
+SettingMeetingTaskMode	Mga Meeting
+SettingInvisibleTaskMode	Dili Gayud
+Limit	Limitasyon
+RoomCode	Code
+LeaveGame	Mobiya sa Dula
+ReturnToGame	Balik sa Dula
+LocalHelp	Adunay mga problema sa koneksyon?\n\n● Siguroha nga nakakonekta ang tanan sa parehong ngalan sa WiFi\n● Siguroha nga ang tanan adunay parehong bersyon (sa wala nga bahin sa ibabaw)\n● Siguroha nga kusog ang signal sa imong WiFi\n● Usahay makatabang ang laing tawo nga nag-host\n● Usahay makatabang ang pag-restart sa app...\n● Usahay makatabang ang pag-restart sa imong telepono...\n● Aduna gihapoy mga problema? Pahibaloa kami sa among discord!
+OnlineHelp	Unsaon paggana niini?\n\n● Ang pag-host og dula maghatag kanimo og code sa dula duol sa pindutanan sa pagsugod.\n● I-share ang code sa dula sa mga higala aron makahimo og pribadong room.\n● O pindota ang "Pribado" aron himuong pampubliko ang room para sa "Pangita og Dula".\n● Mahimong mag-ban o magtangtang og player ang host kung available ang chat.\n● Aduna gihapoy problema? Pahibaloa kami sa among Discord!
+EmergencyCount	ANG MIYEMBRO SA CREW NGA SI {0} ADUNA PAY NAHIBILIN NGA\n\n\n\nMGA EMERGENCY MEETING
+EmergencyNotReady	KINAHANGLANG MAGHULAT ANG MGA CREWMATE\n\n\n\nSA DILI PA ANG SUNOD NGA EMERGENCY
+EmergencyDuringCrisis	DILI MAHIMONG MAGTAWAG OG MGA EMERGENCY MEETING\nKUNG ADUNAY MGA KRISIS
+EmergencyRequested	NAGHANGYO OG EMERGENCY MEETING\nNAGHULAT SA HOST
+AdPolicyTitle	Palisiya sa Advertisement
+AdPolicyText	Mogamit ang Among Us og mga ad sa AdMob pagkahuman sa kada sangka aron himuong libre kini nga app. Isip\ndefault, mangolekta ang AdMob og data para sa mga gitukma nga ad. Gamiton gihapon sa AdMob ang cookies, \nmga id sa device, ug coarse geo data bisan pa para sa mga dili naka-personalize nga ad. Dili\nnamo kini ma-off, mao nga girekomenda hinuon namo ang pagpalit sa upgrade nga walay ad (2 USD)\n.\n\nKung paliton nimo ang upgrade nga walay ad, dili sab makakita og mga ad ang imong mga higala sa kada higayon nga\nikaw ang mag-host! Kung napalit na nimo ang upgrade kaniadto, ablihi ang store aron makuha\nang resibo.
+Accept	Dawata
+RemoveAds	Tangtanga ang Mga Ad
+PlainYes	Oo
+PlainNo	Dili
+PrivacyPolicyTitle	Palisiya sa Pagkapribado
+PrivacyPolicyText	Magproseso ang Innersloth og personal nga datos para sa Among Us. Palihug basaha ang among [https://innersloth.com/privacy.php]Palisiya sa Pagkapribado[] aron makahibalo og dugang mahitungod sa among mga gawi sa pagkapribado. Mahimo nimong dumalahon ang imong mga setting sa personal nga datos para sa Among Us sa ilawom sa "Datos".
+ManageDataButton	Dumalaha ang Pagkolekta og Datos
+UnderstandButton	Nasabtan Nako
+WaterPlants	Bisbisi ang Mga Tanom
+WeatherEta	ETA: {0}s
+WeatherComplete	Kumpleto
+RunDiagnostics	Paganaha ang Diagnostics
+SettingShort	Mubo
+SettingMedium	Igo-igo
+SettingLong	Taas
+SamplesPress	Pindota Aron Magsugod
+SamplesAdding	Pagdugang og Reagent
+SamplesSelect	Pagpili og Anomalya
+SamplesThanks	Salamat!
+SamplesComplete	Kumpleto na ang Task
+AstDestroyed	Naguba: {0}
+TaskTestTitle	Task Tester 2000
+BeginDiagnostics	Sugdi ang Diagnostics
+UserLeftGame	Mibiya na si {0} sa dula.
+GameStarting	Magsugod sa {0}
+ChatRateLimit	Paspas kaayo. Paghulat og {0} ka segundo
+Tasks	Mga Task
+MedscanRequested	Mihangyo og Pag-scan
+MedscanWaitingFor	Naghulat kang {0}
+MedscanCompleted	Kumpleto na ang Pag-scan!
+MedscanCompleteIn	Makumpleto ang Pag-scan sa {0}
+StatsTitle	Mga Istatistika
+StatsBodiesReported	Mga Lawas nga Gi-report:\t
+StatsEmergenciesCalled	Mga Emergency nga Gitawag:\t
+StatsTasksCompleted	Mga Task nga Nakumpleto:\t
+StatsAllTasksCompleted	Tanang Mga Task nga Nakumpleto:\t
+StatsSabotagesFixed	Mga Sabotahe nga Nasulbad:\t
+StatsImpostorKills	Mga Gipatay sa Impostor:\t\t
+StatsTimesMurdered	Mga Higayon nga Gipatay:\t
+StatsTimesEjected	Mga Higayon nga Gi-eject:\t\t
+StatsCrewmateStreak	Streak sa Crewmate:\t
+StatsGamesImpostor	Mga Higayon nga Impostor:\t
+StatsGamesCrewmate	Mga Higayon nga Crewmate:\t
+StatsGamesStarted	Mga Dula nga Gisugdan:\t
+StatsGamesFinished	Mga Dula nga Nahuman:\t
+StatsImpostorVoteWins	Mga Daog sa Pagboto sa Impostor:\t
+StatsImpostorKillsWins	Mga Daog sa Pagpatay sa Impostor:\t
+StatsImpostorSabotageWins	Mga Daog sa Pagsabotahe sa Impostor:\t
+StatsCrewmateVoteWins	Mga Daog sa Pagboto sa Crewmate:\t
+StatsCrewmateTaskWins	Mga Daog sa Task sa Crewmate:\t
+MonitorOxygen	I-monitor ang Kahoy
+StoreArtifacts	Itago ang Mga Artifact
+FillCanisters	Pun-a ang Mga Canister
+InsertKeys	Ibutang ang Mga Key
+ResetSeismic	I-reset ang Mga Seismic Stabilizer
+SeismicHoldToStop	I-hold aron I-aktibo ang Seismic Stabilizer
+SeismicNominal	Nominal ang Seismic nga Aktibidad
+ScanBoardingPass	I-scan ang Boarding Pass
+FixWeatherNode	Ayoha ang Weather Node
+OpenWaterways	Ablihi ang Mga Agianan sa Tubig
+ReplaceWaterJug	Alisdi ang Water Jug
+RepairDrill	Ayoha ang Drill
+AlignTelescope	I-align ang Telescope
+RecordTemperature	Irekord ang Temperatura
+RebootWifi	I-reboot ang Wifi
+WifiRebootRequired	Gikinahanglan ang Pag-reboot
+WifiPleaseWait	Palihug Paghulat
+WifiPleaseReturnIn	Palihug Balik sa {0}
+WifiPleasePowerOn	Palihug I-on
+WifiRebootComplete	Kumpleto na ang Pag-reboot
+Outside	Gawas
+Dropship	Dropship
+Decontamination2	Decontamination
+Specimens	Specimen Room
+BoilerRoom	Room sa Boiler
+GameOverImpostorDead	Kasagaran, modaog ang Crew tungod kay patay na ang Impostor. Para sa libreng pagdula, buhion namo ang tanan.
+GameOverImpostorKills	Kasagaran, modaog ang Impostor tungod kay dili na makadaog ang Crew. Para sa libreng pagdula, buhion namo ang tanan.
+GameOverTaskWin	Kasagaran, modaog ang Crew tungod kay puno na ang task bar. Para sa libreng pagdula, maghatag kami og mga bag-ong task.
+GameOverSabotage	Kasagaran, modaog ang Impostor tungod sa kritikal nga sabotahe. I-off namo kini.
+HowToPlayText2Switch	Pakigdula sa 4 hangtud sa 10 ka player online gamit ang imong Nintendo Switch Online membership!
+VentDirection	Direksyon sa Vent
+VentMove	Agi sa Vent
+MenuNavigate	Pag-navigate
+NsoError	Dili makakonektar sa network.
+ErrorServerOverload	Overloaded na ang mga server sa Among Us.\r\n\r\nGikasubo namo! Palihug pagsulay pag-usab sa laing panahon!
+ErrorIntentionalLeaving	Dili ka mahimong moapil sa laing dula sulod sa laing {0} ka minuto pagkahuman sa tinuyo nga pagdiskonekta.
+ErrorFocusLost	Nadiskonekta ka tungod kay gisuspinde ang Among Us sa laing app.
+ErrorBanned	Gi-ban ka gikan sa {0}.\r\n\r\nDili ka mahimong moapil pag-usab niadto nga room.
+ErrorKicked	Gitangtang ka gikan sa {0}.\r\n\r\nMahimo kang moapil pag-usab kung wala pa nagsugod ang room.
+ErrorBannedNoCode	Gi-ban ka gikan sa room.\r\n\r\nDili ka mahimong moapil pag-usab niadto nga room.
+ErrorKickedNoCode	Gitangtang ka gikan sa room.\r\n\r\nMahimo kang moapil pag-usab kung wala pa nagsugod ang room.
+ErrorHacking	Gi-ban ka tungod sa pag-hack.\r\n\r\nPalihug undang na.
+ErrorFullGame	Puno na ang dula nga gisulayan nimo sa pag-apil.\r\n\r\nPakig-istorya sa host aron mahibaluan kung mahimo kang moapil sa sunod nga round.
+ErrorStartedGame	Nagsugod na ang dula nga gisulayan nimo sa pag-apil.\r\n\r\nPakig-istorya sa host aron mahibaluan kung mahimo kang moapil sa sunod nga round.
+ErrorNotFoundGame	Wala nakita ang dula nga imong gipangita.
+ErrorInactivity	Gipaundang sa server kini nga dula. Posibleng tungod sa walay aktibidad.
+ErrorGenericOnlineDisconnect	Nadiskonekta ka gikan sa server.\r\nKung kanunay kining mahitabo, susiha ang kakusgon sa imong network.\r\nLagmit sab nga isyu kini sa server.
+ErrorGenericLocalDisconnect	Nadiskonekta ka gikan sa host.\r\n\r\nKung kanunay kining mahitabo, susiha ang kakusgon sa imong WiFi.
+ErrorInvalidName	Gibalibaran sa server ang username: {0}
+ErrorUnknown	Nadiskonekta ka gikan sa server tungod sa wala nahibaluang error.
+ErrorIncorrectVersion	Migamit ka og mas daan nga bersyon sa dula.\r\n\r\nPalihug pag-update aron makadula ang uban.
+	
+ServerNA	North America
+ServerEU	Europe
+ServerAS	Asya
+ServerSA	South America
+LangEnglish	English
+LangFrench	Français
+LangItalian	Italiano
+LangGerman	Deutsch
+LangSpanish	Español
+LangSpanishLATAM	Español (Latinoamérica)
+LangBrazPort	Português (Brasil)
+LangPort	Português
+LangRussian	Русский
+LangJapanese	日本語
+LangKorean	한국어
+LangDutch	Nederlands
+LangFilipino	Bisaya
+PlayerName	Player
+MyTablet	Akong tablet
+Headquarters	Mga Headquarter
+DownloadTestEstTimeS	Gibana-bana nga oras: {0}s
+DownloadTestEstTimeMS	Gibana-bana nga oras: {0}m {1}s
+DownloadTestEstTimeHMS	Gibana-bana nga oras: {0}hr {1}m {2}s
+DownloadTestEstTimeDHMS	Gibana-bana nga oras: {0}d {1}hr {2}m {3}s
+DownloadComplete	Kumpleto
+GrabCoffee	PAGKAPE UNA
+TakeBreak	PAG-BREAK UNA
+DontNeedWait	DILI NA KA KINAHANGLANG MAGHULAT
+DoSomethingElse	PAGBUHAT OG LAING BUTANG
+NodeTB	Node_TB
+NodeIRO	Node_IRO
+NodeGI	Node_GI
+NodePD	Node_PD
+NodeCA	Node_CA
+NodeMLG	Node_MLG
+Vending	VENDING
+OtherLanguage	Uban pa
+ImposterAmtAny	1-3
+	
+VitalsORGN	ORGN
+VitalsBLUE	BLUE
+VitalsRED	RED
+VitalsBRWN	BRWN
+VitalsGRN	GRN
+VitalsPINK	PINK
+VitalsWHTE	WHTE
+VitalsYLOW	YLOW
+VitalsBLAK	BLAK
+VitalsPURP	PURP
+VitalsCYAN	CYAN
+VitalsLIME	LIME
+ColorOrange	ORANGE
+ColorBlue	BLUE
+ColorRed	RED
+ColorBrown	BROWN
+ColorGreen	GREEN
+ColorPink	PINK
+ColorWhite	WHITE
+ColorYellow	YELLOW
+ColorBlack	BLACK
+ColorPurple	PURPLE
+ColorCyan	CYAN
+ColorLime	LIME
+MedID	ID:
+MedC	C:
+MedHT	HT:
+MedBT	BT:
+MedWT	WT:
+MedETA	ETA {0}
+MedHello	KUMUSTA!
+LobbySizeWarning	Madula ang Among Us sa 4 ka player, pero girekomenda ang 5 o labaw pang mga player.\n\nPaspas kaayong mahuman ang mga dula nga adunay 4 ka player ug kasagarang modaog ang impostor.
+Okay	Okay
+OkayDontShow	Ok, ayaw na kini ipakita
+Nevermind	Ayaw na lamang
+CamEast	Sidlakan
+CamCentral	Sentro
+CamNortheast	Amihanang Sidlakan
+CamSouth	Habagatan
+CamSouthwest	Southwest
+CamNorthwest	Amihanang Kasadpan
+LoadingFailed	Napakyas ang Pag-load:
+PetFailFetchData	Dili makuha ang datos sa binuhing mananap
+BadResult	DILI MAAYONG RESULTA
+More	{0} UBAN PA
+Processing	Giproseso
+ExitGame	Mobiya sa Dula
+WaitingForHost	Naghulat sa Host
+LeftGameError	Mibiya na si {0} sa dula tungod sa error.
+PlayerWasBannedBy	Gi-ban si {0} ni {1}
+PlayerWasKickedBy	Gitangtang si {0} ni {1}
+Dummy	Dummy
+Bad	DILI MAAYO
+Status	Status: 
+Fine	MAAYO
+OK	OK
+SecondsAbbv	{0}s
+PetTryOn	Pagsulay og usa ka!
+DataPolicyWhat	Unsa ang Kolektahon?
+	
+	
+	
+VaultRoom	Vault
+Cockpit	Cockpit
+Armory	Armory
+Kitchen	Kusina
+ViewingDeck	Viewing Deck
+HallOfPortraits	Hall sa Mga Portrait
+Medical	Medikal
+CargoBay	Cargo Bay
+Ventilation	Bentilasyon
+Showers	Mga Shower
+Engine	Engine Room
+Brig	Brig
+MeetingRoom	Meeting Room
+Records	Mga Rekord
+Lounge	Lounge
+GapRoom	Gap Room
+MainHall	Pangunang Hall
+	
+PolishRuby	I-polish ang Ruby
+ResetBreakers	I-reset ang Mga Breaker
+Decontaminate	I-decontaminate
+MakeBurger	Paghimo og Burger
+UnlockSafe	I-unlock ang Safe
+SortRecords	Ihan-ay ang Mga Rekord
+PutAwayPistols	Itago ang Mga Pistola
+PutAwayRifles	Itago ang Mga Rifle
+FixShower	Ayoha ang Shower
+CleanToilet	Limpiyohi ang Kasilyas
+DressMannequin	Ilisi ang Mannequin
+PickUpTowels	Punita ang Mga Tualya
+RewindTapes	I-rewind ang Mga Tape
+StartFans	Paganaha ang Mga Bentilador
+DevelopPhotos	I-develop ang Mga Hulagway
+GetBiggolSword	Kuhaa ang Biggol Sword
+StopCharles	Avert Crash Course
+	
+RevealCode	Ibutyag ang Code
+DirtyHeader	HUGAW
+AuthLeftOkay	
+AuthRightOkay	
+AuthLeftActive	
+AuthRightActive	
+AuthLeftNotActive	
+AuthRightNotActive	

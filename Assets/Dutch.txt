@@ -1,0 +1,461 @@
+KEY ID	Dutch
+LocalButton	Lokaal
+OnlineButton	Online
+HowToPlayButton	Zo speel je
+FreePlayButton	Vrij spel
+PublicHeader	Openbaar
+PrivateHeader	Privé
+HostHeader	Hosten
+ExitButton	Sluiten
+BackButton	Terug
+AvailableGamesLabel	Beschikbare spellen
+CreateGameButton	Spel aanmaken
+FindGameButton	Spel zoeken
+EnterCode	Code invoeren
+GhostIgnoreTasks	Je bent dood. Geniet van de chaos.
+GhostDoTasks	Je bent dood. Voltooi je taken om te winnen.
+TotalTasksCompleted	Totaal aantal taken voltooid
+GhostImpostor	Je bent dood. Je kunt nog steeds saboteren.
+ImpostorTask	Saboteer en dood iedereen.
+FakeTasks	Neptaken:
+TaskComplete	Klus geklaard!
+ExileTextSP	{0} was de bedrieger.
+ExileTextSN	{0} was niet de bedrieger.
+ExileTextPP	{0} was een bedrieger.
+ExileTextPN	{0} was geen bedrieger.
+NoExileSkip	Er is niemand uitgegooid. (Overgeslagen)
+NoExileTie	Er is niemand uitgegooid. (Onbeslist)
+ExileTextNonConfirm	{0} is er uitgegooid.
+ImpostorsRemainS	Er is nog {0} bedrieger.
+ImpostorsRemainP	Er zijn nog {0} bedriegers.
+Hallway	Gang
+Engines	Motoren
+UpperEngine	Bovenste motor
+Cafeteria	Kantine
+Weapons	Wapens
+Reactor	Reactor
+Security	Beveiliging
+MedBay	Ziekenkamer
+LifeSupp	Zuurstof
+Nav	Navigatie
+LowerEngine	Onderste motor
+Electrical	Elektra
+Admin	Administratie
+Storage	Opslag
+Shields	Schilden
+Comms	Communicatie
+Decontamination	Ontsmetting
+Launchpad	Lanceerplatform
+LockerRoom	Kleedkamer
+Laboratory	Laboratorium
+Balcony	Balkon
+Office	Kantoor
+Greenhouse	Plantenkas
+DivertPowerTo	Leid stroom om naar {0}
+AcceptDivertedPower	Accepteer omgeleide stroom
+SubmitScan	Verstuur scan
+PrimeShields	Activeer schilden
+FuelEngines	Vul motoren bij
+ChartCourse	Stippel route uit
+StartReactor	Start reactor
+SwipeCard	Scan kaart
+ClearAsteroids	Ruim asteroïden op
+DownloadData	Download data
+UploadData	Upload data
+InspectSample	Onderzoek monster
+EmptyChute	Leeg de stortkoker
+EmptyGarbage	Ruim het afval op
+AlignEngineOutput	Lijn motoruitvoer uit
+FixWiring	Repareer bedrading
+CalibrateDistributor	Kalibreer stroomverdeler
+UnlockManifolds	Ontgrendel verdelers
+ResetReactor	Reactormeltdown over
+FixLights	Repareer lampen
+CleanO2Filter	Reinig zuurstoffilter
+FixComms	Communicatie gesaboteerd
+RestoreOxy	Zuurstof uitgeput over
+StabilizeSteering	Stabiliseer besturing
+AssembleArtifact	Stel artefact samen
+SortSamples	Sorteer monsters
+MeasureWeather	Meet het weer
+EnterIdCode	Voer ID-code in
+BuyBeverage	Koop drankje
+ProcessData	Verwerk data
+NumImpostorsS	Er is [FF1919FF]1 bedrieger[] in ons midden
+NumImpostorsP	Er zijn [FF1919FF]{0} bedriegers[] in ons midden
+Crewmate	Bemanningslid
+Impostor	Bedrieger
+Victory	Gewonnen
+Defeat	Verloren
+CrewmatesDisconnected	Meeste bemanningsleden\nhebben verbinding verloren
+ImpostorDisconnected	Bedrieger heeft verbinding verloren
+PickAnomaly	Kies afwijking
+WaterPlantsGetCan	Gieter gevonden!
+AuthOfficeOkay	Kantoor Oké
+AuthCommsOkay	Communicatie Oké
+AuthOfficeActive	Kantoor AAN
+AuthCommsActive	Communicatie AAN
+AuthOfficeNotActive	Kantoor UIT
+AuthCommsNotActive	Communicatie UIT
+SecLogEntry	{0} liep langs de {1} sensor
+LogNorth	noordelijke
+LogSouthEast	zuidoostelijke
+LogSouthWest	zuidwestelijke
+EnterName	Jouw naam
+SwipeCardPleaseInsert	Voer kaart in
+SwipeCardPleaseSwipe	Scan kaart
+SwipeCardBadRead	Scanfout. Probeer opnieuw.
+SwipeCardTooFast	Te snel. Probeer opnieuw.
+SwipeCardTooSlow	Te langzaam. Probeer opnieuw.
+SwipeCardAccepted	Goedgekeurd. Bedankt.
+ReactorHoldToStop	Hou ingedrukt om meltdown te stoppen
+ReactorWaiting	Wacht op tweede gebruiker
+ReactorNominal	Reactor stabiel
+MeetingWhoIsTitle	Wie is de bedrieger?
+MeetingVotingBegins	Stemmen begint over: {0} s
+MeetingVotingEnds	Stemmen is afgelopen over: {0} s
+MeetingVotingResults	Uitslag stemming
+MeetingProceeds	Verder over: {0} s
+MeetingHasVoted	{0} heeft gestemd. Nog {1} te gaan.
+HowToPlayText1	Among Us gaat over teamwork en verraad.\n\nSpelers kunnen bemanningsleden zijn of een bedrieger.
+HowToPlayText2	Speel met 4 tot 10 spelers, online of via lokale wifi.
+HowToPlayText41	Als je een spel host, kun je instellen hoe het wordt gespeeld.
+HowToPlayText42	Bepaal eerst met wie je wilt spelen.\n\nAls je online met vrienden wilt spelen, kies je 'Privé' en deel je de kamercode.\n\nAls je met mensen van over de hele wereld wilt spelen, kies je 'Openbaar'.
+HowToPlayText43	Wil je met meer taken spelen? Of sneller lopen? Meer bedriegers? Als host kun je deze instellingen aanpassen. Zorg wel dat je de wijzigingen bevestigt bij je medespelers.
+HowToPlayText44	Als iemand onbeschoft doet en/of spam stuurt, kan de host die speler tijdelijk uit het spel gooien of helemaal uit de specifieke online kamer verbannen.
+HowToPlayTextMap	Spelers hebben een eigen kaart tot hun beschikking om de weg te vinden op het schip.
+HowToPlayTextCrew1	Doel: vul de gezamenlijke takenmeter of ontdek wie de bedrieger is.
+HowToPlayTextCrew2	Voltooi taken om de meter te vullen.
+HowToPlayTextCrew3	Reageer op sabotage van de bedrieger.
+HowToPlayTextCrew4	Bedrieger gevonden? Spoed vergadering!
+HowToPlayTextCrew5	Maak melding van lijken.
+HowToPlayTextCrew6	Zoek in Administratie en Beveiliging naar verdachte activiteiten.
+HowToPlayTextImp1	Doel: dood de bemanning.
+HowToPlayTextImp2	Meng je onder de bemanning.
+HowToPlayTextImp3	Sluip door de luchtschachten.
+HowToPlayTextImp4	Doe alsof je taken voltooit.
+HowToPlayTextImp5	Saboteer het schip en leid de bemanning om de tuin.
+HowToPlayTextImp6	Sluit deuren en lok slachtoffers in de val.
+HowToPlayTextImp7	Dood de bemanning tussen afkoelperiodes.
+HowToPlayText5	Als jullie samen fysiek in dezelfde ruimte spelen, mag er niet gepraat worden. Zo blijft het eerlijk voor de bemanning en de bedrieger.\n\nAls een speler gedood wordt door de bedrieger, mag die pas praten als het spel voorbij is.\n\nSpoken kunnen hun taken nog steeds uitvoeren om de bemanning naar de overwinning te helpen.
+HowToPlayText6	Als iemand een lijk meldt of een spoedvergadering bijeenroept, komt de bemanning bij elkaar om te bespreken wat ze weten over de bedrieger.\n\nSpelers kunnen nu openlijk praten over wie ze denken dat de bedrieger is en welke informatie ze hebben. Als je samen fysiek in dezelfde ruimte speelt, mogen de spoken niet praten, want zij weten al wie de bedrieger is.\n\nBedriegers zullen proberen hun onschuld te bewijzen of een ander bemanningslid te beschuldigen.
+HowToPlayText7	Na de bespreking stem je op wie volgens jou de bedrieger is.\n\nWie de meeste stemmen krijgt, wordt uit het schip gegooid, dus denk goed na over je stem!\n\nAls je niet genoeg informatie hebt, kun je als bemanning ook besluiten om niemand eruit te gooien en meer informatie te verzamelen.
+HowToPlayText81	Oefen in het speltype Vrij spel!
+HowToPlayText82	Stel je eigen taken in als bemanningslid of oefen je moorddadige strategieën als bedrieger!
+SettingsGeneral	Algemeen
+SettingsControls	Besturing
+SettingsSound	Geluid
+SettingsGraphics	Beeld
+SettingsData	Data
+SettingsCensorChat	Chat beheren
+SettingsMusic	Muziek
+SettingsSFX	Effecten
+SettingsOn	Aan
+SettingsOff	Uit
+SettingsSendTelemetry	Telemetrie sturen
+SettingsControlMode	Besturing
+SettingsTouchMode	Aanraken
+SettingsJoystickMode	Joystick
+SettingsKeyboardMode	Muis+toetsenbord
+SettingsFullscreen	Volledig scherm
+SettingsVSync	VSync
+SettingsResolution	Resolutie
+SettingsApply	Toepassen
+SettingsPersonalizeAds	Reclame personaliseren
+SettingsLanguage	Taal
+SettingsJoystickSize	Grootte
+SettingsMouseMode	Muis
+MatchMapName	Kaart:
+MatchLanguage	Chat:
+MatchImpostors	Bedriegers:
+MatchMaxPlayers	Max. spelers:
+Cancel	Annuleren
+Confirm	Bevestigen
+PlayerColor	Kleur
+PlayerHat	Hoofddeksel
+PlayerSkin	Skin
+PlayerPet	Huisdier
+GameSettings	Spel
+GameRecommendedSettings	Aanbevolen instellingen
+GameCustomSettings	Aangepaste instellingen
+GameMapName	Kaart
+GameNumImpostors	Aantal bedriegers
+GameNumMeetings	Aantal spoedvergaderingen
+GameDiscussTime	Bespreektijd
+GameVotingTime	Stemtijd
+GamePlayerSpeed	Spelersnelheid
+GameCrewLight	Zicht bemanning
+GameImpostorLight	Zicht bedrieger
+GameKillCooldown	Moordafkoeling
+GameKillDistance	Moordafstand
+GameCommonTasks	Aantal gewone taken
+GameLongTasks	Aantal lange taken
+GameShortTasks	Aantal korte taken
+GameEmergencyCooldown	Noodafkoeling
+GameSecondsAbbrev	{0}s
+GameConfirmImpostor	Uitgooien bevestigen
+GameVisualTasks	Zichtbare taken
+GameAnonymousVotes	Anonieme stemmen
+GameTaskBarMode	Updates takenmeter
+SettingNormalTaskMode	Altijd
+SettingMeetingTaskMode	Vergaderingen
+SettingInvisibleTaskMode	Nooit
+Limit	Limiet
+RoomCode	Code
+LeaveGame	Spel verlaten
+ReturnToGame	Terug naar spel
+LocalHelp	Probleempjes met de verbinding?\n\n● Zorg dat iedereen is verbonden met dezelfde wifiverbinding\n● Zorg dat iedereen dezelfde versie heeft (linksboven te zien)\n● Zorg dat je een sterk wifi-signaal hebt\n● Soms helpt het als iemand anders host\n● Soms helpt het om de app opnieuw op te starten...\n● Soms helpt het om je telefoon opnieuw op te starten...\n● Lukt het nog steeds niet? Laat het ons weten in onze Discord!
+OnlineHelp	Hoe werkt dit?\n\n● Als je een spel host, zie je een spelcode bij de\nstartknop.\n● Deel de spelcode met vrienden om een privékamer te maken.\n● Of tik op 'Privé' om de kamer openbaar te maken in \n'Spel zoeken'.\n● De host kan spelers verbannen of verwijderen op momenten dat de chat beschikbaar is.\n● Lukt het nog steeds niet? Laat het ons weten in onze Discord!
+EmergencyCount	BEMANNINGSLID {0} HEEFT NOG\n\n\n\nSPOEDVERGADERINGEN
+EmergencyNotReady	BEMANNINGSLEDEN MOETEN\n\n\n\nWACHTEN TOT HET VOLGENDE NOODGEVAL
+EmergencyDuringCrisis	SPOEDVERGADERINGEN ZIJN NIET MOGELIJK\nTIJDENS EEN CRISIS
+EmergencyRequested	SPOEDVERGADERING VERZOCHT\nWACHT OP DE HOST
+AdPolicyTitle	Reclamebeleid
+AdPolicyText	Among Us maakt gebruik van AdMob-advertenties na ieder spel om deze app\ngratis te houden. AdMob verzamelt gegevens voor gepersonaliseerde\nreclames. AdMob gebruikt altijd cookies, apparaat-ID's en ruwe geo-informatie,\nzelfs voor niet-gepersonaliseerde advertenties.\nDit kunnen we niet uitschakelen, dus we raden aan om in plaats\nhiervan de reclamevrije upgrade (2 dollar) aan te schaffen.\n\nAls je de reclamevrije upgrade koopt, zien je vrienden ook geen reclames als jij host!\nAls je de upgrade eerder hebt gekocht, kun je het aankoopbewijs in de winkel vinden.
+Accept	Accepteren
+RemoveAds	Advertenties verwijderen
+PlainYes	Ja
+PlainNo	Nee
+PrivacyPolicyTitle	Privacybeleid
+PrivacyPolicyText	Innersloth verwerkt persoonsgegevens voor Among Us. Lees ons [https://innersloth.com/privacy.php]privacybeleid[] voor meer informatie. Je kunt de instellingen voor persoonsgegevens van Among Us beheren via 'Data'.
+ManageDataButton	Gegevensverzameling beheren
+UnderstandButton	Ik begrijp het
+WaterPlants	Geef planten water
+WeatherEta	Aankomst: \n{0}s
+WeatherComplete	Voltooid
+RunDiagnostics	Voer analyse uit
+SettingShort	Kort
+SettingMedium	Medium
+SettingLong	Lang
+SamplesPress	Druk om te starten
+SamplesAdding	Reagens toevoegen
+SamplesSelect	Selecteer afwijking
+SamplesThanks	Bedankt!
+SamplesComplete	Test voltooid
+AstDestroyed	Vernietigd: {0}
+TaskTestTitle	Takentester 2000
+BeginDiagnostics	Begin analyse
+UserLeftGame	{0} heeft het spel verlaten.
+GameStarting	Begint over {0}
+ChatRateLimit	Te snel. Wacht {0} seconden
+Tasks	Taken
+MedscanRequested	Scan verzocht
+MedscanWaitingFor	Wacht op {0}
+MedscanCompleted	Scan voltooid!
+MedscanCompleteIn	Scan voltooid over {0}
+StatsTitle	Statistieken
+StatsBodiesReported	Lijken gemeld:\t
+StatsEmergenciesCalled	Vergaderingen bijeengeroepen:\t
+StatsTasksCompleted	Taken voltooid:\t
+StatsAllTasksCompleted	Alle taken voltooid:\t
+StatsSabotagesFixed	Sabotages gerepareerd:\t
+StatsImpostorKills	Bedriegermoorden:\t\t
+StatsTimesMurdered	Aantal keer gedood:\t
+StatsTimesEjected	Aantal keer uitgegooid:\t\t
+StatsCrewmateStreak	Reeks als bemanningslid:\t
+StatsGamesImpostor	Aantal keer bedrieger:\t
+StatsGamesCrewmate	Aantal keer bemanning:\t
+StatsGamesStarted	Spellen begonnen:\t
+StatsGamesFinished	Spellen voltooid:\t
+StatsImpostorVoteWins	Bedriegerstemming gewonnen:\t
+StatsImpostorKillsWins	Bedriegermoorden gewonnen:\t
+StatsImpostorSabotageWins	Bedriegersabotages gewonnen:\t
+StatsCrewmateVoteWins	Bemanningsstemming gewonnen:\t
+StatsCrewmateTaskWins	Bemanningstaken gewonnen:\t
+MonitorOxygen	Controleer boom
+StoreArtifacts	Sla artefacten op
+FillCanisters	Vul flessen
+InsertKeys	Voer sleutels in
+ResetSeismic	Herstel seismische stabilisators
+SeismicHoldToStop	Hou ingedrukt om seismische stabilisators te activeren
+SeismicNominal	Seismische activiteit stabiel
+ScanBoardingPass	Scan instapkaart
+FixWeatherNode	Repareer weersensor
+OpenWaterways	Open waterwegen
+ReplaceWaterJug	Vervang waterfles
+RepairDrill	Repareer boor
+AlignTelescope	Lijn telescoop uit
+RecordTemperature	Neem temperatuur op
+RebootWifi	Reboot wifi
+WifiRebootRequired	Reboot vereist
+WifiPleaseWait	Even geduld
+WifiPleaseReturnIn	Kom terug over {0}
+WifiPleasePowerOn	Aanzetten a.u.b.
+WifiRebootComplete	Reboot voltooid
+Outside	Buiten
+Dropship	Shuttle
+Decontamination2	Ontsmetting
+Specimens	Specimenkamer
+BoilerRoom	Stookruimte
+GameOverImpostorDead	Gewoonlijk zou de bemanning gewonnen hebben omdat de bedrieger nu dood is, maar in vrij spel laten we iedereen weer tot leven komen.
+GameOverImpostorKills	Gewoonlijk zou de bedrieger gewonnen hebben omdat de bemanning niet meer kan winnen, maar in vrij spel laten we iedereen herleven.
+GameOverTaskWin	Gewoonlijk zou de bemanning gewonnen hebben omdat de takenmeter gevuld is, maar in vrij spel wijzen we nieuwe taken toe.
+GameOverSabotage	Gewoonlijk zou de bedrieger gewonnen hebben vanwege de ernstige sabotage, maar nu zetten we die gewoon uit.
+HowToPlayText2Switch	Speel online met 4 tot 10 spelers met je Nintendo Switch Online-lidmaatschap of via lokale wifi!
+VentDirection	Luchtschachtrichting
+VentMove	Door luchtschacht bewegen
+MenuNavigate	Bewegen
+NsoError	Kan geen verbinding maken met het netwerk.
+ErrorServerOverload	De Among Us-servers zijn overbelast.\r\n\r\nSorry! Probeer het later nog eens!
+ErrorIntentionalLeaving	Je mag {0} minuten niet meedoen aan een nieuw spel als je de verbinding opzettelijk verbreekt.
+ErrorFocusLost	De verbinding werd verbroken omdat Among Us onderbroken werd door een andere app.
+ErrorBanned	Je bent verbannen uit {0}.\r\n\r\nJe kunt die kamer niet meer betreden.
+ErrorKicked	Je bent verwijderd uit {0}.\r\n\r\nJe kunt de kamer opnieuw betreden als het spel nog niet is begonnen.
+ErrorBannedNoCode	Je bent verbannen uit de kamer.\r\n\r\nJe kunt die kamer niet meer betreden.
+ErrorKickedNoCode	Je bent verwijderd uit de kamer.\r\n\r\nJe kunt de kamer opnieuw betreden als het spel nog niet is begonnen.
+ErrorHacking	Je bent verbannen vanwege hacken.\r\n\r\nKappen nou.
+ErrorFullGame	Het spel waaraan je mee wilt doen zit vol.\r\n\r\nVraag aan de host of je de volgende ronde mee kunt doen.
+ErrorStartedGame	Het spel waaraan je mee wilt doen is al begonnen.\r\n\r\nVraag aan de host of je de volgende ronde mee kunt doen.
+ErrorNotFoundGame	Het spel dat je zoekt is niet gevonden.
+ErrorInactivity	De server heeft dit spel gestopt. Mogelijk vanwege inactiviteit.
+ErrorGenericOnlineDisconnect	Je verbinding met de server is verbroken.\r\nControleer je netwerk als dit vaker gebeurt.\r\nDit kan ook een probleem zijn met de server.
+ErrorGenericLocalDisconnect	Je verbinding met de host is verbroken.\r\n\r\nControleer je wifi-signaal als dit vaker gebeurt.
+ErrorInvalidName	Server heeft gebruikersnaam '{0}' afgewezen
+ErrorUnknown	Je verbinding met de server is verbroken door een onbekende fout.
+ErrorIncorrectVersion	Je gebruikt een oudere versie van de game.\r\n\r\nVoer een update uit om met anderen te spelen.
+	
+ServerNA	Noord-Amerika
+ServerEU	Europa
+ServerAS	Azië
+ServerSA	Zuid-Amerika
+LangEnglish	English
+LangFrench	Français
+LangItalian	Italiano
+LangGerman	Deutsch
+LangSpanish	Español
+LangSpanishLATAM	Español (Latinoamérica)
+LangBrazPort	Português (Brasil)
+LangPort	Português
+LangRussian	Русский
+LangJapanese	日本語
+LangKorean	한국어
+LangDutch	Nederlands
+LangFilipino	Bisaya
+PlayerName	Speler
+MyTablet	Mijn tablet
+Headquarters	Hoofdkwartier
+DownloadTestEstTimeS	Geschatte tijd: {0}s
+DownloadTestEstTimeMS	Geschatte tijd: {0}m {1}s
+DownloadTestEstTimeHMS	Geschatte tijd: {0}hr {1}m {2}s
+DownloadTestEstTimeDHMS	Geschatte tijd: {0}d {1}hr {2}m {3}s
+DownloadComplete	Voltooid
+GrabCoffee	HAAL EEN KOP KOFFIE OF ZO
+TakeBreak	NEEM EVEN PAUZE
+DontNeedWait	JE HOEFT NIET TE WACHTEN
+DoSomethingElse	GA EVEN WAT ANDERS DOEN
+NodeTB	Sensor_TB
+NodeIRO	Sensor_IRO
+NodeGI	Sensor_GI
+NodePD	Sensor_PD
+NodeCA	Sensor_CA
+NodeMLG	Sensor_MLG
+Vending	GEKOCHT
+OtherLanguage	Overig
+ImposterAmtAny	1-3
+	
+VitalsORGN	ORNJ
+VitalsBLUE	BLW
+VitalsRED	ROOD
+VitalsBRWN	BRN
+VitalsGRN	GRN
+VitalsPINK	ROZE
+VitalsWHTE	WIT
+VitalsYLOW	GEEL
+VitalsBLAK	ZWRT
+VitalsPURP	PRS
+VitalsCYAN	TURK
+VitalsLIME	GLGR
+ColorOrange	ORANJE
+ColorBlue	BLAUW
+ColorRed	ROOD
+ColorBrown	BRUIN
+ColorGreen	GROEN
+ColorPink	ROZE
+ColorWhite	WIT
+ColorYellow	GEEL
+ColorBlack	ZWART
+ColorPurple	PAARS
+ColorCyan	TURK
+ColorLime	GLGR
+MedID	ID:
+MedC	KL:
+MedHT	LNGT:
+MedBT	BLD:
+MedWT	GW:
+MedETA	Aankomst {0}
+MedHello	HALLO!
+LobbySizeWarning	Je kunt Among Us met 4 spelers spelen, \nmaar we raden 5 of meer spelers aan.\n\nSpellen met 4 spelers zijn snel afgelopen en meestal wint de bedrieger.
+Okay	Oké
+OkayDontShow	Oké. laat dit niet zien
+Nevermind	Laat maar
+CamEast	Oosten
+CamCentral	Centraal
+CamNortheast	Noordoosten
+CamSouth	Zuiden
+CamSouthwest	Zuidwesten
+CamNorthwest	Noordwesten
+LoadingFailed	Laden mislukt:
+PetFailFetchData	Kon gegevens huisdieren niet ophalen
+BadResult	SLECHT RESULTAAT
+More	{0} MEER
+Processing	Verwerken...
+ExitGame	Spel sluiten
+WaitingForHost	Wacht op host...
+LeftGameError	{0} heeft het spel verlaten vanwege een fout.
+PlayerWasBannedBy	{0} werd verbannen door {1}
+PlayerWasKickedBy	{0} werd verwijderd door {1}
+Dummy	Dummy
+Bad	SLECHT
+Status	Status: 
+Fine	GOED
+OK	OKÉ
+SecondsAbbv	{0}s
+PetTryOn	Kijk hoe je eruit zou zien!
+DataPolicyWhat	Wat is er verzameld?
+	
+	
+	
+VaultRoom	Kluis
+Cockpit	Cockpit
+Armory	Wapenkamer
+Kitchen	Keuken
+ViewingDeck	Panoramadek
+HallOfPortraits	Portretzaal
+Medical	Ziekenboeg
+CargoBay	Vrachtruim
+Ventilation	Ventilatie
+Showers	Douches
+Engine	Machinekamer
+Brig	Hal
+MeetingRoom	Vergaderruimte
+Records	Archiefruimte
+Lounge	Lounge
+GapRoom	Tussenruimte
+MainHall	Centrale hal
+	
+PolishRuby	Poets robijn op
+ResetBreakers	Reset onderbrekers
+Decontaminate	Ontsmet
+MakeBurger	Maak burger
+UnlockSafe	Open safe
+SortRecords	Sorteer dossiers
+PutAwayPistols	Berg pistolen op
+PutAwayRifles	Berg geweren op
+FixShower	Repareer douche
+CleanToilet	Maak toilet schoon
+DressMannequin	Kleed paspop aan
+PickUpTowels	Raap handdoeken op
+RewindTapes	Spoel tapes terug
+StartFans	Zet ventilatoren aan
+DevelopPhotos	Ontwikkel foto's
+GetBiggolSword	Haal het Biggol-zwaard
+StopCharles	Vermijd botsing
+	
+RevealCode	Onthul code
+DirtyHeader	VIES
+AuthLeftOkay	
+AuthRightOkay	
+AuthLeftActive	
+AuthRightActive	
+AuthLeftNotActive	
+AuthRightNotActive	

@@ -1,0 +1,461 @@
+KEY ID	Russian
+LocalButton	Локально
+OnlineButton	Онлайн
+HowToPlayButton	Как играть
+FreePlayButton	Песочница
+PublicHeader	Общие комнаты
+PrivateHeader	Частные комнаты
+HostHeader	Создать комнату
+ExitButton	Выйти
+BackButton	Назад
+AvailableGamesLabel	Доступные игры
+CreateGameButton	Создать
+FindGameButton	Найти игру
+EnterCode	Ввести код
+GhostIgnoreTasks	Вы мертвы. Наслаждайтесь хаосом.
+GhostDoTasks	Вы мертвы. Для победы выполните все задания.
+TotalTasksCompleted	Всего заданий выполнено
+GhostImpostor	Вы мертвы. Все еще можно устроить саботаж.
+ImpostorTask	Устройте саботаж и убейте всех.
+FakeTasks	Фальшивые задания:
+TaskComplete	Задание выполнено!
+ExileTextSP	Член экипажа {0} был предателем.
+ExileTextSN	Член экипажа {0} не был предателем.
+ExileTextPP	Член экипажа {0} был одним из предателей.
+ExileTextPN	Член экипажа {0} не был предателем.
+NoExileSkip	Никого не выбросили (пропуск).
+NoExileTie	Никого не выбросили (ничья).
+ExileTextNonConfirm	{0} выбрасывают.
+ImpostorsRemainS	Берегитесь еще {0} предателя.
+ImpostorsRemainP	Берегитесь еще {0} предателей.
+Hallway	Коридор
+Engines	Двигатели
+UpperEngine	Верхний двигатель
+Cafeteria	Столовая
+Weapons	Вооружение
+Reactor	Реактор
+Security	Охрана
+MedBay	Медотсек
+LifeSupp	O2
+Nav	Навигация
+LowerEngine	Нижний двигатель
+Electrical	Электросистемы
+Admin	Управление
+Storage	Склад
+Shields	Щиты
+Comms	Связь
+Decontamination	Дезинфекция
+Launchpad	Стартовая площадка
+LockerRoom	Раздевалка
+Laboratory	Лаборатория
+Balcony	Балкон
+Office	Офис
+Greenhouse	Оранжерея
+DivertPowerTo	Подать энергию в зону «{0}»
+AcceptDivertedPower	Принять подачу энергии
+SubmitScan	Пройти сканирование
+PrimeShields	Запустить щиты
+FuelEngines	Заправить двигатели
+ChartCourse	Проложить маршрут
+StartReactor	Запустить реактор
+SwipeCard	Провести картой
+ClearAsteroids	Разрушить астероиды
+DownloadData	Скачать данные
+UploadData	Загрузить данные
+InspectSample	Исследовать образец
+EmptyChute	Очистить мусоропровод
+EmptyGarbage	Выбросить мусор
+AlignEngineOutput	Выровнять отдачу двигателей
+FixWiring	Починить проводку
+CalibrateDistributor	Откалибровать распределитель
+UnlockManifolds	Открыть коллекторы
+ResetReactor	Расплавление в реакторе через
+FixLights	Починить освещение
+CleanO2Filter	Очистить фильтр O2
+FixComms	Саботаж связи
+RestoreOxy	O2 закончится через
+StabilizeSteering	Выровнять курс
+AssembleArtifact	Собрать артефакт
+SortSamples	Разобрать образцы
+MeasureWeather	Изучить метеоусловия
+EnterIdCode	Ввести код доступа
+BuyBeverage	Купить напиток
+ProcessData	Обработать данные
+NumImpostorsS	Берегитесь [FF1919FF]1 предателя[] среди нас
+NumImpostorsP	Берегитесь [FF1919FF]{0} предателей[] среди нас
+Crewmate	Член экипажа
+Impostor	Предатель
+Victory	Победа
+Defeat	Поражение
+CrewmatesDisconnected	Большая часть экипажа\nотключилась
+ImpostorDisconnected	Предатель отключился
+PickAnomaly	Выберите аномалию
+WaterPlantsGetCan	Лейка найдена!
+AuthOfficeOkay	Офис: ОК
+AuthCommsOkay	Связь: ОК
+AuthOfficeActive	Офис: АКТИВНО
+AuthCommsActive	Связь: АКТИВНО
+AuthOfficeNotActive	Офис: НЕАКТИВНО
+AuthCommsNotActive	Связь: НЕАКТИВНО
+SecLogEntry	{0} проходит {1} сенсор
+LogNorth	северный
+LogSouthEast	юго-восточный
+LogSouthWest	юго-западный
+EnterName	Ваш ник
+SwipeCardPleaseInsert	Вставьте карту
+SwipeCardPleaseSwipe	Проведите картой
+SwipeCardBadRead	Не прочитано. Повторите.
+SwipeCardTooFast	Повторите медленнее.
+SwipeCardTooSlow	Повторите быстрее.
+SwipeCardAccepted	Принято. Спасибо.
+ReactorHoldToStop	Удерживайте для остановки расплавления
+ReactorWaiting	Ожидание второго пользователя
+ReactorNominal	Реактор в норме
+MeetingWhoIsTitle	Кто предатель?
+MeetingVotingBegins	До начала голосования: {0} с
+MeetingVotingEnds	До конца голосования: {0} с
+MeetingVotingResults	Итоги голосования
+MeetingProceeds	Продолжение через: {0} с
+MeetingHasVoted	{0}: голос отдан. Не голосовало: {1}.
+HowToPlayText1	Among Us — игра о командной работе и предательстве,\n\nгде игроки получают роль члена экипажа или предателя.
+HowToPlayText2	Можно играть онлайн или по локальной беспроводной сети в команде от 4 до 10 человек!
+HowToPlayText41	При создании игры можно установить собственные правила.
+HowToPlayText42	Сначала выберите, с кем хотите сыграть!\n\nЕсли хотите играть с друзьями, создайте частную комнату и поделитесь с ними кодом.\n\nЧтобы сыграть со случайными игроками, сделайте комнату общей.
+HowToPlayText43	Вам не хватает заданий? Или хочется бегать побыстрее? А может быть, нужно больше предателей? Создавая комнату, владелец может настроить игру по своему вкусу. Только не забудьте обсудить это с остальными!
+HowToPlayText44	Владелец может выгнать игроков за грубое поведение или спам в чате либо полностью их заблокировать для своей онлайн-комнаты.
+HowToPlayTextMap	У каждого игрока есть личная карта, которая поможет ориентироваться на корабле.
+HowToPlayTextCrew1	Цель: заполнить шкалу заданий или вычислить предателя.
+HowToPlayTextCrew2	Заполняйте шкалу, выполняя задания.
+HowToPlayTextCrew3	Устраняйте последствия саботажа.
+HowToPlayTextCrew4	Вычиcлили предателя? Созывайте собрание!
+HowToPlayTextCrew5	Сообщайте о найденных трупах.
+HowToPlayTextCrew6	Комнаты управления и охраны помогут засечь подозрительные действия.
+HowToPlayTextImp1	Ваша цель: убить всех членов экипажа.
+HowToPlayTextImp2	Смешивайтесь с толпой.
+HowToPlayTextImp3	Пробирайтесь по вентиляции.
+HowToPlayTextImp4	Притворяйтесь, что выполняете задания.
+HowToPlayTextImp5	Занимайтесь саботажем и запутывайте других.
+HowToPlayTextImp6	Блокируйте двери и готовьте засады.
+HowToPlayTextImp7	Убивайте по окончании перезарядки.
+HowToPlayText5	Играете вместе? Никаких разговоров! Игра должна быть честной.\n\nИгроки, убитые предателем, молчат до конца игры.\n\nПризраки по-прежнему могут выполнять задания, чтобы помочь команде победить.
+HowToPlayText6	Если кто-то сообщил о трупе или созвал срочное собрание, команда пытается вычислить предателя.\n\nТеперь игроки могут открыто предполагать, кто предатель, и делиться наблюдениями. Если вы играете вместе, призраки должны молчать, поскольку им точно известно, кто предатель.\n\nПредатели попытаются доказать свою невиновность или перевести подозрения на другого игрока.
+HowToPlayText7	После обсуждения проголосуйте за игрока, которого вы считаете предателем.\n\nИгрок, набравший большинство голосов, будет выброшен, так что обдумайте свое решение!\n\nЕсли имеющихся у вас сведений недостаточно, можно пропустить голосование, чтобы не выбросить невиновного и собрать больше информации.
+HowToPlayText81	Практикуйтесь в режиме песочницы!
+HowToPlayText82	Подберите себе задания, сыграв за члена экипажа, или отточите навыки убийства в роли предателя.
+SettingsGeneral	Общее
+SettingsControls	Управление
+SettingsSound	Звук
+SettingsGraphics	Графика
+SettingsData	Данные
+SettingsCensorChat	Фильтр чата
+SettingsMusic	Музыка
+SettingsSFX	Эффекты
+SettingsOn	Вкл.
+SettingsOff	Выкл.
+SettingsSendTelemetry	Отправка телеметрии
+SettingsControlMode	Режим управления
+SettingsTouchMode	Касание
+SettingsJoystickMode	Джойстик
+SettingsKeyboardMode	Клавиатура/мышь
+SettingsFullscreen	Полный экран
+SettingsVSync	Верт. синхронизация
+SettingsResolution	Разрешение
+SettingsApply	Применить
+SettingsPersonalizeAds	Подбор рекламы
+SettingsLanguage	Язык
+SettingsJoystickSize	Размер
+SettingsMouseMode	Мышь
+MatchMapName	Карта:
+MatchLanguage	Чат:
+MatchImpostors	Предателей:
+MatchMaxPlayers	Максимум игроков:
+Cancel	Назад
+Confirm	Подтверд.
+PlayerColor	Цвет
+PlayerHat	Шапка
+PlayerSkin	Костюм
+PlayerPet	Питомец
+GameSettings	Игра
+GameRecommendedSettings	Рекомендованные настройки
+GameCustomSettings	Пользовательские настройки
+GameMapName	Карта
+GameNumImpostors	Предателей
+GameNumMeetings	Срочных собраний
+GameDiscussTime	Время на обсуждение
+GameVotingTime	Время на голосование
+GamePlayerSpeed	Скорость игроков
+GameCrewLight	Дальность обзора членов экипажа
+GameImpostorLight	Дальность обзора предателя
+GameKillCooldown	Перезарядка для убийства
+GameKillDistance	Дистанция убийств
+GameCommonTasks	Обычных заданий
+GameLongTasks	Долгих заданий
+GameShortTasks	Быстрых заданий
+GameEmergencyCooldown	Перерыв между собраниями
+GameSecondsAbbrev	{0} с
+GameConfirmImpostor	Показывать роль выброшенного
+GameVisualTasks	Видимые задания
+GameAnonymousVotes	Тайное голосование
+GameTaskBarMode	Обновление шкалы заданий
+SettingNormalTaskMode	Постоянно
+SettingMeetingTaskMode	На собрании
+SettingInvisibleTaskMode	Никогда
+Limit	максимум; сейчас
+RoomCode	Код
+LeaveGame	Покинуть игру
+ReturnToGame	Вернуться в игру
+LocalHelp	Проблемы с соединением?\n\n● Убедитесь, что все игроки подключены к одной\nточке доступа Wi-Fi.\n● Убедитесь, что у всех игроков установлена одна версия игры (указана в левом верхнем углу).\n● Убедитесь, что сигнал Wi-Fi стабилен.\n● Попробуйте сменить владельца создаваемой игры.\n● Попробуйте перезапустить приложение...\n● Попробуйте перезапустить устройство...\n● Не получилось решить проблему? Напишите нам в Discord!
+OnlineHelp	Как все устроено?\n\n● После создания игры вы увидите код рядом с кнопкой начала игры.\n● Поделитесь кодом с друзьями для создания\nчастной комнаты.\n● Нажмите «Частная», если хотите сделать комнату открытой для поиска другими игроками.\n● Владелец может выгнать или заблокировать любого игрока, если доступен чат.\n● Остались вопросы? Напишите нам в Discord!
+EmergencyCount	СРОЧНЫХ СОБРАНИЙ, КОТОРЫЕ\n\n\n\nМОЖЕТ СОЗВАТЬ {0}:
+EmergencyNotReady	ТРЕБУЕТСЯ ПОДОЖДАТЬ\n\n\n\nДО СЛЕДУЮЩЕГО СОБРАНИЯ:
+EmergencyDuringCrisis	СРОЧНОЕ СОБРАНИЕ НЕЛЬЗЯ\nСОЗВАТЬ В КРИЗИС
+EmergencyRequested	ЗАПРОС НА СРОЧНОЕ СОБРАНИЕ\n\n\n\nОЖИДАНИЕ ВЛАДЕЛЬЦА
+AdPolicyTitle	Рекламная политика
+AdPolicyText	В Among Us после каждой игры запускается реклама AdMob. Это позволило\nсделать Among Us бесплатной. По умолчанию AdMob собирает данные\nдля персонализированной рекламы. При отключении ее подбора AdMob\nвсе еще будет использовать cookies, идентификатор устройства и примерные\nгеоданные. Мы не можем полностью убрать рекламу из Among Us, но вы\nможете отключить ее за небольшую плату (2 доллара США).\nПосле приобретения этой услуги в созданных вами играх реклама будет\nотключена и у других игроков! Если вы ранее отключали рекламу, откройте\nмагазин, чтобы восстановить покупку.
+Accept	Принять
+RemoveAds	Убрать рекламу
+PlainYes	Да
+PlainNo	Нет
+PrivacyPolicyTitle	Политика конфиденциальности
+PrivacyPolicyText	Обработкой персональных данных для Among Us занимается компания Innersloth. Прочитайте нашу [https://innersloth.com/privacy.php]Политику конфиденциальности[], чтобы узнать больше о том, как мы обеспечиваем конфиденциальность информации. Настройки персональных данных в Among Us находятся в разделе «Данные».
+ManageDataButton	Настройка сбора данных
+UnderstandButton	Я понимаю
+WaterPlants	Полить растения
+WeatherEta	Время: {0} с
+WeatherComplete	Завершено
+RunDiagnostics	Провести диагностику
+SettingShort	Близко
+SettingMedium	Средне
+SettingLong	Далеко
+SamplesPress	Нажмите
+SamplesAdding	Добавление реагента
+SamplesSelect	Выберите аномалию
+SamplesThanks	Спасибо!
+SamplesComplete	Опыт завершен
+AstDestroyed	Уничтожено: {0}
+TaskTestTitle	Мегатестировщик заданий
+BeginDiagnostics	Начать диагностику
+UserLeftGame	{0} покидает игру.
+GameStarting	Начало через {0}
+ChatRateLimit	Слишком быстро. Подождите {0} с.
+Tasks	Задания
+MedscanRequested	Сканирование запрошено
+MedscanWaitingFor	Ожидание: {0}
+MedscanCompleted	Завершено!
+MedscanCompleteIn	Завершение через {0}
+StatsTitle	Статистика
+StatsBodiesReported	Сообщений о трупах:\t
+StatsEmergenciesCalled	Созвано срочных собраний:\t
+StatsTasksCompleted	Выполнено заданий:\t
+StatsAllTasksCompleted	Все задания выполнены:\t
+StatsSabotagesFixed	Устранено саботажей:\t
+StatsImpostorKills	Убийств при игре за предателя:\t\t
+StatsTimesMurdered	Смертей:\t
+StatsTimesEjected	Выбрасываний:\t\t
+StatsCrewmateStreak	Игр за экипаж подряд:\t
+StatsGamesImpostor	Игр за предателя:\t
+StatsGamesCrewmate	Игр за экипаж:\t
+StatsGamesStarted	Игр начато:\t
+StatsGamesFinished	Игр завершено:\t
+StatsImpostorVoteWins	Побед голосованием (предатель):\t
+StatsImpostorKillsWins	Побед убийством (предатель):\t
+StatsImpostorSabotageWins	Побед саботажем (предатель):\t
+StatsCrewmateVoteWins	Побед голосованием (экипаж):\t
+StatsCrewmateTaskWins	Побед заданиями (экипаж):\t
+MonitorOxygen	Проверить дерево
+StoreArtifacts	Сложить артефакты
+FillCanisters	Наполнить баллоны
+InsertKeys	Вставить ключи
+ResetSeismic	Перезапустить сейсмостабилизаторы
+SeismicHoldToStop	Удерживайте для активации сейсмостабилизаторов
+SeismicNominal	Сейсмическая активность в норме
+ScanBoardingPass	Просканировать посадочный талон
+FixWeatherNode	Починить метеоузел
+OpenWaterways	Открыть водопровод
+ReplaceWaterJug	Заменить кулер
+RepairDrill	Починить бур
+AlignTelescope	Навести телескоп
+RecordTemperature	Записать температуру
+RebootWifi	Перезагрузить Wi-Fi
+WifiRebootRequired	Требуется перезагрузка
+WifiPleaseWait	Подождите
+WifiPleaseReturnIn	Вернитесь через {0}
+WifiPleasePowerOn	Включите питание
+WifiRebootComplete	Перезагрузка завершена
+Outside	Снаружи
+Dropship	Челнок
+Decontamination2	Дезинфекция
+Specimens	Образцы
+BoilerRoom	Котельная
+GameOverImpostorDead	В обычной игре экипаж бы победил, так как предатель мертв. В песочнице просто всех оживляют.
+GameOverImpostorKills	В обычной игре предатель\nбы победил, так как экипаж уже не может выиграть. В песочнице просто всех оживляют.
+GameOverTaskWin	В обычной игре экипаж бы победил, так как шкала заданий заполнена. В песочнице просто назначают новые задания.
+GameOverSabotage	В обычной игре предатель\nбы победил, так как саботаж\nдостиг критического уровня.\nВ песочнице саботаж просто\nустраняется.
+HowToPlayText2Switch	Можно играть онлайн в команде от 4 до 10 человек\n\nс членством Nintendo Switch Online или через локальный Wi-Fi!
+VentDirection	Направление в вентиляции
+VentMove	Движение по вентиляции
+MenuNavigate	Навигация
+NsoError	Не удаётся подключиться к сети.
+ErrorServerOverload	Серверы Among Us перегружены.\r\n\r\nПовторите попытку позже.
+ErrorIntentionalLeaving	Вы намеренно отключились от предыдущей игры и не можете присоединиться к новой еще {0} мин.
+ErrorFocusLost	Вы были отключены, так как открыли другое приложение после запуска Among Us.
+ErrorBanned	Вас заблокировали в комнате {0}.\r\n\r\nВ нее нельзя вернуться.
+ErrorKicked	Вас исключили из комнаты {0}.\r\n\r\nЕсли игра еще не началась, вы можете вернуться.
+ErrorBannedNoCode	Вас заблокировали в этой комнате.\r\n\r\nВ нее нельзя вернуться.
+ErrorKickedNoCode	Вас исключили из этой комнаты.\r\n\r\nЕсли игра еще не началась, вы можете вернуться.
+ErrorHacking	Вас заблокировали за взлом игры.\r\n\r\nБольше так не делайте.
+ErrorFullGame	В этой игре уже достаточно участников.\r\n\r\nСпросите владельца, можете ли вы присоединиться к следующему раунду.
+ErrorStartedGame	Эта игра уже началась.\r\n\r\nСпросите владельца, можете ли вы присоединиться к следующему раунду.
+ErrorNotFoundGame	Не удалось найти подходящую игру.
+ErrorInactivity	Игра остановлена со стороны сервера. Скорее всего, игроки были неактивны.
+ErrorGenericOnlineDisconnect	Соединение с сервером разорвано.\r\nЕсли это происходит регулярно, проверьте работу сети.\r\nПроблема также может быть на стороне сервера.
+ErrorGenericLocalDisconnect	Соединение с владельцем комнаты разорвано.\r\n\r\nЕсли это происходит регулярно, проверьте работу сети Wi-Fi.
+ErrorInvalidName	Сервер отклонил ник {0}
+ErrorUnknown	Соединение с сервером разорвано из-за неизвестной ошибки.
+ErrorIncorrectVersion	У вас установлена устаревшая версия игры.\r\n\r\nОбновите приложение, чтобы подключиться к другим игрокам.
+	
+ServerNA	Северная Америка
+ServerEU	Европа
+ServerAS	Азия
+ServerSA	Южная Америка
+LangEnglish	English
+LangFrench	Français
+LangItalian	Italiano
+LangGerman	Deutsch
+LangSpanish	Español
+LangSpanishLATAM	Español (Latinoamérica)
+LangBrazPort	Português (Brasil)
+LangPort	Português
+LangRussian	Русский
+LangJapanese	日本語
+LangKorean	한국어
+LangDutch	Nederlands
+LangFilipino	Bisaya
+PlayerName	Игрок
+MyTablet	Мой планшет
+Headquarters	Штаб
+DownloadTestEstTimeS	Расчетное время: {0} с
+DownloadTestEstTimeMS	Расчетное время: {0} м {1} с
+DownloadTestEstTimeHMS	Расчетное время: {0} ч {1} м {2} с
+DownloadTestEstTimeDHMS	Расчетное время: {0} д {1} ч {2} м {3} с
+DownloadComplete	Завершено
+GrabCoffee	СХОДИТЕ ЗА КОФЕ
+TakeBreak	ОТДОХНИТЕ
+DontNeedWait	ЖДАТЬ НЕ НАДО
+DoSomethingElse	ПРИМИТЕСЬ ПОКА ЗА ДРУГИЕ ДЕЛА
+NodeTB	Узел_TB
+NodeIRO	Узел_IRO
+NodeGI	Узел_GI
+NodePD	Узел_PD
+NodeCA	Узел_CA
+NodeMLG	Узел_MLG
+Vending	ОК
+OtherLanguage	Другой
+ImposterAmtAny	1-3
+	
+VitalsORGN	ОРНЖ
+VitalsBLUE	СИН
+VitalsRED	КРСН
+VitalsBRWN	КРЧ
+VitalsGRN	ЗЕЛ
+VitalsPINK	РОЗ
+VitalsWHTE	БЕЛ
+VitalsYLOW	ЖЛТ
+VitalsBLAK	ЧРН
+VitalsPURP	ФЛТ
+VitalsCYAN	ГОЛ
+VitalsLIME	ЛЙМ
+ColorOrange	ОРНЖ
+ColorBlue	СИН
+ColorRed	КРСН
+ColorBrown	КРЧН
+ColorGreen	ЗЕЛ
+ColorPink	РОЗ
+ColorWhite	БЕЛ
+ColorYellow	ЖЛТ
+ColorBlack	ЧРН
+ColorPurple	ФЛТ
+ColorCyan	ГОЛ
+ColorLime	ЛЙМ
+MedID	ID:
+MedC	ЦВЕТ:
+MedHT	РОСТ:
+MedBT	ГК:
+MedWT	ВЕС:
+MedETA	ВРЕМЯ: {0}
+MedHello	ПРИВЕТ!
+LobbySizeWarning	В Among Us можно играть вчетвером, но рекомендуется собрать команду из пяти и больше игроков.\n\nИгры вчетвером быстро заканчиваются, а побеждает в них часто предатель.
+Okay	Ясно
+OkayDontShow	Больше не показывать
+Nevermind	Закрыть
+CamEast	Восток
+CamCentral	Центр
+CamNortheast	Северо-восток
+CamSouth	Юг
+CamSouthwest	Юго-запад
+CamNorthwest	Северо-запад
+LoadingFailed	Ошибка загрузки:
+PetFailFetchData	Не удалось получить данные о питомце
+BadResult	ОШИБКА
+More	ПОВТОРИТЬ
+Processing	Обработка
+ExitGame	Выйти из игры
+WaitingForHost	Ожидание владельца
+LeftGameError	{0} покидает игру из-за ошибки.
+PlayerWasBannedBy	{1} блокирует игрока {0}
+PlayerWasKickedBy	{1} исключает игрока {0}
+Dummy	Манекен
+Bad	НЕВЕРНО
+Status	Статус: 
+Fine	В ПОРЯДКЕ
+OK	OK
+SecondsAbbv	{0} с
+PetTryOn	Подберите себе образ!
+DataPolicyWhat	Что мы собираем?
+	
+	
+	
+VaultRoom	Хранилище
+Cockpit	Кабина
+Armory	Арсенал
+Kitchen	Кухня
+ViewingDeck	Смотровая палуба
+HallOfPortraits	Портретная галерея
+Medical	Лазарет
+CargoBay	Грузовой отсек
+Ventilation	Вентиляция
+Showers	Душевые
+Engine	Двигатели
+Brig	Карцер
+MeetingRoom	Переговорная
+Records	Архив
+Lounge	Комната отдыха
+GapRoom	Пролет
+MainHall	Главный зал
+	
+PolishRuby	Отполировать рубин
+ResetBreakers	Восстановить пробки
+Decontaminate	Продезинфицировать
+MakeBurger	Сделать бургер
+UnlockSafe	Открыть сейф
+SortRecords	Разобрать записи
+PutAwayPistols	Убрать пистолеты
+PutAwayRifles	Убрать ружья
+FixShower	Починить душ
+CleanToilet	Помыть туалет
+DressMannequin	Одеть манекен
+PickUpTowels	Поднять полотенца
+RewindTapes	Перемотать кассеты
+StartFans	Запустить вентиляторы
+DevelopPhotos	Проявить фото
+GetBiggolSword	Добыть Biggol-меч
+StopCharles	Избежать столкновения
+	
+RevealCode	Узнать код
+DirtyHeader	ГРЯЗЬ
+AuthLeftOkay	
+AuthRightOkay	
+AuthLeftActive	
+AuthRightActive	
+AuthLeftNotActive	
+AuthRightNotActive	
