@@ -15,8 +15,7 @@ namespace BetterLanguages
         public ConfigEntry<string> LanguagesPath { get; private set; }
         public ConfigEntry<string> FallBackLanguage { get; private set; }
         public Harmony Harmony { get; } = new Harmony(Id);
-
-        public static ManualLogSource log;
+        public static ManualLogSource log { get; private set; }
         public override void Load()
         {
             log = base.Log;
